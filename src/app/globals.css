@@ -1,0 +1,175 @@
+/*
+ * Theme tokens — shadcn/ui vocabulary, per studio/UI-COMPONENTS.md.
+ * Values lifted from mockup/Main.dc.html. Violet accent, chosen 2026-08-28
+ * over indigo, rust and the rejected amber. See RULINGS.md.
+ *
+ * Single theme on purpose. The mockups are dark; there is no light variant to
+ * fall back to, so this does not read prefers-color-scheme.
+ */
+
+:root {
+  --background: #131316;
+  --foreground: #f0f0f3;
+  --card: #1a1a1e;
+  --muted: #232329;
+  --muted-foreground: #9d9daa;
+  --border: #2e2e34;
+  --input: #2e2e34;
+
+  --primary: #a98bf5;
+  --primary-foreground: #16161a;
+
+  /* Derived accent surfaces — the mockup sinks the accent toward the ground. */
+  --acc-bg: #252131;
+  --acc-border: #43395d;
+  --acc-muted: #6a5997;
+
+  --chart-2: #4bb0c4;
+  --radius: 8px;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+}
+
+/* --- shadcn control primitives, stock sizing ---------------------------- */
+
+.input {
+  height: 36px;
+  padding: 0 12px;
+  border-radius: 6px;
+  border: 1px solid var(--input);
+  background: var(--card);
+  color: var(--foreground);
+  font-size: 14px;
+  width: 100%;
+}
+
+.btn {
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--foreground);
+  font-size: 14px;
+  cursor: pointer;
+}
+.btn:hover {
+  background: var(--muted);
+}
+
+.btn-sm {
+  height: 32px;
+  padding: 0 10px;
+  font-size: 13px;
+}
+
+.card {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  height: 20px;
+  padding: 0 7px;
+  border-radius: 5px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--border);
+  color: var(--muted-foreground);
+  white-space: nowrap;
+}
+
+.badge-accent {
+  border-color: var(--acc-border);
+  background: var(--acc-bg);
+  color: var(--primary);
+}
+
+/* Estimated figures are marked. Printing an estimate as a fact is lying by
+   formatting — HANDOFF.md, "The interface". */
+.badge-est {
+  height: 16px;
+  padding: 0 5px;
+  font-size: 10px;
+}
+
+.ghost {
+  border: 1px dashed #46464f;
+  background: transparent;
+  color: #7d7d8a;
+}
+
+/* --- Leaflet, themed to sit under our pins ------------------------------ */
+
+.leaflet-container {
+  background: var(--muted);
+  font-family: var(--font-sans);
+}
+
+/* OSM tiles are light. Sink them so violet pins stay readable on top.
+   The basemap is a real tile layer — nobody hand-draws geography. */
+.leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.88) contrast(0.86)
+    saturate(0.55);
+}
+
+.leaflet-control-zoom a {
+  background: var(--card) !important;
+  color: var(--foreground) !important;
+  border-color: var(--border) !important;
+}
+
+.leaflet-control-attribution {
+  background: rgba(19, 19, 22, 0.8) !important;
+  color: var(--muted-foreground) !important;
+  font-size: 10px !important;
+}
+.leaflet-control-attribution a {
+  color: var(--muted-foreground) !important;
+}
+
+.mm-pin {
+  background: transparent;
+  border: none;
+}

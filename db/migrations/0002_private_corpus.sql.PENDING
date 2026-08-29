@@ -1,0 +1,26 @@
+-- NOT APPLIED. Waiting on one founder decision.
+--
+-- Expensive decision 2 (HANDOFF.md): is the crawled corpus SHARED across users,
+-- or PRIVATE to each search? Harpreet was asked 2026-08-28 and said not ready.
+--
+-- 0001_init.sql builds the SHARED shape. If the answer comes back PRIVATE,
+-- rename this file to 0002_private_corpus.sql and run it. That is the whole
+-- migration — which is exactly why it was safe not to block the schema on the
+-- answer.
+--
+-- What is NOT cheap and is not in this file: the RLS policies, and the pricing
+-- model private implies. Do not treat applying this as the end of the decision.
+
+alter table markets   add column tenant_id uuid;
+alter table companies add column tenant_id uuid;
+
+create index markets_tenant_idx   on markets (tenant_id);
+create index companies_tenant_idx on companies (tenant_id);
+
+-- markets.canonical_name is globally unique in the shared shape. Under private,
+-- two tenants may legitimately hold their own "AI-native roll-ups".
+alter table markets drop constraint markets_canonical_name_key;
+create unique index markets_tenant_name_key on markets (tenant_id, canonical_name);
+
+-- company_locations and company_source_records reach their tenant through
+-- companies.company_id — they do not need their own column.
