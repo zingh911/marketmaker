@@ -114,6 +114,7 @@ function rowToCompany(r: any): Company {
     classificationReasoning: r.classification_reasoning,
     classificationSourceText: r.classification_source_text,
     classificationPromptVersion: r.classification_prompt_version,
+    sector: r.sector,
     employeesEst: r.employees_est,
     revenueEst: r.revenue_est,
     yearFounded: r.year_founded,

@@ -74,6 +74,11 @@ create table companies (
   classification_prompt_version text,
 
   -- Signals. Nullable, accumulated over time. This is the layer that compounds.
+  -- `sector` is a documented deviation from the schema agreed 2026-08-28,
+  -- added 2026-08-29: market_id says which market a company is in, sector says
+  -- where inside it. Dataset one has 30+ sectors across 72 acquirers and the
+  -- crowding read depends on it. See HANDOFF.md.
+  sector         text,
   employees_est  text,          -- a band ("51-200"), not a number — see below
   revenue_est    text,
   year_founded   integer,

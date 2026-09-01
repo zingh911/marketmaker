@@ -71,6 +71,14 @@ export interface Company {
   classificationPromptVersion: string | null;
 
   // Signals — nullable, accumulated over time.
+  /**
+   * Sub-classification inside the market ("Roofing Services", "Freight
+   * Broker"). Added 2026-08-29 as a deviation from the agreed schema, with
+   * reason: dataset one carries 30+ distinct sectors across 72 acquirers, and
+   * "which sub-sector is crowded" is exactly the market read this product
+   * promises. market_id says which market; this says where inside it.
+   */
+  sector: string | null;
   employeesEst: string | null;
   revenueEst: string | null;
   yearFounded: number | null;

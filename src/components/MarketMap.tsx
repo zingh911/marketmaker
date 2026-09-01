@@ -25,6 +25,26 @@ interface Props {
 const US_CENTER: [number, number] = [39.5, -96];
 const US_ZOOM = 4;
 
+/** The floating company card covers this much of the right edge. */
+const CARD_GUTTER = 350;
+
+/**
+ * Soft-lock to North America.
+ *
+ * Soft, not hard: viscosity below 1 lets you drag past the edge and springs
+ * you back, rather than refusing the gesture. The dataset is a US/Canada
+ * slice, so letting someone drift into the mid-Atlantic wastes their time —
+ * but a hard wall is the kind of thing that feels broken when it fires, and
+ * one company in the list (Jutro Medical) turned out to be Polish, so the
+ * boundary should not be load-bearing.
+ */
+const NA_BOUNDS: [[number, number], [number, number]] = [
+  [5, -172],
+  [75, -48],
+];
+const NA_VISCOSITY = 0.6;
+const NA_MIN_ZOOM = 3;
+
 export default function MarketMap({
   points,
   selectedCompanyId,
@@ -33,6 +53,7 @@ export default function MarketMap({
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<LeafletMap | null>(null);
   const markersRef = useRef<Marker[]>([]);
+  const resizeObsRef = useRef<ResizeObserver | null>(null);
   const onSelectRef = useRef(onSelect);
   onSelectRef.current = onSelect;
 
@@ -48,7 +69,9 @@ export default function MarketMap({
         zoom: US_ZOOM,
         zoomControl: true,
         attributionControl: true,
-        worldCopyJump: true,
+        maxBounds: NA_BOUNDS,
+        maxBoundsViscosity: NA_VISCOSITY,
+        minZoom: NA_MIN_ZOOM,
       });
 
       L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -57,11 +80,20 @@ export default function MarketMap({
       }).addTo(map);
 
       mapRef.current = map;
+
+      const ro = new ResizeObserver(() => {
+        map.invalidateSize({ animate: false });
+      });
+      ro.observe(containerRef.current);
+      resizeObsRef.current = ro;
+
       draw();
     })();
 
     return () => {
       cancelled = true;
+      resizeObsRef.current?.disconnect();
+      resizeObsRef.current = null;
       mapRef.current?.remove();
       mapRef.current = null;
       markersRef.current = [];
@@ -119,8 +151,19 @@ export default function MarketMap({
     }
 
     if (points.length > 0) {
+      // The container is laid out by flexbox and Leaflet cached its size at
+      // creation. Without this the first fit measures the wrong box and pins
+      // land off-frame.
+      map.invalidateSize({ animate: false });
+
       const bounds = L.latLngBounds(points.map((p) => [p.lat, p.lng]));
-      map.fitBounds(bounds, { padding: [64, 64], maxZoom: 7 });
+      // Asymmetric on purpose: the company card floats over the right ~330px.
+      map.fitBounds(bounds, {
+        paddingTopLeft: [56, 56],
+        paddingBottomRight: [CARD_GUTTER, 56],
+        maxZoom: 7,
+        animate: false,
+      });
     }
   }
 

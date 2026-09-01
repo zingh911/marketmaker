@@ -61,10 +61,31 @@ export default function Workspace({
     [companies, selectedId],
   );
 
-  const placeable = useMemo(
-    () => new Set(points.map((p) => p.companyId)).size,
+  const placedIds = useMemo(
+    () => new Set(points.map((p) => p.companyId)),
     [points],
   );
+  const placeable = placedIds.size;
+
+  const ordered = useMemo(() => {
+    const mapped = companies.filter((c) => placedIds.has(c.id));
+    const rest = companies.filter((c) => !placedIds.has(c.id));
+    const byName = (a: CompanyWithLocations, b: CompanyWithLocations) =>
+      a.name.localeCompare(b.name);
+    return [...mapped.sort(byName), ...rest.sort(byName)];
+  }, [companies, placedIds]);
+
+  /** Which sub-sectors are crowded. The market read, computed from real rows. */
+  const sectors = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const c of companies) {
+      if (!c.sector) continue;
+      counts.set(c.sector, (counts.get(c.sector) ?? 0) + 1);
+    }
+    return [...counts.entries()]
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .slice(0, 6);
+  }, [companies]);
 
   return (
     <div
@@ -80,7 +101,9 @@ export default function Workspace({
       <div style={{ flex: 1, display: "flex", minHeight: 0 }}>
         <IndustryPanel
           marketName={marketName}
-          companies={companies}
+          companies={ordered}
+          placedIds={placedIds}
+          sectors={sectors}
           selectedId={selectedId}
           onSelect={setSelectedId}
           placeable={placeable}
@@ -194,6 +217,8 @@ function Header({
 function IndustryPanel({
   marketName,
   companies,
+  placedIds,
+  sectors,
   selectedId,
   onSelect,
   placeable,
@@ -201,6 +226,8 @@ function IndustryPanel({
 }: {
   marketName: string;
   companies: CompanyWithLocations[];
+  placedIds: Set<string>;
+  sectors: [string, number][];
   selectedId: string | null;
   onSelect: (id: string) => void;
   placeable: number;
@@ -274,6 +301,47 @@ function IndustryPanel({
         </div>
       )}
 
+      {sectors.length > 0 && (
+        <div
+          style={{
+            padding: 11,
+            borderRadius: 8,
+            border: "1px solid var(--acc-border)",
+            background: "var(--acc-bg)",
+            display: "flex",
+            flexDirection: "column",
+            gap: 7,
+          }}
+        >
+          <div className="label" style={{ color: "var(--primary)" }}>
+            Most crowded sectors
+          </div>
+          {sectors.map(([name, n]) => (
+            <div
+              key={name}
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                gap: 8,
+                fontSize: 12,
+              }}
+            >
+              <span>{name}</span>
+              <span className="mono" style={{ color: "var(--primary)" }}>
+                {n}
+              </span>
+            </div>
+          ))}
+          {/* Counted, not generated. No GENERATED tag on a real count. */}
+          <div
+            className="mono"
+            style={{ fontSize: 11, color: "var(--muted-foreground)" }}
+          >
+            Counted from {companies.length} rows
+          </div>
+        </div>
+      )}
+
       <div>
         <div className="label" style={{ marginBottom: 7 }}>
           Companies
@@ -302,16 +370,38 @@ function IndustryPanel({
                   gap: 3,
                 }}
               >
-                <span style={{ fontSize: 13, fontWeight: 500 }}>{c.name}</span>
+                <span
+                  style={{
+                    fontSize: 13,
+                    fontWeight: 500,
+                    display: "flex",
+                    justifyContent: "space-between",
+                    gap: 8,
+                  }}
+                >
+                  <span>{c.name}</span>
+                  {!placedIds.has(c.id) && (
+                    <span
+                      className="mono"
+                      style={{ fontSize: 10, color: "#6b6b78" }}
+                      title="No location on file, so this company is listed but not pinned."
+                    >
+                      no pin
+                    </span>
+                  )}
+                </span>
                 <span
                   className="mono"
                   style={{ fontSize: 11, color: "var(--muted-foreground)" }}
                 >
-                  {regions.length > 0
-                    ? `${regions.length} ${
-                        regions.length === 1 ? "state" : "states"
-                      } · ${regions.join(" ")}`
-                    : "no location on file"}
+                  {[
+                    c.sector,
+                    regions.length > 0
+                      ? `${regions.join(" ")}`
+                      : "no location on file",
+                  ]
+                    .filter(Boolean)
+                    .join(" · ")}
                 </span>
               </button>
             );
@@ -397,6 +487,7 @@ function CompanyCard({
         )}
       </div>
 
+      <Fact k="Sector" v={company.sector} />
       <Fact k="HQ" v={[company.city, company.region].filter(Boolean).join(", ")} />
       <Fact k="Year founded" v={company.yearFounded?.toString()} note="platform" />
       <Fact k="Sponsor" v={company.ownerName} />
@@ -472,18 +563,30 @@ function Fact({
   est?: boolean;
 }) {
   if (!v) return null;
+  // Real source values are not always tidy — a headcount can arrive as a
+  // paragraph explaining that two sources disagree. That IS the answer, so it
+  // wraps rather than being truncated into something that reads as certain.
+  const long = v.length > 28;
   return (
     <div
       style={{
         display: "flex",
+        flexDirection: long ? "column" : "row",
         justifyContent: "space-between",
-        alignItems: "center",
-        gap: 8,
+        alignItems: long ? "flex-start" : "center",
+        gap: long ? 3 : 8,
       }}
     >
       <span className="label">{k}</span>
-      <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
-        <span style={{ fontSize: 13 }}>{v}</span>
+      <span
+        style={{
+          display: "flex",
+          alignItems: long ? "flex-start" : "center",
+          gap: 5,
+          flexWrap: "wrap",
+        }}
+      >
+        <span style={{ fontSize: 13, lineHeight: 1.4 }}>{v}</span>
         {note && (
           <span className="badge badge-est" title="From the source record">
             {note}
