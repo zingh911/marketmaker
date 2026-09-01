@@ -1,0 +1,156 @@
+[
+  {
+    "company": "Strala",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "strala.ai homepage footer, fetched 2026-08-31: \"2261 Market Street STE 22819, San Francisco, CA 94114\""
+  },
+  {
+    "company": "Rollout",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "rollout.ai homepage footer, fetched 2026-08-31: listed as \"Company Head Office\" at \"156 2nd St Suite 327, San Francisco, CA 94105\", phone (415) 660-9391"
+  },
+  {
+    "company": "TitanMSP",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "PRNewswire press release, fetched 2026-08-31, dateline \"NEW YORK, Aug. 12, 2025 /PRNewswire/\" (\"Titan raises $74M led by General Catalyst...\"); corroborated by PitchBook profile titled \"Titan (New York) 2026 Company Profile\"",
+    "note": "titanmsp.ai's own homepage and /about page state no physical address at all (only contact@titanmsp.ai and partner@titanmsp.ai emails). Location inferred from a funding press release dateline plus a third-party aggregator, not the company's own site — hence moderate rather than high confidence."
+  },
+  {
+    "company": "Treeline",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "treeline.ai homepage footer, fetched 2026-08-31: \"292 Ivy St, San Francisco CA, 94102\""
+  },
+  {
+    "company": "DocUnlock",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "docunlock.com/about, fetched 2026-08-31: \"We are a passionate team of developers and shipping industry veterans headquartered in San Francisco, CA, led by repeat startup founders...\""
+  },
+  {
+    "company": "Guardiana",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": "USA",
+    "confidence": "low",
+    "source": "No company website exists (website field is null in batch2.json). Third-party AI roll-up directory ai-rollup.fyi/companies, fetched 2026-08-31, lists an entry: \"Guardiana — Geography: USA, Sector: Customs Broker, Funding: Seed, Website status: Stealth (no public URL listed)\" — no city given.",
+    "note": "Web search for \"Guardiana customs broker\" mostly surfaced an unrelated company called \"Guardian AI\" (New York, NY, per Crunchbase) — that is a DIFFERENT company (generic AI/security branding, no customs-broker connection found) and was NOT used as a source here to avoid a name-collision error. Also surfaced unrelated customs-AI startups (Amari AI, Caspian, iCustoms) that are not Guardiana. No city-level or company-website-level confirmation found; country-only from a low-detail directory."
+  },
+  {
+    "company": "Veloclear",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": "USA",
+    "confidence": "low",
+    "source": "veloclear.com returned HTTP 404 on fetch, 2026-08-31 (confirms batch note that the live site is down). Third-party directory ai-rollup.fyi/companies, fetched 2026-08-31, lists: \"Veloclear — Geography: USA, Sector: Customs Broker, Funding: Seed, Website: https://veloclear.com\" — no city given.",
+    "note": "Web search mostly surfaced an unrelated firm, \"Velox Clearing\" (a broker-dealer/clearing firm in Miami, FL or Anaheim, CA depending on source) — explicitly a DIFFERENT business (financial clearing, not customs brokerage) and was NOT used as a source, to avoid a name-collision error. No verifiable city-level location found for the actual Veloclear customs-broker company."
+  },
+  {
+    "company": "Fura",
+    "kind": "hq",
+    "city": "Cincinnati",
+    "region": "OH",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Web search of freight-industry press coverage, fetched 2026-08-31: FreightWaves/Yahoo Finance articles describe \"Fura, a rapidly growing digital freight brokerage located in Cincinnati, OH\"; fura.com's own homepage newsroom section mentions Fura was a \"Finalist for 2025 Cincy Inno Fire Awards\" (a Cincinnati Business Courier program), consistent with a Cincinnati base.",
+    "note": "fura.com's own homepage and /about page do not state a physical address (only an info@fura.com email and LinkedIn link) — city inferred from news coverage plus the Cincinnati-specific award mention on their own site. No exact street address found."
+  },
+  {
+    "company": "TerraFreight",
+    "kind": "hq",
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "LinkedIn company page (linkedin.com/company/terrafreight), fetched 2026-08-31: headquarters listed as \"Los Angeles, California 90403, US\"",
+    "note": "terrafreight.com's own homepage does not list an office address; a careers-related section on their own site instead says \"Join a small, fully remote team building a next-generation logistics platform,\" which is in tension with LinkedIn's HQ listing (LinkedIn's address may just be a formation/mailing address for an otherwise distributed team). Flagging this conflict rather than resolving it silently."
+  },
+  {
+    "company": "Xhipment",
+    "kind": "hq",
+    "city": "Bengaluru",
+    "region": null,
+    "country": "India",
+    "confidence": "high",
+    "source": "xhipment.com/about, fetched 2026-08-31: \"India Office: Level 3, 91Springboard Indiranagar, George Thangaiah Complex, 80 Feet Rd, Kalyan Nagar, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038\"; corroborated by LinkedIn (in.linkedin.com/company/xhipment), fetched 2026-08-31, which lists Xhipment's headquarters as Bengaluru, Karnataka with 11-50 employees."
+  },
+  {
+    "company": "Xhipment",
+    "kind": "site",
+    "city": "Lewes",
+    "region": "DE",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "xhipment.com/about, fetched 2026-08-31: \"US Office: 16192 Coastal HWY, Lewes, DE 19958\"",
+    "note": "This address format (a Coastal Hwy address in Lewes, DE) matches the pattern commonly used by Delaware registered-agent / mail-forwarding services for company formation, not necessarily a staffed office. The company's own site does label it a 'US Office' though, so recorded as a site rather than discarded — flagging the registered-agent risk explicitly. Bengaluru (see other row) is treated as the operational HQ per LinkedIn."
+  },
+  {
+    "company": "SKROL",
+    "kind": "hq",
+    "city": "Miami",
+    "region": "FL",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Web search of third-party aggregators, fetched 2026-08-31: CBInsights and PitchBook profiles describe SKROL as \"a US-focused B2B Industrial technology startup modernizing the global economy by helping retiring business owners sell their businesses at scale\" and headquartered in Miami, FL; related corporate-registry search surfaced \"SKROL CAPITAL, INC.\" at \"1101 Brickell Avenue South Tower, 8th Fl, Miami, FL 33131\".",
+    "note": "Could not fetch skrol.com directly — repeated attempts (3x) all failed with a \"Socket is closed\" error, suggesting the site blocks automated fetches; unable to confirm from the company's own pages. Confidence based on third-party aggregators only. Also note a same-named but unrelated 'Skrol Inc' (a contact-manager app based in Northern New Jersey) exists — ruled out because its description doesn't match the 'Multiple'-sector, business-brokerage description that matches SKROL Capital."
+  },
+  {
+    "company": "Kim",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Tracxn company profile for kim.cc, fetched 2026-08-31: \"Location: San Francisco, United States... a seed company based in San Francisco (United States), founded in 2023 by Sachin Jaiswal, Phani Yedavilli and Kaushik Barodiya\"; corroborated by Crunchbase listing.",
+    "note": "\"Kim\" is a generic name with high collision risk, but confirmed as the right company via matching business description: kim.cc's own site describes an AI-native customer-support/BPO platform (\"Sentinels\", \"$0.70/ticket\", 200+ Shopify brands, 4.8 CSAT), matching the sector \"Contact Center\" in our dataset. kim.cc's own footer only lists a Dover, DE address (see separate row) — could not find an explicit San Francisco statement on the company's own pages, so this HQ row relies on Tracxn/Crunchbase rather than the company's own site."
+  },
+  {
+    "company": "Kim",
+    "kind": "site",
+    "city": "Dover",
+    "region": "DE",
+    "country": "USA",
+    "confidence": "low",
+    "source": "kim.cc homepage and /about-us footer, fetched 2026-08-31: \"8 The Green # 23558 Dover, DE 19901, US\"",
+    "note": "This exact address (\"8 The Green,\" Dover, DE) is a well-known Delaware registered-agent / corporate-formation mail address used by large numbers of Delaware LLCs — very likely a legal/registration address rather than a real operating office. Recorded as-is since it's literally what the company's own site states, but flagged as low confidence for representing an actual physical presence."
+  },
+  {
+    "company": "OpenCall",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "opencall.ai homepage footer, fetched 2026-08-31: \"Created in San Francisco\" (©2026 OpenCall.ai); corroborated by PitchBook/Crunchbase listing an exact address \"1266 Harrison Street, San Francisco, CA 94103\" and Y Combinator company profile (W24 batch, opencall.ai)."
+  },
+  {
+    "company": "Ellis",
+    "kind": "hq",
+    "city": "Brooklyn",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "LinkedIn company page (linkedin.com/company/joinellis), fetched 2026-08-31, headquarters listed as \"Primary\" location: \"105 N 13th St, Suite 401, Brooklyn, New York 11249, US\"",
+    "note": "ellis.com's own homepage and /contact page do not list a physical address anywhere — only that legal services are delivered via two separate law-firm entities, \"Ellis Legal, P.C.\" (a California professional law corporation) and \"Ellis Legal LLC\" (an Arizona law firm); these read as state-bar-compliance entities for practicing law in those states, not necessarily physical office locations, so they were not used as location rows. \"Ellis\" is also a generic name (an unrelated firm \"Ellis Porter — The Immigration Attorneys\" appears in search results) — verified this is the correct company via matching branding (\"joinellis\", business immigration + technology platform) between ellis.com and the LinkedIn page."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "company": "Candid Health",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "joincandidhealth.com/candidhealth.com itself does not state an address anywhere (checked homepage, /contact redirect to /request-a-demo, /about — none list a location). Third-party aggregators (Built In SF, ZoomInfo, LeadIQ, Tracxn, PitchBook, checked 2026-08-31) consistently list HQ as San Francisco, CA (315 Montgomery St Fl 9), with Built In SF also noting additional offices in New York and Denver.",
+    "note": "Company's own site never states a location; relying on consistent third-party aggregator agreement. Additional NY and Denver offices mentioned by Built In but not independently confirmed, so not listed as separate rows."
+  },
+  {
+    "company": "R1 RCM",
+    "kind": "hq",
+    "city": "Murray",
+    "region": "UT",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "r1rcm.com returned HTTP 403 Forbidden on every page attempted (homepage, /about), so the company's own site could not be checked directly. Wikipedia (en.wikipedia.org/wiki/R1_RCM, checked 2026-08-31) infobox states Headquarters: Murray, Utah. Multiple aggregators (Craft.co, GlobalData, LeadIQ) give the address as 434 West Ascension Way, 6th Floor, Murray, UT 84123; other sources (Built In Chicago, Glassdoor, BBB) show a legacy/additional Chicago, IL office.",
+    "note": "Could not access r1rcm.com directly (403 Forbidden blocked all attempts). R1 RCM was historically Chicago-based (as Accretive Health) and still has a large Chicago presence per some sources, but current HQ per Wikipedia and most aggregators is Murray, UT."
+  },
+  {
+    "company": "R1 RCM",
+    "kind": "site",
+    "city": "Chicago",
+    "region": "IL",
+    "country": "USA",
+    "confidence": "low",
+    "source": "Built In Chicago (builtinchicago.org/company/r1-rcm) and Glassdoor list a Chicago, IL office; BBB profile also lists Chicago, IL. Checked 2026-08-31.",
+    "note": "Could not confirm on r1rcm.com (site blocked all fetch attempts with 403). Listed as an additional site given multiple independent aggregator mentions, but not verified against the company's own site."
+  },
+  {
+    "company": "Shield (Technology Partners)",
+    "kind": "hq",
+    "city": "Tampa",
+    "region": "FL",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "shieldtp.com homepage, /about, and /contact pages loaded but none displayed a physical address in the fetched content. Crunchbase, PitchBook, and ZoomInfo (checked 2026-08-31) consistently list Shield Technology Partners as headquartered in Tampa, FL; one source specifies 'The Reserve of Old Tampa Bay, Florida.'",
+    "note": "Own site's /contact and /about pages did not render address text in fetches (site may load address via JS not captured by the fetch tool). Relying on consistent third-party aggregator agreement (Crunchbase + PitchBook + ZoomInfo)."
+  },
+  {
+    "company": "Particle Health",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "particlehealth.com homepage, /contact-us, and /about-us pages were checked directly and contain no address text anywhere, including the footer (only copyright '© 2026 Particle Health, Inc.' and email addresses). Built In NYC (builtinnyc.com/company/particle-health/offices) and Craft.co (checked 2026-08-31) list HQ as New York, NY, 36 W 20th St, Floor 9.",
+    "note": "Company's own site never states a physical address on any page checked. Relying on Built In NYC / Craft.co aggregator agreement."
+  },
+  {
+    "company": "Carr, Riggs & Ingram",
+    "kind": "hq",
+    "city": "Enterprise",
+    "region": "AL",
+    "country": "USA",
+    "confidence": "high",
+    "source": "criadv.com/location/corporate-office/ (checked 2026-08-31) explicitly lists the 'Corporate Office' address as 100 N. Main St, Enterprise, AL 36330.",
+    "note": "CRI is a large accounting firm with 60+ office locations across multiple states (per criadv.com homepage); only the stated Corporate Office is recorded here as HQ, not every branch location."
+  },
+  {
+    "company": "Crescendo",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "crescendo.ai homepage and /contact page (checked 2026-08-31) list a 'Registered Address' of 201 Spear Street, Suite 1100, San Francisco, CA 94105 and an 'Office Address' of 600 California St, San Francisco, CA 94108.",
+    "note": "Site lists two San Francisco addresses (a registered/legal address and a separate office address); recording the office address as the operational HQ location, both are in the same city/state so this does not change the answer."
+  },
+  {
+    "company": "Halyard Collective",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "halyardcollective.com homepage (checked 2026-08-31) displays 'San Francisco, CA' in the footer/contact section alongside the contact email hello@halyardcollective.com.",
+    "note": "No street address given on the site, only city/state."
+  },
+  {
+    "company": "Lightswitch",
+    "kind": "hq",
+    "city": "San Jose",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "low",
+    "source": "lightswitchpm.com returned HTTP 403 Forbidden on all direct fetch attempts (homepage and other pages), so the company's own site could not be checked. Web search results reference an address of 109 Manly Ter Unit 7, San Jose, CA 95136 (via aggregator listings), checked 2026-08-31.",
+    "note": "Could not access lightswitchpm.com directly (403 Forbidden). The San Jose address comes from a single aggregator search snippet, not independently cross-verified against multiple sources, and not confirmed on the company's own site — treating as low confidence. There is also a same-named but unrelated 'LightSwitch Property Solutions, LLC' on Facebook; care was taken to reference results tied to lightswitchpm.com specifically, but the collision risk should be noted."
+  },
+  {
+    "company": "2X",
+    "kind": "hq",
+    "city": "Malvern",
+    "region": "PA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "2x.com/contact/ (checked 2026-08-31) states the address: '400 Lapp Rd Malvern, Pennsylvania 19355 United States.' The same page also lists additional offices in Malaysia and the Philippines.",
+    "note": null
+  },
+  {
+    "company": "2X",
+    "kind": "site",
+    "city": null,
+    "region": null,
+    "country": "Malaysia",
+    "confidence": "moderate",
+    "source": "2x.com/contact/ (checked 2026-08-31) lists an additional office location in Malaysia (no city specified in the fetched content).",
+    "note": "City-level detail for the Malaysia office was not captured in the fetch; would need a direct page revisit to get the exact city."
+  },
+  {
+    "company": "2X",
+    "kind": "site",
+    "city": null,
+    "region": null,
+    "country": "Philippines",
+    "confidence": "moderate",
+    "source": "2x.com/contact/ (checked 2026-08-31) lists an additional office location in the Philippines (no city specified in the fetched content).",
+    "note": "City-level detail for the Philippines office was not captured in the fetch; would need a direct page revisit to get the exact city."
+  },
+  {
+    "company": "Savvy Wealth",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "high",
+    "source": "savvywealth.com/about (checked 2026-08-31) states the office address as '111 W 33rd Street, New York, New York 10001.'",
+    "note": null
+  },
+  {
+    "company": "Long Lake Management Holdings",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "llmh.com homepage and /contact and /careers pages were checked; none state a physical address or city (homepage only shows a mission statement: 'Long Lake applies frontier technology in partnership with leading management teams and founders across the American services sector'). Third-party sources conflict: Dun & Bradstreet lists Bloomfield Hills, MI; other aggregator snippets suggest New York, NY; a PR Newswire-style press release about the Amex GBT acquisition (via Yahoo Finance mirror, checked 2026-08-31) carries a 'NEW YORK, May 04, 2026' dateline.",
+    "note": "Genuinely unresolved — company's own site states no location anywhere, and third-party sources conflict (Bloomfield Hills MI vs New York NY). The NEW YORK press-release dateline is the closest thing to a signal but datelines often reflect the PR distributor/law firm rather than the company's own office, so recording as null per the 'null beats a guess' rule rather than picking one of the conflicting candidates."
+  },
+  {
+    "company": "Loop",
+    "kind": "hq",
+    "city": "Chicago",
+    "region": "IL",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "loop.com homepage, /contact-us, and /about pages were checked directly (confirmed this is the freight-audit/parcel-audit/carrier-payment company, per on-page text 'Automate 99% of freight and parcel audits' and coverage of parcel, LTL, FTL, ocean, and air shipping — not Loop Returns or a fintech Loop) but none of the fetched pages displayed a physical address. CBInsights and other aggregators (checked 2026-08-31) list HQ as Chicago, IL, with an address of 222 North LaSalle, Chicago.",
+    "note": "Confirmed via loop.com's own content that this is the correct freight-audit/payment company (not the name-colliding delivery-returns 'Loop Returns' or a fintech 'Loop'), but the Chicago address itself comes from aggregators, not from loop.com directly, so confidence is moderate rather than high."
+  },
+  {
+    "company": "Pando",
+    "kind": "hq",
+    "city": "Chicago",
+    "region": null,
+    "country": "USA",
+    "confidence": "high",
+    "source": "pando.ai/contact-us (checked 2026-08-31) lists 'Global Headquarters: Chicago, United States.'",
+    "note": "Confirmed via site content that this is the freight audit/payment logistics platform (parent company listed in footer as 'Quaking Aspen Pvt Ltd'), not an unrelated Pando investing app. No state/street-level detail given on the page for the Chicago office."
+  },
+  {
+    "company": "Pando",
+    "kind": "site",
+    "city": "Chennai",
+    "region": null,
+    "country": "India",
+    "confidence": "high",
+    "source": "pando.ai/contact-us (checked 2026-08-31) lists 'Asia Pacific Headquarters: Chennai, India.'",
+    "note": null
+  },
+  {
+    "company": "Eudia",
+    "kind": "hq",
+    "city": "Palo Alto",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "eudia.com homepage and /contact page were checked directly but neither displayed a physical address in the fetched content. Wikipedia (en.wikipedia.org/wiki/Eudia_(company)), checked 2026-08-31, infobox states 'Headquarters: Palo Alto, California.'",
+    "note": "Company's own site did not surface an address on the pages fetched; relying on Wikipedia's infobox, which is generally sourced from company/press materials for this kind of entry."
+  }
+]

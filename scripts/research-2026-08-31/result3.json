@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Zero RFI",
+    "kind": "site",
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://zero-rfi.com footer, \"Locations: Atlanta / San Francisco / Boston / New York / Denver\" (checked 2026-08-31)",
+    "note": "Site lists 5 locations in the footer with no single location designated as HQ, so no row is marked kind:hq. Footer phone number is (650) area code (Bay Area) but that is not stated as an office location, so not used as a signal."
+  },
+  {
+    "company": "Zero RFI",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://zero-rfi.com footer, \"Locations: Atlanta / San Francisco / Boston / New York / Denver\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Zero RFI",
+    "kind": "site",
+    "city": "Boston",
+    "region": "MA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://zero-rfi.com footer, \"Locations: Atlanta / San Francisco / Boston / New York / Denver\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Zero RFI",
+    "kind": "site",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://zero-rfi.com footer, \"Locations: Atlanta / San Francisco / Boston / New York / Denver\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Zero RFI",
+    "kind": "site",
+    "city": "Denver",
+    "region": "CO",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://zero-rfi.com footer, \"Locations: Atlanta / San Francisco / Boston / New York / Denver\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Aera",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "No source found. batch3.json lists website as null for this company. Web search for \"Aera AI contact center roll-up\" (2026-08-31) only surfaced the AI Roll-up Nexus directory (ai-rollup.fyi/companies), which tags Aera generically as \"USA-based, pre-seed\" with no city/state and no cited primary source, plus an unrelated company \"Aera Technology\" (Mountain View, CA, decision-intelligence/supply-chain software) that is a name collision, not this contact-center roll-up.",
+    "note": "No company website exists to check. Deliberately did not use the unrelated 'Aera Technology' (Mountain View) result to avoid a name-collision error. Left null per null-beats-a-guess."
+  },
+  {
+    "company": "Antidote",
+    "kind": "site",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://antidote-transform.com homepage DOM, element class=\"scene-location\": \"New York / San Francisco — 2026\" (checked 2026-08-31). Text is rendered via JS/canvas and not always captured by simple text extraction; confirmed via direct HTML inspection.",
+    "note": "Site names both cities together with no hierarchy, so both are recorded as kind:site rather than guessing which is HQ."
+  },
+  {
+    "company": "Antidote",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://antidote-transform.com homepage DOM, element class=\"scene-location\": \"New York / San Francisco — 2026\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Birdi",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "https://birdi.ai (checked 2026-08-31) — page content is limited to \"AI Systems for Modern Operations / From Strategy to Build to Adoption\" and an email address (info@birdi.ai); no location anywhere on the site. Web search for \"Birdi.ai medical billing RCM AI startup headquarters\" and \"Birdi AI medical revenue cycle management headquartered\" returned only unrelated same-named companies (Birdie AI in Palo Alto, Birdi Systems in LA, BirdiRx in Michigan, a Miami online pharmacy called Birdi) — none confirmed as this Medical RCM AI-native roll-up.",
+    "note": "Multiple name collisions with similarly-named but unrelated companies; none could be confirmed as this Birdi, so left null rather than guess."
+  },
+  {
+    "company": "ImmCore",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "https://immcore.ai (checked 2026-08-31) — full homepage text reviewed (mission, founders Vladimir Gusev and Alex Dovzhikov, contact email vladimir@immcore.ai) with no address or city/state mentioned anywhere. Web search for \"ImmCore immigration law AI headquarters\" only surfaced an unrelated, similarly-named traditional law firm \"ImmiCore Law\" (San Jose, CA) which is a different company.",
+    "note": "Do not confuse with 'ImmiCore Law' (San Jose) — different company, name collision. No location stated by ImmCore itself."
+  },
+  {
+    "company": "Clarence",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "Attempted https://www.joinclarence.com and https://joinclarence.com on 2026-08-31 — both failed to resolve (DNS error / navigation denied) via WebFetch and browser. Web search for the company (\"Join Clarence AI - Insurance Agency Acquisition\", joinclarence.com) found only a marketing description (\"fast, simple, fair valuations, offers in 7 days\") with no location, and surfaced several unrelated same-named products (tryclarence.com, clarenceai.com, clarencelegal.ai) that are name collisions, not this insurance-agency roll-up.",
+    "note": "Site was unreachable from this session at time of check; should be retried. Do not confuse with tryclarence.com / clarenceai.com / clarencelegal.ai — different products with similar names."
+  },
+  {
+    "company": "Ashler",
+    "kind": "site",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://ashler.com homepage, \"Who We Are\" section: \"Support the future of American infrastructure. New York and San Francisco. We build in person - two offices, one unified team.\" (checked 2026-08-31)",
+    "note": "A secondary source (Substack newsletter 'Stealth Startup Spy #86') states Ashler currently operates out of a WeWork in New York and plans to 'graduate' to its own NYC headquarters alongside a June 2026 public launch and new SF office — consistent with NY being the more permanent base, but this is a secondary/unofficial source, not the company's own statement of an official HQ, so kind is left as 'site' for both cities rather than asserting one as HQ."
+  },
+  {
+    "company": "Ashler",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://ashler.com homepage, \"Who We Are\" section: \"New York and San Francisco. We build in person - two offices, one unified team.\" (checked 2026-08-31)",
+    "note": null
+  },
+  {
+    "company": "Agent Astra",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://agentastra.ai footer (verified via page HTML): \"We are a tech company with offices in USA.\" (checked 2026-08-31)",
+    "note": "Country-only statement; no city or state given anywhere on the site."
+  },
+  {
+    "company": "Border Logic",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://border-logic.com Contact section: \"Location: United States\" (checked 2026-08-31)",
+    "note": "Country-only statement, explicitly labeled 'Location' on the site. Contact phone number has a 267 area code (Philadelphia, PA) but this is not stated as the office location, so not used to fill in city/region."
+  },
+  {
+    "company": "Bruges",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "https://bruges.ai (checked 2026-08-31) — page is a \"Launching Soon\" placeholder with a contact form only, no location info. Web search for \"Bruges AI customs broker roll-up\" surfaced only the AI Roll-up Nexus directory (ai-rollup.fyi), which generically tags it \"USA-based, pre-seed\" with no city/state or cited source.",
+    "note": "IMPORTANT: 'Bruges' is also a city in Belgium — explicitly checked and found no evidence the company is located there or anywhere else. Left null rather than let the company name leak into the location field."
+  },
+  {
+    "company": "Sedona",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "https://sedonahq.com (checked 2026-08-31) — full homepage text reviewed (product pitch about logistics/brokerage automation), no address or location mentioned. Web search for \"Sedona AI freight broker roll-up headquarters\" surfaced only the AI Roll-up Nexus directory (ai-rollup.fyi), which generically tags it \"USA-based, pre-seed\" with no city/state or cited source.",
+    "note": "IMPORTANT: 'Sedona' is also a city in Arizona — explicitly checked and found no evidence the company is located there or anywhere else. Left null rather than let the company name leak into the location field."
+  },
+  {
+    "company": "Starshunt",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "low",
+    "source": "Company's own site https://starshunt.ai (checked 2026-08-31) has no location info anywhere (only candidate/job location examples like \"Berlin\" and \"Austin\", which are sample data, not the company's own address). Third-party aggregator SignalHire (https://www.signalhire.com/companies/starshunt-ai) lists \"415 Mission St, San Francisco, California, 94105, US\" as of 2026-08-31.",
+    "note": "Not confirmed on the company's own site. 415 Mission St (Salesforce Tower) is a well-known coworking/virtual-office address used by many startups, so this could be a registered-agent or mailing address rather than a real office — treat with caution. Other aggregators (Dealroom, PitchBook) were blocked (403) and could not be cross-checked; a separate search snippet also mentioned 'Middletown, DE' which is a typical Delaware incorporation address, not a real office, so it was not used."
+  },
+  {
+    "company": "Grwnd",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "https://grwnd.ai redirects to https://gaugeindustrial.com, whose footer states: \"44 Montgomery St, San Francisco, CA 94104\" plus \"(310) 529-6610\" (checked 2026-08-31)",
+    "note": "batch3.json flags this as 'likely rebrand' — grwnd.ai now redirects entirely to gaugeindustrial.com, and Gauge Industrial Group's described business (AI roll-up acquiring industrial/environmental compliance consulting firms) matches Grwnd's listed sector 'ESA Consulting' closely, so the address is attributed to Grwnd with moderate (not high) confidence given the rebrand is inferred from the redirect rather than an explicit statement equating the two names."
+  }
+]

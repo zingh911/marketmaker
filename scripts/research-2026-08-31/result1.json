@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Jutro Medical",
+    "kind": "hq",
+    "city": "Warsaw",
+    "region": null,
+    "country": "Poland",
+    "confidence": "high",
+    "source": "https://jutromedical.com (footer, fetched 2026-08-31): \"Jutro Medical Sp. z o.o. Powązkowska 44 01-797 Warszawa\" — company's own registered legal entity address in Warsaw.",
+    "note": "Confirms prior correction from USA to Poland. Warsaw is the stated legal/registered address; the company also operates a 14-clinic network across 10 Polish cities (Warsaw, Suchy Las, Wrocław, Kraków, etc.), so Warsaw rows below."
+  },
+  {
+    "company": "Jutro Medical",
+    "kind": "site",
+    "city": "Wrocław",
+    "region": null,
+    "country": "Poland",
+    "confidence": "high",
+    "source": "https://jutromedical.com (clinic listing, fetched 2026-08-31): clinic address \"Pułaskiego 42G\" listed under Wrocław.",
+    "note": "One of 14 clinics across 10 Polish cities listed on the homepage; representative additional site."
+  },
+  {
+    "company": "Jutro Medical",
+    "kind": "site",
+    "city": "Kraków",
+    "region": null,
+    "country": "Poland",
+    "confidence": "high",
+    "source": "https://jutromedical.com (clinic listing, fetched 2026-08-31): clinic address \"Czyżówka 14\" listed under Kraków.",
+    "note": "One of 14 clinics across 10 Polish cities listed on the homepage; representative additional site."
+  },
+  {
+    "company": "Alix",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Tracxn company profile for Alix (via web search, accessed 2026-08-31) states Alix is \"headquartered in New York City\"; corroborated by a July 21, 2025 BusinessWire Series A announcement whose text describes the company using new capital to \"open a San Francisco office\" (implying SF is a new/secondary office, not HQ), even though the press release itself carried a San Francisco dateline.",
+    "note": "meetalix.com's own About/Contact pages returned 404 and the fetchable homepage/footer stated no address (only \"Trusted in all 50 states\"), so this is not confirmed on the company's own site. Signal is mixed: Businesswire release dateline = San Francisco, but release text + Tracxn = NYC HQ with SF as a planned new office. Recorded NYC as the higher-confidence read; see companion San Francisco \"site\" row for the conflicting signal."
+  },
+  {
+    "company": "Alix",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "low",
+    "source": "BusinessWire press release \"Alix Secures $20M Series A to Transform Estate Settlement\" (July 21, 2025, accessed via web search 2026-08-31) carries a San Francisco dateline and states the company plans to \"open a San Francisco office to tap into the region's technology talent.\"",
+    "note": "Ambiguous whether SF is already an office or only planned; not found stated on Alix's own website."
+  },
+  {
+    "company": "Ceedar",
+    "kind": "hq",
+    "city": "Victoria",
+    "region": "BC",
+    "country": "Canada",
+    "confidence": "moderate",
+    "source": "BCTechnology/T-Net News article (accessed via web search 2026-08-31), headline: \"Victoria-based Ceedar Raises $280,000 in Pre-Seed Financing From Metalab Ventures and Customers.\"",
+    "note": "ceedar.ai itself (homepage fetched 2026-08-31) has no About/Contact page and only states \"Available in Canada today. Join US waitlist here\" plus a contact email (hello@ceedar.ai) — no address. Victoria, BC is corroborated by a third-party funding news article, not the company's own site, hence moderate rather than high confidence."
+  },
+  {
+    "company": "Alloy River",
+    "kind": "site",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://alloyriver.com (fetched 2026-08-31), footer \"Locations\" section and About page text: \"We are a team across San Francisco, Toronto, and Montreal.\"",
+    "note": "Verified this is the fractional-CFO firm (alloyriver.com), not the unrelated Tennessee foundry that shows up in generic keyword searches. Site lists three cities as a flat 'Locations' list with no single city marked as HQ, so all three are recorded as 'site' rows rather than designating one as 'hq' without evidence."
+  },
+  {
+    "company": "Alloy River",
+    "kind": "site",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "confidence": "high",
+    "source": "https://alloyriver.com (fetched 2026-08-31), footer \"Locations\" section: \"San Francisco, Toronto, Montreal\"; also a job listing on the site references a \"Toronto Office (Liberty Village)\".",
+    "note": "Same site as above; Toronto has the most specific sub-location detail (Liberty Village) of the three, which may indicate it's the most substantive office, but the site does not explicitly label any one city as headquarters."
+  },
+  {
+    "company": "Alloy River",
+    "kind": "site",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "confidence": "high",
+    "source": "https://alloyriver.com (fetched 2026-08-31), footer \"Locations\" section: \"San Francisco, Toronto, Montreal\".",
+    "note": "Same site as above; no HQ explicitly designated among the three."
+  },
+  {
+    "company": "Overdrive Health",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Y Combinator company page for Overdrive Health (ycombinator.com/companies/overdrive-health, fetched 2026-08-31): \"Location: New York City, NY\".",
+    "note": "overdrive.health's own homepage, /about, and /contact pages (fetched 2026-08-31) contained no address or 'headquartered' text at all — only product/feature copy and a Cal.com booking link. YC's own company directory listing (self-reported by the company to YC) is the best available source, hence moderate rather than high confidence since it isn't the company's own site."
+  },
+  {
+    "company": "Bridge Defense",
+    "kind": "hq",
+    "city": "Washington",
+    "region": "DC",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "PRNewswire release \"Bridge Defense Announces Strategic Investment in Federated IT\" (Nov. 22, 2024, fetched 2026-08-31): dateline \"WASHINGTON, Nov. 22, 2024 /PRNewswire/\"; a web search also surfaced a specific address (1200 G St NW Ste 800, Washington, DC 20005) from ZoomInfo/Bloomberg-type listings.",
+    "note": "bridge-defense.com itself returned HTTP 403 Forbidden on every page fetched (homepage, /about, /contact), so this could not be confirmed on the company's own site despite Google indexing an /about and /contact page for it. One search summary also described the company as \"headquartered in the Northeast, with a growing presence in Washington, D.C.\" — a conflicting signal I could not resolve; Washington, DC is used here as the best-corroborated reading (press release dateline + registered address)."
+  },
+  {
+    "company": "Modus",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "CPA Practice Advisor article on Modus's $85M raise (April 7, 2026, fetched 2026-08-31) refers to Modus as \"the New York City-based company.\"",
+    "note": "Confirmed this is the audit-roll-up Modus (legal entity Modus Audit, Inc.; site modusalliance.com and modusaudit.com both resolve to the same company, raised $85M from Lightspeed) and not one of the many unrelated 'Modus' companies (ModusLink, Modus Create, Modus Group, etc.) found in generic searches. However, modusalliance.com's own homepage and /about page (fetched 2026-08-31) contained no address or location text whatsoever — only mission/team/investor content — so NYC is sourced from third-party press coverage, not the company's own site."
+  },
+  {
+    "company": "Gain",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "No reliable source found as of 2026-08-31.",
+    "note": "High name-collision risk, as flagged in the task. The AI Roll-up Nexus directory (ai-rollup.fyi/companies) lists a 'Gain' accounting roll-up at website joingain.co, but that domain does not resolve (DNS lookup failure via WebFetch and confirmed by web search showing no live content). Other companies named 'Gain' found in search (Gain.pro — Amsterdam M&A data platform; Gain Servicing — legal AI; Gain Consulting LLC — logistics, Greenwood MO; Gain AI — crypto) are all clearly different businesses, not an accounting-firm roll-up. Could not confidently identify or reach the correct company's own website, so leaving location null rather than guessing."
+  },
+  {
+    "company": "Mandrel",
+    "kind": "hq",
+    "city": null,
+    "region": null,
+    "country": null,
+    "confidence": "low",
+    "source": "ai-rollup.fyi/companies directory (fetched 2026-08-31) lists 'Mandrel' under sector Accounting with website mandrel.tech, which redirects to mandrel.inc. mandrel.inc's own homepage (fetched 2026-08-31) describes the company as \"Mandrel: AI-native ERP for consumer brands\" — tagline \"Turn inventory into intelligence\" — an ERP/inventory-financials platform for physical-goods brands, not an accounting-firm roll-up. A web search additionally described this same mandrel.inc as founded by ex-Desktop Metal operator Arjun Aggarwal, pre-seed backed by Boston-based Asymmetric Ventures/Lux Capital/Construct Capital, with the team \"currently remote and building in the Boston area.\"",
+    "note": "Likely name/category collision: the mandrel.inc site found does not describe itself as an accounting-firm roll-up (it's an ERP SaaS company), so this may not be the same 'Mandrel' the task intends, even though it's the only 'Mandrel' the roll-up directory points to. Boston is a real signal for mandrel.inc specifically, but given the mismatch in business description I'm not confident enough to report it as the answer — leaving null per the null-beats-a-guess rule, flagging Boston, MA as an unverified lead for a human to check."
+  },
+  {
+    "company": "Numica",
+    "kind": "hq",
+    "city": "Dover",
+    "region": "DE",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "https://numica.com (footer, fetched 2026-08-31): \"1111B South Governors Avenue, STE 29621, Dover, DE 19904, USA\" under a 'Get in touch' section. Corroborated by a May 13, 2026 press release (via natlawreview.com/Dealroom.co, accessed via web search 2026-08-31) announcing the launch of 'Numica Ledger' with a Dover, DE dateline.",
+    "note": "This address has the hallmarks of a Delaware registered-agent/mailing address (common for Delaware C-corps) rather than a real operating office, and the site never uses 'headquartered' or 'based in' language — it's simply the 'Get in touch' address, but it is corroborated by an independent press release dateline, hence moderate confidence. A generic web search initially returned confused results mixing this company up with the unrelated 'Numeric' (numeric.io, SF/NY/London) — that data was discarded as a likely mismatch."
+  },
+  {
+    "company": "Pillar",
+    "kind": "hq",
+    "city": "New York",
+    "region": "NY",
+    "country": "USA",
+    "confidence": "low",
+    "source": "ai-rollup.fyi/companies directory (fetched 2026-08-31) lists 'Pillar' under Accounting with website pillar-advisors.com, whose homepage (fetched 2026-08-31) confirms it offers \"Bookkeeping | Tax | CFO & Controllership | Advisory Solutions.\" TheOrg.com listing for 'Pillar Advisors' (accessed via web search 2026-08-31) states \"Pillar Advisors' headquarters in New York, United States.\"",
+    "note": "Extremely high name-collision risk as flagged in the task — web searches turned up at least half a dozen distinct 'Pillar' accounting/advisory businesses (Pillar Accounting & Technology in Jacksonville, FL; Pillar Accounting/pillaracct.com; Pillar Accounting + Technology; PILLAR3 LLC; Pillar Business Solutions in Iowa/Illinois; Pillar Financial Advisors in Waltham, MA). pillar-advisors.com itself never states its own address on its homepage or /about or /contact pages (the latter two both 404'd), and the only phone number found (814-822-0109) has a Pennsylvania area code, conflicting with TheOrg's NYC claim. Given the unresolved NY-vs-PA conflict and the crowded namespace, this should be treated as an unverified lead, not a confirmed HQ."
+  },
+  {
+    "company": "Equal Parts",
+    "kind": "hq",
+    "city": "Austin",
+    "region": "TX",
+    "country": "USA",
+    "confidence": "high",
+    "source": "agency.equalparts.ai/contact/austin-tx-corporate-office/ (page title \"Austin, TX Insurance - Equal Parts Insurance\"; content per web search accessed 2026-08-31): \"Equal Parts Insurance's corporate headquarters is located at 1717 West 6th Street Suite #420, Austin, TX 78703\", phone 512-559-4266 — matching the phone number also shown in the footer of equalparts.ai itself.",
+    "note": "The main equalparts.ai marketing site (fetched 2026-08-31) does not state an address directly, but its footer phone number (512-559-4266) matches the one on the agency subdomain's dedicated 'Austin, TX corporate office' contact page, confirming they're the same entity. Direct WebFetch of the agency subdomain page failed on a TLS certificate mismatch, so this is sourced via a search-engine cache of that page rather than a direct fetch."
+  },
+  {
+    "company": "Corgi",
+    "kind": "hq",
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "USA",
+    "confidence": "moderate",
+    "source": "Web search summary (accessed 2026-08-31) citing Corgi's LinkedIn page: \"Corgi ... has its headquarters in San Francisco, California ... operates a 24/7 café, Corgi Cafe, on the ground floor of its Financial District headquarters.\" Corroborated by corgicafe.com (fetched 2026-08-31), which lists a San Francisco Financial District location: \"9 Claude Ln, San Francisco, CA 94108\" (neighborhood tag \"FiDi\").",
+    "note": "corgi.insure's own homepage and /about page (fetched 2026-08-31) stated no address or 'headquartered' text at all. Corgi Cafe (the company's affiliated café brand) also lists locations in Atlanta, London, New York, and a second SF spot — these are cafe locations, not confirmed insurance-company offices, so they are NOT included as separate 'site' rows since they weren't explicitly tied to Corgi (the insurance company) itself."
+  },
+  {
+    "company": "Ravin",
+    "kind": "hq",
+    "city": "Austin",
+    "region": "TX",
+    "country": "USA",
+    "confidence": "high",
+    "source": "https://www.ravin.ai (fetched 2026-08-31): address listed as \"Suite 03A135, 11801 Domain Blvd, 3rd floor, Austin, TX 78758\".",
+    "note": "Directly stated on the company's own website."
+  }
+]
