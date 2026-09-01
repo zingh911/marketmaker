@@ -158,8 +158,29 @@ export default function MarketMap({
     map.invalidateSize({ animate: false });
     if (pts.length === 0 || userMovedRef.current) return;
 
+    /**
+     * Fit to the North America points only, not every point.
+     *
+     * The dataset is not all North American — a handful of real HQs (Warsaw,
+     * Kraków, Chennai, Bengaluru) sit far outside NA_BOUNDS. A bbox spanning
+     * all of them forces a near-whole-world zoom, which then fights the soft
+     * lock: minZoom cannot go low enough to show that bbox, so the resulting
+     * view was neither the wide shot nor the NA shot, and pins ended up
+     * outside the viewport entirely. Those pins still render and are
+     * reachable by panning — the soft lock allows drift — they just do not
+     * get to set the default view for 72 mostly-NA companies.
+     */
+    const inNA = pts.filter(
+      (p) =>
+        p.lat >= NA_BOUNDS[0][0] &&
+        p.lat <= NA_BOUNDS[1][0] &&
+        p.lng >= NA_BOUNDS[0][1] &&
+        p.lng <= NA_BOUNDS[1][1],
+    );
+    const fitTo = inNA.length > 0 ? inNA : pts;
+
     const L = (await import("leaflet")).default;
-    const bounds = L.latLngBounds(pts.map((p) => [p.lat, p.lng]));
+    const bounds = L.latLngBounds(fitTo.map((p) => [p.lat, p.lng]));
 
     fittingRef.current = true;
     try {
