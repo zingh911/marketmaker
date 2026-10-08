@@ -1,0 +1,109 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001015",
+  "name_in_list": "Loop",
+  "identity_note": "Matched loop.com (LinkedIn 'loop-payments'), the AI freight audit & payment / logistics data platform co-founded in 2021 by ex-Uber Freight staff Matt McKinney and Shaosu Liu, HQ San Francisco with a large Chicago office. Not Loop Returns (its Wonderment acquisition shows up in searches but is a different company), Loop Industries (NASDAQ: LOOP, plastics), Loop EV or Loop Earplugs.",
+  "sources": [
+    "https://www.loop.com/company/careers",
+    "https://ats.rippling.com/api/v2/board/loop/jobs?page=0&pageSize=100",
+    "https://ats.rippling.com/loop/jobs/01460e89-42d3-462f-b9d4-e6f20382ccfb",
+    "https://www.linkedin.com/company/loop-payments",
+    "https://www.linkedin.com/in/mattlmckinney",
+    "https://www.loop.com/article/loop-raises-95m-series-c-to-scale-its-ai-platform-across-the-supply-chain",
+    "https://www.businesswire.com/news/home/20260504771246/en/Loop-Launches-the-Logistics-Data-Platform-Powered-by-New-AI-Capabilities",
+    "https://www.freightwaves.com/?p=572771",
+    "https://www.loop.com/article/loop-data2logistics-unlocking-the-next-era-of-supply-chain-intelligence",
+    "https://www.freightwaves.com/news/loop-and-data2logistics-merge-to-unlock-profit-in-the-supply-chain",
+    "https://www.loop.com/strategiq-commerce-is-now-loop",
+    "https://www.mesirow.com/press-releases/mesirow-advises-strategiq-commerce-on-its-sale-to-loop",
+    "https://techcrunch.com/2022/11/03/meet-loop-a-payments-startup-founded-by-uber-alums-and-backed-by-founders-fund-and-two-of-ubers-co-founders",
+    "https://www.businesswire.com/news/home/20231003388240/en/Breakthrough-Transportation-Logistics-Startup-Loop-Announces-$35-Million-Series-B",
+    "https://multiples.vc/private-comps/loop-us",
+    "https://www.loop.com/article/loop-recognized-in-the-2026-gartner-r-market-guide-for-freight-audit-and-payment-providers",
+    "https://strattam.com/trax-technologies-acquires-em6-to-expand-global-freight-audit-leadership/",
+    "https://www.traxtech.com/news/trax-technologies-funds-growth-with-accel-kkr-growth-financing"
+  ],
+  "profile": {
+    "name": "Loop",
+    "description": "AI logistics data platform that audits and pays freight and parcel invoices and turns shipment, contract and invoice data into analytics for shippers' logistics and finance teams.",
+    "website": "https://www.loop.com",
+    "location": "San Francisco, CA (HQ per LinkedIn and press datelines); large Chicago, IL office plus New York, NY; Fort Myers, FL operations from Data2Logistics",
+    "year_founded": "2021",
+    "founder": "Matt McKinney (Co-founder & CEO) and Shaosu Liu (Co-founder & CTO)",
+    "founder_linkedin": "https://www.linkedin.com/in/mattlmckinney",
+    "founder_email": null,
+    "funding_detail": "About $160M raised: $6M seed (8VC, Susa Ventures); $24M Series A (2022, Founders Fund); $35M Series B (Oct 2023, co-led by J.P. Morgan Growth Equity Partners and Index Ventures); $95M Series C (Apr 17, 2026, led by Valor Equity Partners and the Valor Atreides AI Fund with 8VC, Founders Fund, Index, J.P. Morgan Growth Equity Partners, Tao Capital Partners). One aggregator (yespress.io) cites $172M total.",
+    "headcount": "201-500 on LinkedIn (180 members listed); the careers page says 300+ team members",
+    "past_completed_deals": "Data2Logistics (Fort Myers, FL freight audit & payment firm founded 1964), merger announced Aug 18, 2025; StrategIQ Commerce (Chicago parcel/freight audit and visibility), sale completed Oct 2025 per seller's adviser Mesirow. Terms undisclosed for both.",
+    "open_role": "Director, M&A open as of 2026-10-08 (https://ats.rippling.com/loop/jobs/01460e89-42d3-462f-b9d4-e6f20382ccfb)",
+    "contact_path": "https://www.loop.com/company/careers"
+  },
+  "verdict": {
+    "kind": "role_open",
+    "headline": "Active acquirer · Director, M&A open now",
+    "detail": "Fresh off a $95M Series C and two freight-audit deals in 2025, Loop is hiring a New York-based Director, M&A to source and close logistics-services acquisitions. CEO Matt McKinney is the decision-maker."
+  },
+  "tagline": "Freight audit & payment software · San Francisco, CA",
+  "description": "AI platform that audits and pays freight and parcel invoices and turns logistics documents into usable data for shippers' logistics and finance teams.",
+  "stats": [
+    { "value": "2021", "label": "founded", "caveat": false },
+    { "value": "201-500", "label": "employees (LinkedIn)", "caveat": true },
+    { "value": "~$160M", "label": "raised", "caveat": true },
+    { "value": "2", "label": "acquisitions", "caveat": false }
+  ],
+  "headlines": [
+    {
+      "date": "2026-05-04",
+      "text": "Launched the Logistics Data Platform, powered by new AI capabilities",
+      "source": "https://www.businesswire.com/news/home/20260504771246/en/Loop-Launches-the-Logistics-Data-Platform-Powered-by-New-AI-Capabilities"
+    },
+    {
+      "date": "2026-04-17",
+      "text": "Raised a $95M Series C led by Valor Equity Partners and the Valor Atreides AI Fund",
+      "source": "https://www.loop.com/article/loop-raises-95m-series-c-to-scale-its-ai-platform-across-the-supply-chain"
+    }
+  ],
+  "ownership": [
+    { "entity": "Loop", "detail": "independent, VC-backed (Valor, Founders Fund, Index, J.P. Morgan Growth, 8VC)", "is_this": true }
+  ],
+  "deals": [
+    { "date": "Oct 2025", "name": "StrategIQ Commerce", "place": "Chicago, IL" },
+    { "date": "Aug 2025", "name": "Data2Logistics", "place": "Fort Myers, FL" }
+  ],
+  "footprint": {
+    "hq": "CA",
+    "bought": ["IL", "FL"],
+    "branch": ["IL", "NY", "FL"],
+    "notes": [
+      { "state": "NY", "text": "The Director, M&A role is in-person in New York, 4+ days a week" },
+      { "state": "IL", "text": "Chicago hosts most client-operations and implementation hiring" }
+    ]
+  },
+  "competitors": [
+    { "name": "Cass Information Systems", "owner": "public, NASDAQ: CASS", "note": "Largest US freight audit & payment processor, bank-backed" },
+    { "name": "Trax Technologies", "owner": "PE (Strattam, Spire Capital)", "note": "Global freight audit; bought EM6 in Nov 2025" },
+    { "name": "nVision Global", "owner": "not checked", "note": "Freight audit & payment with offshore operations hubs" }
+  ],
+  "best_contact": {
+    "name": "Matt McKinney",
+    "title": "Co-founder & CEO",
+    "entity": "Loop",
+    "linkedin": "https://www.linkedin.com/in/mattlmckinney",
+    "why": "Owns the M&A strategy until the new Director, M&A is hired; he fronted both 2025 deals"
+  },
+  "people": [
+    { "name": "Shaosu Liu", "title": "Co-founder & CTO", "entity": "Loop" }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Open role: the Director, M&A posting is live on Loop's Rippling board (the feed behind loop.com/company/careers); it shows no posted date or reporting line",
+    "Careers page: the static HTML shows template filler; the real list is 37 postings loaded from Rippling",
+    "Funding: rounds sum to ~$160M; yespress.io says $172M; the prior pass's ~$210M is not supported by any source found",
+    "Headcount: LinkedIn band 201-500 (180 members listed) vs the careers page's '300+ team members'",
+    "Data2Logistics: Loop calls it a merger, Dealroom lists it as an acquisition by Loop",
+    "StrategIQ date: Mesirow says the sale completed Oct 2025 but its release is dated Jun 25, 2026; Multiples.vc lists Jun 24, 2026",
+    "People: no CFO or corp-dev head is confirmed on an official source; ZoomInfo names a CFO, unverified and left out",
+    "Competitors: nVision Global's owner could not be confirmed"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

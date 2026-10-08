@@ -1,0 +1,97 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001016",
+  "name_in_list": "Nuvocargo",
+  "identity_note": "Matched Nuvocargo (nuvocargo.com), the US-Mexico cross-border freight brokerage, customs and AI logistics platform founded by Deepak Chhugani. Website, sector and the QED-led Series B match the batch entry; no name collision found.",
+  "sources": [
+    "https://www.nuvocargo.com/about/",
+    "https://careers.nuvocargo.com/",
+    "https://careers.nuvocargo.com/api/v1/careers/jobs",
+    "https://nuvocargo.com/blog-posts/announcing-nuvocargos-36m-in-series-b-round-to-expand-all-major-us-mx-border-crossings",
+    "https://www.orrick.com/en/News/2023/06/Logistics-Startup-Nuvocargo-Plans-Expansion-Along-US-Mexico-Border-After-36-Million-Funding-Round",
+    "https://www.freightwaves.com/news/tag/nuvocargo",
+    "https://www.freightwaves.com/news/nuvocargo-acquires-south-carolina-based-3pl",
+    "https://www.freightwaves.com/news/nuvocargo-raises-20-5m-to-boost-trade-between-us-and-mexico",
+    "https://www.nuvocargo.com/blog-posts/nuvocargo-acquires-mentum-ai-agent-logistics",
+    "https://www.globenewswire.com/news-release/2026/03/17/3257559/0/en/nuvocargo-launches-nuvo-ai-the-first-ai-native-freight-execution-engine-for-north-american-shippers.html",
+    "https://stockanalysis.com/private/nuvocargo/",
+    "https://tracxn.com/d/companies/nuvocargo/__g1Q_xkmc0WMc9lhSlBQXsCP2VZmFdM0HU3xZxGPlAy0",
+    "https://startupintros.com/people/deepak-chhugani",
+    "https://www.linkedin.com/in/deepakchhugani/",
+    "https://www.globenewswire.com/news-release/2025/12/11/3204025/0/en/freight-technologies-announces-third-quarter-2025-results.html"
+  ],
+  "profile": {
+    "name": "Nuvocargo",
+    "description": "AI-enabled North American logistics platform that provides US-Mexico cross-border and domestic US freight brokerage, managed transportation and customs clearance for manufacturers and retailers.",
+    "website": "https://www.nuvocargo.com",
+    "location": "New York, NY (US); offices also in Mexico City and Laredo, TX",
+    "year_founded": "2019",
+    "founder": "Deepak Chhugani (Founder & CEO)",
+    "founder_linkedin": "https://www.linkedin.com/in/deepakchhugani/",
+    "founder_email": null,
+    "funding_detail": "More than $75M raised (Orrick, 2023); StockAnalysis lists $74.3M total. Latest priced round: $36.5M Series B (June 2023) led by QED Investors at a valuation above $250M, with Tresalia Capital and Amador Holdings new and Tiger Global, NFX, ALLVP, Magma Partners, MAYA Capital and One Way Ventures returning. Earlier: $20.5M led by Tiger Global (Dec 2021) and a $12M QED-led Series A.",
+    "headcount": "Sources disagree: Tracxn 72 (May 31, 2026); Startup Intros ~150 (July 2026)",
+    "past_completed_deals": "Merge Transportation (Charleston, SC intra-US 3PL, ~14 staff; Apr 2025, Nuvocargo's first acquisition and described as the first chapter of an AI-enabled roll-up strategy); Mentum (San Francisco YC-backed AI agent startup; Oct 2025, team folded into NuvoOS R&D).",
+    "open_role": "No corp-dev roles; hiring Head of Customs Brokerage, Brokerage Sales Executive, Sales Executive (3 open roles) as of 2026-10-08",
+    "contact_path": "https://careers.nuvocargo.com/"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "Stated AI roll-up · 2 deals, none since Oct 2025",
+    "detail": "Called Merge the first chapter of an AI-enabled roll-up, but no deal in ~12 months and no corp-dev hire; CEO Deepak Chhugani and VP Growth & BD Claudio González are the path in."
+  },
+  "tagline": "Cross-border freight & customs · New York, NY",
+  "description": "AI-enabled logistics platform moving freight across the US-Mexico border and within the US, with brokerage, managed transportation and customs clearance for manufacturers and retailers.",
+  "stats": [
+    { "value": "2019", "label": "founded", "caveat": false },
+    { "value": "72-150", "label": "employees", "caveat": true },
+    { "value": "$75M+", "label": "raised", "caveat": true },
+    { "value": "2", "label": "acquisitions", "caveat": false }
+  ],
+  "headlines": [],
+  "ownership": [
+    { "entity": "Nuvocargo", "detail": "private, VC-backed (QED Investors, Tiger Global, NFX and others)", "is_this": true }
+  ],
+  "deals": [
+    { "date": "2025-10", "name": "Mentum (AI agents, YC-backed)", "place": "San Francisco, CA" },
+    { "date": "2025-04", "name": "Merge Transportation", "place": "Charleston, SC" }
+  ],
+  "footprint": {
+    "hq": "NY",
+    "bought": ["SC", "CA"],
+    "branch": ["TX"],
+    "notes": [
+      { "state": "TX", "text": "Laredo office anchors US-Mexico border operations; Mexico City office is outside US codes" }
+    ]
+  },
+  "competitors": [
+    { "name": "Fr8App", "owner": "Freight Technologies (NASDAQ: FRGT)", "note": "US-Mexico cross-border digital brokerage; revenue guidance cut on tariffs in 2025", "is_acquired": true },
+    { "name": "Uber Freight", "owner": "Uber (NYSE: UBER)", "note": "Digital brokerage and managed transportation with a Mexico cross-border offer", "is_acquired": false },
+    { "name": "Flexport", "owner": "private, VC-backed", "note": "Tech-enabled forwarder and customs broker; has acquired tech and logistics assets", "is_acquired": false },
+    { "name": "Traxión", "owner": "public, BMV-listed", "note": "Mexican trucking, logistics and freight brokerage group", "is_acquired": false }
+  ],
+  "best_contact": {
+    "name": "Deepak Chhugani",
+    "title": "Founder & CEO",
+    "entity": "Nuvocargo",
+    "linkedin": "https://www.linkedin.com/in/deepakchhugani/",
+    "why": "Personally announced both acquisitions and framed the AI-enabled roll-up strategy.",
+    "outreach_prompt": "Ask whether the roll-up that started with Merge Transportation is still active and what targets (domestic 3PLs, customs brokers) are next."
+  },
+  "people": [
+    { "name": "Claudio González", "title": "VP of Growth & Business Development", "entity": "Nuvocargo", "caveat": true },
+    { "name": "Luis Eduardo Torres", "title": "Chief Financial Officer", "entity": "Nuvocargo", "caveat": true },
+    { "name": "Jim Keating", "title": "Chief Operating Officer", "entity": "Nuvocargo", "caveat": true }
+  ],
+  "none_found": ["headlines"],
+  "caveats": [
+    "Blog dates: Nuvocargo's blog shows 2026 dates on old posts (Series B letter dated Apr 23, 2026); trade press dates the Series B to June 2023 and Merge to Apr 23, 2025.",
+    "Headlines: latest dated news is the Nuvo AI launch on Mar 17, 2026, just outside the 6-month window; nothing newer found.",
+    "Funding total: prior pass cited 'over $85M'; today only $74.3M (StockAnalysis) and 'more than $75M' (Orrick, 2023) were confirmed.",
+    "Headcount: Tracxn says 72 (May 2026), Startup Intros ~150 (July 2026); LinkedIn not checked directly.",
+    "HQ: About page lists New York, Mexico City and Laredo offices without naming an HQ; New York used as the US base.",
+    "People: titles from the About page, which shows two leadership lists that don't fully match (Jim Keating appears only in one; González only in the other).",
+    "Careers read: careers.nuvocargo.com is a JS app; roles read from its public jobs feed (/api/v1/careers/jobs), all 3 posted May-June 2026."
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

@@ -1,0 +1,86 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001010",
+  "name_in_list": "Lightswitch",
+  "identity_note": "Matched Lightswitch Holdings (lightswitchpm.com), a New York-based multifamily property-management partnership platform led by Benton Atchison. The live domain is a one-page site; its fuller team and contact pages sit on the company's Framer site (lightswitch.framer.website), which carries the same tagline and the same CEO. Unrelated namesakes excluded: Lightswitch Capital (NY life-sciences VC), Lightswitch the lighting-design firm (SF/Chicago/NY), Lightswitch Holdings Inc. (video production, Mike Mauceri) and Ajax LightSwitch hardware.",
+  "sources": [
+    "https://www.lightswitchpm.com",
+    "https://lightswitch.framer.website/",
+    "https://lightswitch.framer.website/team",
+    "https://lightswitch.framer.website/contact",
+    "https://theorg.com/org/lightswitch",
+    "https://www.linkedin.com/in/benton-atchison-a2886725/",
+    "https://www.globenewswire.com/news-release/2026/03/09/3252291/0/en/Proper-Expands-to-Nearly-20-000-Units-Across-15-States-as-Alex-Samoylovich-Advances-Operator-Led-Growth-Model.html",
+    "https://www.businesswire.com/news/home/20240305846110/en/TriSpan-Announces-Partnership-to-Form-ProperXPM-an-Experiential-Multifamily-Property-Management-Company",
+    "https://www.bisnow.com/news/national/multifamily/new-mountain-capital-set-to-acquire-asset-living-2b-134848",
+    "https://www.multihousingnews.com/post/cushman-wakefield-to-acquire-pinnacle-in-landmark-deal/"
+  ],
+  "profile": {
+    "name": "Lightswitch",
+    "description": "Tech-enabled platform that partners with (acquires stakes in) regional multifamily property-management companies, providing capital, infrastructure and institutional capabilities while keeping each manager's brand, culture and leadership.",
+    "website": "https://www.lightswitchpm.com",
+    "location": "New York, NY (The Org; leadership based in Manhattan/Brooklyn); VP Accounting based in Tampa Bay, FL",
+    "year_founded": null,
+    "founder": "Benton Atchison (Founder & CEO per The Org and LinkedIn; ex-CEO of a $100M+ roofing company, IAC, CVC, Goldman Sachs). Kamron Farman-Farmaian (President) co-founded RCH Capital Partners with him; the site does not say explicitly whether he co-founded Lightswitch.",
+    "founder_linkedin": "https://www.linkedin.com/in/benton-atchison-a2886725/",
+    "founder_email": null,
+    "funding_detail": null,
+    "headcount": "1-10 employees (The Org, 9 people tracked); company team page names 6 people",
+    "past_completed_deals": "None named publicly. Site and team page describe a partnership/acquisition model for regional multifamily managers but list no partner companies as of 2026-10-08.",
+    "open_role": "No public careers page found",
+    "contact_path": "letschat@lightswitchpm.com (published on lightswitchpm.com); partnership inquiry form at https://lightswitch.framer.website/contact"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "Pre-deal PM roll-up · no partners named yet",
+    "detail": "Six-person NY team with M&A-finance hires (ex-Bessemer sourcing lead, PE-backed roll-up controller) but no completed deal is public."
+  },
+  "tagline": "Multifamily property management · New York, NY",
+  "description": "Builds a multifamily property-management group by partnering with regional managers and keeping their brands and leadership.",
+  "stats": [
+    { "value": "1-10", "label": "employees (The Org)", "caveat": true },
+    { "value": "0", "label": "deals named", "caveat": false }
+  ],
+  "headlines": [],
+  "ownership": [],
+  "deals": [],
+  "footprint": {
+    "hq": "NY",
+    "bought": [],
+    "branch": [],
+    "notes": [
+      { "state": "FL", "text": "VP Accounting Jacob Sistrunk is based in Tampa Bay (residence, not a confirmed office)" },
+      { "state": "NY", "text": "Leadership lives in Manhattan, Brooklyn and Queens; no office address published" }
+    ]
+  },
+  "competitors": [
+    { "name": "Proper (ProperXPM)", "owner": "TriSpan (PE)", "note": "Six multifamily managers bought, ~20,000 units in 15 states by Mar 2026" },
+    { "name": "Asset Living", "owner": "New Mountain Capital (reported)", "note": "Large third-party multifamily manager; serial acquirer of regional firms", "is_acquired": true },
+    { "name": "Greystar", "owner": "Private, founder-led", "note": "Largest US multifamily manager; buys regional managers such as Glacier" },
+    { "name": "Pinnacle Property Management", "owner": "Cushman & Wakefield (NYSE: CWK)", "note": "Multifamily manager bought by Cushman & Wakefield in 2020", "is_acquired": true }
+  ],
+  "best_contact": {
+    "name": "Benton Atchison",
+    "title": "Founder & Chief Executive Officer",
+    "entity": "Lightswitch",
+    "linkedin": "https://www.linkedin.com/in/benton-atchison-a2886725/",
+    "why": "Founder-CEO of a six-person team; decides on every partnership",
+    "outreach_prompt": "Ask how far along the first property-manager partnerships are and whether he plans to add deal-team capacity."
+  },
+  "people": [
+    { "name": "Andy Kleinlein", "title": "Head of Strategic Partnerships", "entity": "Lightswitch", "linkedin": "https://www.linkedin.com/in/andy-kleinlein-47155ba6", "outreach_prompt": "He ran sourcing and corp dev at Bessemer Investors; ask about the target profile for regional managers." },
+    { "name": "Kamron Farman-Farmaian", "title": "President", "entity": "Lightswitch", "linkedin": "https://www.linkedin.com/in/kamron-farman-farmaian-47209024" },
+    { "name": "Jacob Sistrunk", "title": "Vice President of Accounting", "entity": "Lightswitch", "linkedin": "https://www.linkedin.com/in/jacobsistrunk" }
+  ],
+  "none_found": ["headlines", "ownership", "deals"],
+  "caveats": [
+    "Identity: picked the multifamily platform at lightswitchpm.com; Lightswitch Capital (VC) and a lighting-design firm share the name",
+    "Team page: lives on lightswitch.framer.website, not the live domain; same tagline and CEO, so treated as the company's own",
+    "Funding: prior pass cited RocketReach (<$5M, 2 rounds); RocketReach returned 403 today and no press confirms it, so null",
+    "Founded: no source gives a year; left null",
+    "Co-founder: Kamron Farman-Farmaian co-founded RCH Capital with Atchison; Lightswitch co-founder status not stated",
+    "Stage: batch tags it PE Growth / Series C-D, but six named staff and no public deals point to a much earlier stage",
+    "Asset Living owner: New Mountain deal reported Jun 2026; Asset Living disputed details to Bisnow"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "no careers page (lightswitchpm.com/careers 404); company site and secondary sources"
+}

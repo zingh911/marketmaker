@@ -238,7 +238,7 @@ export default function Crm({
           style={{ flex: "1 1 200px", maxWidth: 320, marginLeft: "auto", height: 32, fontSize: 13 }}
         />
 
-        <div className="mono" style={{ fontSize: 12, color: "var(--muted-foreground)", whiteSpace: "nowrap" }}>
+        <div className="mono" style={{ fontSize: 12, color: "var(--muted-foreground)" }}>
           {counts.total} companies · {counts.pinned} on map · {counts.nopin} no pin ·{" "}
           <span title="Leads carrying the full /company-intel pass of 2026-10-08. The rest show the earlier 2026-08-24 profile.">
             {counts.fullPass}/{counts.total} intel 2026-10-08
