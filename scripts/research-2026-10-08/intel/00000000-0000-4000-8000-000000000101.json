@@ -1,0 +1,105 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000000101",
+  "name_in_list": "Resolve Pain Solutions",
+  "identity_note": "Matched the Atlanta-based, Compass Group Equity Partners-backed interventional pain-management MSO. The batch website resolvepainsolutions.com does not resolve (DNS failure); every press release (PR Newswire, Jan and Mar 2026) gives the company's site as resolve-pain.com. Sector (medical, pain management) and HQ (Atlanta) match the batch entry. No other company of this name surfaced.",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/resolve-pain-solutions-announces-acquisition-of-southcoast-spine-and-pain-territory-expands-to-south-carolina-302707311.html",
+    "https://healthcaredive.com/press-release/20260113-resolve-pain-solutions-announces-acquisition-of-spine-diagnostic-pain-tre",
+    "https://healthcare.levinassociates.com/2026/03/10/resolve-pain-solutions-acquires-southcoast-spine-and-pain/",
+    "https://www.abladvisor.com/news/39888/tpg-twin-brook-agents-multiple-debt-financings",
+    "https://www.lenzmarketing.com/2025/08/resolve-pain-solutions-lenz-partner-launch-four-new-websites/",
+    "https://businesswire.com/news/home/20220913006209/en/Compass-Group-Announces-Launch-of-Interventional-Pain-Management-Platform-with-Anchor-Investment-in-Leading-Memphis-Practice",
+    "https://www.resolve-pain.com/resolve-pain-solutions-announces-strategic-partnership-with-alabama-anesthesiology-amp-pain-consultants/",
+    "https://www.resolve-pain.com/resolve-pain-solutions-partners-with-advanced-pain-management/",
+    "https://www.resolve-pain.com/caleb-wilson-joins-resolve-pain-solutions-as-vice-president-of-corporate-development/",
+    "https://www.datanyze.com/companies/resolve-pain-solutions/1340301394",
+    "https://simplify.jobs/c/c543b061-899f-4e26-afff-ebefd0d5510b",
+    "https://builtin.com/company/resolve-pain-solutions",
+    "https://www.memphismedicalnews.com/bringing-law-order-and-expansion-to-a-time-honored-institution--cms-1100",
+    "https://www.businesswire.com/news/home/20220623005746/en/Iron-Path-Capital-Announces-Partnership-with-Capitol-Pain-Institute-to-Build-Nationwide-Interventional-Pain-Management-Platform",
+    "https://www.privsource.com/acquisitions/deal/8WSv5O",
+    "https://www.beckersasc.com/?p=45251",
+    "https://www.businesswire.com/news/home/20201102005029/en/Shore-Capital-Partners-Announces-Founding-of-Southern-Sports-Medicine-Partners"
+  ],
+  "profile": {
+    "name": "Resolve Pain Solutions",
+    "description": "Management services organization that partners with and acquires interventional pain-management practices across the Southeast, taking over billing, marketing, finance and HR so physicians can focus on patients.",
+    "website": "https://www.resolve-pain.com",
+    "location": "Atlanta, GA (HQ); practices in GA, TN, MS, AL, LA and SC",
+    "year_founded": "2022 (Compass Group launched the platform Sep 2022 around the Memphis practice Mays & Schnapp; Simplify lists 2023; CB Insights' 1985 is the founding year of Mays & Schnapp, not the MSO)",
+    "founder": "No individual founder named. Platform formed by Compass Group Equity Partners (Sep 2022) anchored on Mays & Schnapp (founded 1985 by Dr. Kit S. Mays and Dr. Moacir Schnapp). Eric Schnapp was CEO as of 2024; Andrew Jones is CEO as of Jan-Mar 2026 press releases.",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "PE-backed: portfolio company of Compass Group Equity Partners since 2022. Recapitalized in Dec 2024 with debt financing agented by TPG Twin Brook, which also funded the Louisiana Pain Specialists add-on. Deal sizes undisclosed.",
+    "headcount": "Sources disagree: Built In lists 125 employees; Simplify lists 11-50 (likely MSO corporate staff only, excluding affiliated practices)",
+    "past_completed_deals": "Southcoast Spine and Pain, Aiken SC (Mar 2026); Spine Diagnostic & Pain Treatment Center, Baton Rouge LA (Jan 2026); Louisiana Pain Specialists, 7 clinics, LA (2024); Alabama Anesthesiology & Pain Consultants, 4 AL locations (Feb 2024 per company press listing); Advanced Pain Management, Evans/Augusta GA (before Feb 2024, date unconfirmed); Mays & Schnapp Neurospine and Pain, Memphis TN/MS (anchor investment, Sep 2022)",
+    "open_role": "Careers page blocked (SiteGround captcha, HTTP 202) as of 2026-10-08; Built In lists 3 roles (Manager, Strategic Initiatives & Market Development; Manager, Provider Recruitment and Engagement; Front Desk Receptionist), not confirmed on the live careers page",
+    "contact_path": "https://www.resolve-pain.com/why-partner/ (practice-partnership page; site behind captcha); media: Josh Rebuck, Director of Marketing, (706) 536-6165 per PR Newswire"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active PE-backed acquirer · 2 deals in 2026",
+    "detail": "Compass Group-backed pain MSO buying practices across six southern states; VP Corporate Development Caleb Wilson runs sourcing."
+  },
+  "tagline": "Pain management MSO · Atlanta, GA",
+  "description": "PE-backed management services organization that partners with and acquires interventional pain practices across the Southeast.",
+  "stats": [
+    { "value": "2022", "label": "platform launched", "caveat": true },
+    { "value": "125", "label": "employees (Built In)", "caveat": true },
+    { "value": "6", "label": "states", "caveat": false },
+    { "value": "6", "label": "practice deals", "caveat": false }
+  ],
+  "headlines": [],
+  "ownership": [
+    { "entity": "Compass Group Equity Partners", "detail": "PE owner (St. Louis)", "since": "2022" },
+    { "entity": "Resolve Pain Solutions", "detail": "platform / MSO", "is_this": true }
+  ],
+  "deals": [
+    { "date": "Mar 2026", "name": "Southcoast Spine and Pain", "place": "Aiken, SC" },
+    { "date": "Jan 2026", "name": "Spine Diagnostic & Pain Treatment Center", "place": "Baton Rouge, LA" },
+    { "date": "2024", "name": "Louisiana Pain Specialists", "place": "New Orleans/Metairie & Baton Rouge, LA" },
+    { "date": "Feb 2024", "name": "Alabama Anesthesiology & Pain Consultants", "place": "Anniston area, AL" },
+    { "date": "2023 (unconfirmed)", "name": "Advanced Pain Management", "place": "Evans, GA" },
+    { "date": "Sep 2022", "name": "Mays & Schnapp Neurospine and Pain", "place": "Memphis, TN" }
+  ],
+  "footprint": {
+    "hq": "GA",
+    "bought": ["SC", "LA", "AL", "GA", "TN", "MS"],
+    "branch": [],
+    "notes": [
+      { "state": "TN", "text": "Anchor practice Mays & Schnapp (Memphis) also serves north Mississippi" },
+      { "state": "SC", "text": "Entered SC with the Mar 2026 Southcoast deal, its sixth state" }
+    ]
+  },
+  "competitors": [
+    { "name": "National Spine & Pain Centers", "owner": "Avista Capital Partners", "note": "Large Mid-Atlantic pain-clinic network; bought from Sentinel", "is_acquired": true },
+    { "name": "Capitol Pain Institute", "owner": "Iron Path Capital", "note": "Interventional pain platform; added Nura Pain Clinics (MN) in 2023", "is_acquired": true },
+    { "name": "Clearway Pain Solutions", "owner": "NexPhase Capital", "note": "Pain-management platform; acquired KureSmart from New Harbor", "is_acquired": true },
+    { "name": "Southern Sports Medicine Partners", "owner": "Shore Capital Partners", "note": "Naples, FL interventional pain and sports-medicine platform launched 2020", "is_acquired": true }
+  ],
+  "best_contact": {
+    "name": "Caleb Wilson",
+    "title": "Vice President, Corporate Development",
+    "entity": "Resolve Pain Solutions",
+    "why": "Corp-dev head at an active acquirer; a company press release announced his hire and Datanyze lists him in the role",
+    "outreach_prompt": "Ask how Resolve sources and integrates new pain practices after its 2026 Louisiana and South Carolina deals, and whether the deal team is adding people."
+  },
+  "people": [
+    { "name": "Andrew Jones", "title": "Chief Executive Officer", "entity": "Resolve Pain Solutions", "outreach_prompt": "Reference the six-state expansion and the de novo plus partnership growth strategy." },
+    { "name": "Josh Rebuck", "title": "Director of Marketing", "entity": "Resolve Pain Solutions", "caveat": true }
+  ],
+  "none_found": ["headlines"],
+  "caveats": [
+    "Website: batch URL resolvepainsolutions.com does not resolve; used resolve-pain.com from the press releases",
+    "Careers page: resolve-pain.com sits behind a SiteGround captcha, so no live careers read; roles come from Built In",
+    "Headlines: latest news is the Mar 9 2026 Southcoast deal, outside the 6-month window; nothing newer found",
+    "Founded: Simplify says 2023, CB Insights says 1985 (Mays & Schnapp); used the Sep 2022 Compass platform launch",
+    "CEO change: Becker's 2024 named Eric Schnapp CEO; 2026 releases name Andrew Jones; transition date not found",
+    "Headcount: Built In says 125, Simplify says 11-50",
+    "Deal dates: Alabama (Feb 2024) and Advanced Pain Management dates come from search-index snippets of company pages behind a captcha",
+    "Caleb Wilson: title from a company press page title and Datanyze; the page itself could not be opened",
+    "Founder LinkedIn/email: no individual founder and no LinkedIn URL verified; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page blocked (SiteGround captcha); secondary sources only"
+}

@@ -1,0 +1,29 @@
+-- MarketMaker: company intel. PENDING, not applied.
+--
+-- 0001_init.sql says four tables and no fifth without a ruling. This is that
+-- fifth table, written and waiting. Until it is ruled on, intel lives in the
+-- repo as src/data/intel.ts (generated from scripts/research-2026-10-08/) and
+-- the repository reads it under both adapters. See HANDOFF.md.
+--
+-- One row per research pass per company, NEVER overwritten, same reasoning as
+-- company_source_records: a six-week-old careers read is a different fact
+-- from today's, and the newer one must not silently erase the older.
+
+create table company_intel (
+  id          uuid primary key default gen_random_uuid(),
+  company_id  uuid not null references companies(id) on delete cascade,
+  pass        text not null,          -- e.g. '2026-10-08'
+  full_pass   boolean not null,       -- true = every card section researched
+  verified_on date not null,
+  verified_note text,                 -- 'careers page live', 'blocked (403)'...
+
+  -- The /company-intel profile, field for field. All nullable on purpose.
+  profile     jsonb not null,
+  -- verdict, tagline, stats, headlines, ownership, deals, footprint,
+  -- competitors, best_contact, people, none_found, caveats, identity_note.
+  card        jsonb not null default '{}'::jsonb,
+  sources     text[] not null default '{}',
+  created_at  timestamptz not null default now()
+);
+
+create index company_intel_company_idx on company_intel (company_id, verified_on desc);

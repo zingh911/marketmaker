@@ -1,0 +1,161 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001004",
+  "name": "Shield (Technology Partners)",
+  "website": "https://shieldtp.com",
+  "known_hq": "US",
+  "sector": "IT Services",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "$100M specifically from Thrive Holdings - a live Thrive portfolio company",
+   "Confirmed: two separate $100M rounds from Thrive Holdings (June 2025 launch, Feb 2026 follow-on), co-sponsored with ZBS Partners."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://shieldtp.com",
+   "year_founded": "2025",
+   "founder": "Launched June 2025 as a joint venture between Thrive Holdings (PE firm) and ZBS Partners (led by Jake Sloane and Frank Zhang, who have launched six companies over the past decade). Jim Siders (former Palantir CIO) was brought in as CEO in Dec 2025 - an operating exec, not a founder.",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Two rounds of $100M each from Thrive Holdings: (1) June 2025 launch round, co-sponsored with ZBS Partners; (2) Feb 2026, second $100M investment to accelerate product development and further acquisitions. Thrive Holdings is itself backed by OpenAI-adjacent capital per some press coverage.",
+   "headcount": "Not confirmed directly. Company describes itself as 'a small team of builders, operators, and technologists' at the platform/HQ level; portfolio companies collectively serve 1,500+ clients and exceeded $100M annual revenue in 2025.",
+   "past_completed_deals": "At least 8-9 acquired MSPs named: BCS365, Clearfuze, Delval Technical Solutions, IronOrbit, NetAscendant, OneNet Global, SK Tech Group, and Option One. Company states it partners with 9 companies total serving 1,500+ clients across construction, energy, and healthcare sectors.",
+   "open_role": "Corp-dev role found: Manager of M&A, open as of 2026-08-24, remote (https://shieldtp.pinpointhq.com/en/postings/c6d3b207-8e4e-40e8-bfa9-4b5e91167636) - found via search snippet of live careers portal; direct fetch of posting URL returned HTTP 406, so not independently re-verified. Other open roles: Vice President of Sales, Senior Accountant, HRIS Specialist (~11 total)",
+   "contact_path": "https://shieldtp.com/careers (job board: https://shieldtp.pinpointhq.com/)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001014",
+  "name": "Long Lake Management Holdings",
+  "website": "https://llmh.com",
+  "known_hq": "US",
+  "sector": "Multiple",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://llmh.com",
+   "year_founded": "2023",
+   "founder": "Alexander Taubman (Co-Founder & CEO). A 'Zach Frankl' co-founder appears in one AI-summarized source only, not independently corroborated - treat with caution.",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "$1.28B total raised (multiple rounds, over $600M within the first year alone) from General Catalyst, Alpha Wave Global, Lightscape Partners, Thrive Capital, and Elad Gil; structured as a permanent-capital holding vehicle rather than a traditional PE fund.",
+   "headcount": "Holding company itself: ~11-50 (LinkedIn); underlying portfolio/operating companies collectively employ far more (individual acquired businesses show 51-200 to 501-1,000 employee ranges)",
+   "past_completed_deals": "Roll-up of ~30 acquisitions across HOA management, architecture/engineering (incl. Wold Architects and Engineers), HR services, specialty tax, and construction. Landmark deal: definitive agreement (announced May 2026) to take private American Express Global Business Travel (Amex GBT) for $6.3B - described as the first AI-driven take-private of a public company; expected to close H2 2026.",
+   "open_role": "Corp-dev role found: \"M&A and Investments\" open as of 2026-08-24 (https://jobs.ashbyhq.com/long-lake/0449fd29-8278-4c90-aaa6-9ad4490a20f6) - role explicitly covers deal sourcing/diligence/close plus post-close operating value creation",
+   "contact_path": "https://jobs.ashbyhq.com/long-lake (llmh.com contact page returned 404 when checked directly)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001024",
+  "name": "Alloy River",
+  "website": "https://alloyriver.com",
+  "known_hq": "US",
+  "sector": "Fractional CFO",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Cross-referenced with Origination Radar's own sweep (TARGETS.md) - confirmed Toronto office. M&A/corp-dev postings (Manager, M&A and Director, Corporate Development) confirmed closed as of 2026-08-24; live board currently shows only Member of Technical Staff and Founding Demand Generation Lead, both on-site Toronto."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://alloyriver.com",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Raised over $30M to date from Portage Ventures, Electric Capital, Elad Gil and angels including Tobi Lutke, Balaji Srinivasan",
+   "headcount": "11-50",
+   "past_completed_deals": null,
+   "open_role": "No corp-dev roles; hiring Member of Technical Staff (Builders), Founding Demand Generation Lead (Hunters) as of 2026-08-24",
+   "contact_path": "jobs.ashbyhq.com/alloyriver"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001034",
+  "name": "Equal Parts",
+  "website": "https://www.equalparts.ai",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.equalparts.ai",
+   "year_founded": "2025",
+   "founder": "Mike (Michael) Witte - CEO & Co-Founder (with Graham Yennie, CTO, and Mike Meller, COO)",
+   "founder_linkedin": "https://www.linkedin.com/in/mikewitte1/",
+   "founder_email": null,
+   "funding_detail": "$23M Series A (Feb 2026), led by Inspired Capital, with Equal Ventures, Max Ventures, Genius Ventures + lending partners; brings total acquisition capital to $50M",
+   "headcount": "Reported ~200-500 on LinkedIn/Crunchbase (fast-growing via agency acquisitions; an earlier snapshot showed ~21, treat range loosely)",
+   "past_completed_deals": "Lumen Insurance, Assurely, Strategic Insurance Group, Blue Star Insurance Agency, D3 Insurance Group (listed on company blog)",
+   "open_role": "No corp-dev roles; hiring Commercial Insurance Agents, Customer Experience, Engineering as of 2026-08-28",
+   "contact_path": "https://www.equalparts.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001044",
+  "name": "DocUnlock",
+  "website": "https://www.docunlock.com",
+  "known_hq": "US",
+  "sector": "Customs Broker",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.docunlock.com",
+   "year_founded": "2023",
+   "founder": "Sepehr Fakour and Ned Cartmell (co-founders)",
+   "founder_linkedin": "https://www.linkedin.com/in/sepehr-f/",
+   "founder_email": null,
+   "funding_detail": "$3M pre-seed from GTMFund, Barrel Ventures, plus angel investors (per TechCrunch, Feb 2025)",
+   "headcount": null,
+   "past_completed_deals": "None found - DocUnlock is a software vendor to customs brokers/freight forwarders, not itself an acquirer",
+   "open_role": "No corp-dev roles; hiring Engineering, Customer Success, Product (3 open roles: Software Engineer, Customer Success Engineer, Product Manager) as of 2026-08-28",
+   "contact_path": "https://www.docunlock.com/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001054",
+  "name": "Eagle Engineering",
+  "website": "https://www.eagleeng.com",
+  "known_hq": "US",
+  "sector": "Engineering Services",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.eagleeng.com",
+   "year_founded": "2025",
+   "founder": "Mayank Mardia (Co-Founder & CEO), Thomas Shouler (Co-founder & CTO), Sohum Daftary (Co-founder & President)",
+   "founder_linkedin": "https://www.linkedin.com/in/mayank-mardia/",
+   "founder_email": null,
+   "funding_detail": "Seed round from Lightspeed Venture Partners (announced ~June 2026); size undisclosed",
+   "headcount": "1-10 (LinkedIn), NYC-based",
+   "past_completed_deals": "Business model is acquiring civil/structural/MEP engineering firms and applying AI, but no specific named acquisitions surfaced yet",
+   "open_role": "No corp-dev roles; hiring Engineering (2 open roles: Platform Engineer, Forward Deployed Engineer, both NYC) as of 2026-08-28",
+   "contact_path": "https://www.eagleeng.com/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001064",
+  "name": "ImmCore",
+  "website": "https://immcore.ai",
+  "known_hq": "US",
+  "sector": "Immigration Law",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://immcore.ai",
+   "year_founded": null,
+   "founder": "Vladimir Gusev (Founder/CEO)",
+   "founder_linkedin": "https://ar.linkedin.com/in/gusevv1987",
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No corp-dev roles; hiring Executive/Personal Assistant to CEO (1 open role, listed via third-party board Hire5, not confirmed on immcore.ai itself) as of 2026-08-28",
+   "contact_path": "https://immcore.ai"
+  }
+ }
+]

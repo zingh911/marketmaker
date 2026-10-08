@@ -1,0 +1,160 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001008",
+  "name": "UnifyCX",
+  "website": "https://www.unifycx.com",
+  "known_hq": "US",
+  "sector": "Contact Center",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "Nov 2024 rebrand of GlowTouch (founded 2002), formed via GlowTouch's acquisition of Collective Solution, launched in partnership with WndrCo."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.unifycx.com",
+   "year_founded": "2002",
+   "founder": "Vidya Ravichandran (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/vidya-ravichandran-53423b2",
+   "founder_email": null,
+   "funding_detail": "Backed by WndrCo (Jeffrey Katzenberg-founded investment firm); amount undisclosed. Classified as PE Growth stage. 2025 revenue reported at ~$149.3M (Latka).",
+   "headcount": "~1,000-2,500 (estimates vary; Latka ~1,100 in 2025, PitchBook ~2,500); 11 global delivery locations",
+   "past_completed_deals": "Formed via GlowTouch's acquisition of Collective Solution, then rebranded as UnifyCX (Nov 2024). No further acquisitions found since rebrand - no dedicated brands/portfolio page on site.",
+   "open_role": "No corp-dev roles; hiring Customer Support/Operations roles across BPO delivery sites (~71 open roles: Ballito South Africa, Barranquilla Colombia, Quezon City Philippines x2, Hyderabad/Mangalore/Mysore India, San Antonio TX, San Pedro Sula Honduras) as of 2026-08-24",
+   "contact_path": "https://www.unifycx.com/careers/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001018",
+  "name": "Eudia",
+  "website": "https://www.eudia.com",
+  "known_hq": "US",
+  "sector": "Legal Services",
+  "funding_tier": "Series A",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.eudia.com",
+   "year_founded": "2023",
+   "founder": "Omar Haroun (Co-Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/omarharoun/",
+   "founder_email": null,
+   "funding_detail": "Series A up to $105M (structured as $30M upfront + $75M contingent on acquisitions), led by General Catalyst, with Floodgate, Sierra Ventures, Hakluyt Capital, Defy, Everywhere Ventures, B3 Capital, Backbone, Firsthand, and angels (Gokul Rajaram, Chris Re, Andrew Sieja, Mike Gamson, Scott Belsky)",
+   "headcount": "~191-200 employees (LinkedIn, mid-2026; up from ~75 in 2025)",
+   "past_completed_deals": "Active roll-up: acquired Johnson Hana (European ALSP, 300+ legal professionals, mid-2025) and Out-House (ALSP serving Fortune 500 legal depts, Oct 2025). Also launched Eudia Counsel, an AI-augmented law firm under an Arizona ABS license, for in-house M&A/contracting support.",
+   "open_role": "No corp-dev roles; hiring GTM (Business Lead x3, Customer Success, Field Marketing, Solutions Consultant), Engineering (6 roles), Product (5 roles), Counsel (1 role) - 19 open roles total as of 2026-08-24",
+   "contact_path": "https://job-boards.greenhouse.io/eudia"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001028",
+  "name": "Bridge Defense",
+  "website": "https://www.bridge-defense.com",
+  "known_hq": "US",
+  "sector": "Defense",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.bridge-defense.com",
+   "year_founded": null,
+   "founder": "Jack Kilcoyne (Co-Founder & CEO, ex-Palantir), Cooper Bradley (Co-Founder & President, ex-investment banker, former US Army Ranger)",
+   "founder_linkedin": "https://www.linkedin.com/in/jackkilcoyne/",
+   "founder_email": null,
+   "funding_detail": "Pre-Seed round noted on Crunchbase; amount not disclosed",
+   "headcount": "~32 employees",
+   "past_completed_deals": "Acquired Syntelligent Analytic Solutions (April 2026) and Federated IT - both to expand analytics/software/edge-compute capabilities",
+   "open_role": "No corp-dev roles; hiring Engineering, Mission Operations (multiple open roles: Database Engineer, Full Stack Engineer, Site Reliability Engineer, etc.) as of 2026-08-28",
+   "contact_path": "https://www.bridge-defense.com/careers/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001038",
+  "name": "Strala",
+  "website": "https://strala.ai",
+  "known_hq": "US",
+  "sector": "Insurance TPA",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://strala.ai",
+   "year_founded": "2024",
+   "founder": "Timon Gregg (Co-Founder & CEO), Armando Schmid (Co-Founder & CTO)",
+   "founder_linkedin": "https://www.linkedin.com/in/timon-gregg/",
+   "founder_email": null,
+   "funding_detail": "$3.96M Seed (May 2025) + $51.3M Series B; investors include Founders Fund, Emergence, Transpose Platform Management, Carya Venture Partners, Entrepreneurs First, Overlook, Plug and Play Tech Center",
+   "headcount": "~25 employees",
+   "past_completed_deals": "None found - Strala builds an in-house AI-native TPA claims platform rather than acquiring TPAs",
+   "open_role": "No corp-dev roles; hiring Sales, Engineering, Strategy & Operations (8+ open roles) as of 2026-08-28",
+   "contact_path": "https://jobs.ashbyhq.com/strala-ai"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001048",
+  "name": "TerraFreight",
+  "website": "https://www.terrafreight.com",
+  "known_hq": "US",
+  "sector": "Freight Broker",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.terrafreight.com",
+   "year_founded": null,
+   "founder": "Elie Climan (Co-Founder; former PM at Uber)",
+   "founder_linkedin": "https://www.linkedin.com/in/elie-climan/",
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No corp-dev roles; hiring Engineering (Junior Software Engineer, fully remote) as of 2026-08-28",
+   "contact_path": "https://www.terrafreight.com/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001058",
+  "name": "Roofer",
+  "website": "https://roofer.com",
+  "known_hq": "US",
+  "sector": "Roofing Services",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Moderate confidence - one LinkedIn listing tags Nathan Mathews as 'Previously' Founder/CEO, suggesting a possible leadership change not otherwise confirmed. Careers page would not render in-browser (repeated 403/blank)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://roofer.com",
+   "year_founded": "2019",
+   "founder": "Nathan Mathews (Founder/CEO, per one listing possibly since stepped back), co-founded with Chris Townsend and Matt Mullen",
+   "founder_linkedin": "https://www.linkedin.com/in/nathanmathewss/",
+   "founder_email": null,
+   "funding_detail": "$7.5M seed round led by Mucker Capital (Feb 2024), with Soma Capital, HF0, Asymmetric Capital Partners, Alumni Ventures, HustleFund, and others participating",
+   "headcount": "~74 employees",
+   "past_completed_deals": "Acquired Bearded Brothers Roofing & Restoration (Texas) - vertically integrated into actual roofing operations, fits the roll-up pattern",
+   "open_role": "Could not verify live careers page - roofer.com/careers returned a blank/unrendered page (possible bot protection); Indeed listings suggest Sales and Accounting roles have existed but nothing confirmed live as of 2026-08-28",
+   "contact_path": "https://roofer.com (careers page inaccessible)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001068",
+  "name": "Border Logic",
+  "website": "https://www.border-logic.com",
+  "known_hq": "US",
+  "sector": "Customs Broker",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.border-logic.com",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "info@border-logic.com"
+  }
+ }
+]

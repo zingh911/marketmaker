@@ -1,0 +1,190 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001002",
+  "name": "Candid Health",
+  "website": "https://www.joincandidhealth.com",
+  "known_hq": "US",
+  "sector": "Medical RCM",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.joincandidhealth.com",
+   "year_founded": "2019",
+   "founder": "Nick Perry (Co-Founder & CEO); co-founders Doug Proctor (COO) and Adam Reis",
+   "founder_linkedin": "https://www.linkedin.com/in/nick-perry-36b0364",
+   "founder_email": null,
+   "funding_detail": "$52.5M Series C (Feb 2025) led by Oak HC/FT, with participation from existing investors. Brings total raised to $99.5M. Other investors across rounds: 8VC, First Round Capital, Y Combinator, Boxgroup.",
+   "headcount": "~200 employees (as of ~May 2026, up from ~128 in March 2026) - fast-growing",
+   "past_completed_deals": "None found. Candid Health is a SaaS/AI revenue-cycle automation platform, not an acquisitive roll-up - no portfolio/brands/acquisitions page exists on their site.",
+   "open_role": "No corp-dev roles found; hiring Engineering (Engineering Manager, Developer Tooling Engineer, Data Engineer, Analytics Engineer, Engineering Recruiter), Sales/GTM (Account Executive Manager, Sales Development Rep, Sales Recruiter), Product (Senior Product Manager, Senior Product Designer), Customer Support (25-35 open roles across job boards) as of 2026-08-24",
+   "contact_path": "https://www.joincandidhealth.com/jobs/open-roles"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001012",
+  "name": "Savvy Wealth",
+  "website": "https://www.savvywealth.com",
+  "known_hq": "US",
+  "sector": "Wealth Management",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [
+   "Growth model is advisor recruitment (breakaway RIA teams joining the platform), not classic acquisition of whole firms - weaker 'roll-up' fit than other priority names despite the funding stage."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.savvywealth.com",
+   "year_founded": "2021",
+   "founder": "Ritik Malhotra (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/ritikmalhotra/",
+   "founder_email": null,
+   "funding_detail": "Series B: $72M led by Industry Ventures (announced July 2025), with Vestigo Ventures, Euclidean Capital, and existing investors Canvas Ventures, Thrive Capital, The House Fund, and Brewer Lane Ventures participating. Total raised to date: $100M+ (prior rounds included an $11M round and a $26.5M Series A).",
+   "headcount": "~200-250 (LinkedIn/Tracxn-derived estimates as of mid-2026)",
+   "past_completed_deals": "Not a classic acquirer of whole firms - grows primarily by recruiting individual advisors/breakaway teams onto its platform (e.g. Blue Barn Wealth ~$300M AUM, Paragon Private Wealth Management ~$250M AUM, Innovative Financial Solutions, Horizon Advisory Group, Atticus Wealth Management, several from Commonwealth/LPL). Platform AUM has grown to $8B+. No formal acquisitions/portfolio page found.",
+   "open_role": "No corp-dev roles; hiring Advisor Services (3), Advisors (1), Engineering/Product/Design (10), Growth (2), Marketing (6), Operations (4) - 26 open roles total, as of 2026-08-24",
+   "contact_path": "https://jobs.ashbyhq.com/savvy"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001022",
+  "name": "Ceedar",
+  "website": "https://ceedar.ai",
+  "known_hq": "Canada",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "One of only two Canada-HQ'd companies in the full 209-company database"
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://ceedar.ai",
+   "year_founded": "2023",
+   "founder": "Connor Turland (Co-Founder & CEO); Pegah Vaezi (Co-Founder & Chief Product Officer)",
+   "founder_linkedin": "https://ca.linkedin.com/in/connor-turland",
+   "founder_email": null,
+   "funding_detail": "$200K USD ($280K CAD) pre-seed, led by Metalab Ventures, with multiple customers-turned-angel-investors and backers including Mark Nichols and the Input Logic founding team (Adam Whitcroft, Julien Jacques, Shawn Adrian, Gavin Vickery)",
+   "headcount": "Very small - described as a 'two person team' by an investor (Andrew Wilkinson); likely under 10",
+   "past_completed_deals": "None found - Ceedar is a bookkeeping-as-a-service platform (AI + human bookkeepers), not currently an acquirer",
+   "open_role": "No public careers page found",
+   "contact_path": "hello@ceedar.ai (general company inbound email, not a personal founder address)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001032",
+  "name": "Numica",
+  "website": "https://numica.com",
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Confirmed correct company (Slava Orekoff & Victor Lysenko; acquires CPA practices; matches 'Numica Ledger' AI platform coverage) - distinguished from the larger, unrelated 'Numeric' (San Francisco, Founders Fund-backed accounting automation SaaS)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://numica.com",
+   "year_founded": null,
+   "founder": "Slava Orekoff (Orekhov) and Victor Lysenko",
+   "founder_linkedin": "https://www.linkedin.com/in/slava-orekhov",
+   "founder_email": "slava@numica.com",
+   "funding_detail": "Not disclosed publicly - company states it uses 'dedicated cash reserves and committed investors' for acquisitions, no bank financing needed; specific round size/lead not found",
+   "headcount": null,
+   "past_completed_deals": "Acquires CPA/accounting practices nationally from retiring owners; serves 2,000+ clients across multiple states (specific acquired firm names not listed on site)",
+   "open_role": "No open roles found as of 2026-08-28 (careers page states roles are filled on an ad hoc basis - contact directly)",
+   "contact_path": "https://numica.com/careers (or slava@numica.com)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001042",
+  "name": "Turgon",
+  "website": "https://www.turgon.ai",
+  "known_hq": "US",
+  "sector": "IT MSP",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Funding status conflicts between sources: Tracxn shows $11.5M raised (Founder Collective, Hunch Ventures); Latka reports the company as bootstrapped with ~$770K ARR and no outside funding."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.turgon.ai",
+   "year_founded": "2024",
+   "founder": "Ankur Varma (CEO & Co-Founder), Rudra Dalmia (CRO & Co-Founder), Nikhil Sama (CTO & Co-Founder)",
+   "founder_linkedin": "https://www.linkedin.com/in/ankur-varma-a26b03/",
+   "founder_email": null,
+   "funding_detail": "Conflicting reports: Tracxn shows $11.5M raised (Founder Collective, Hunch Ventures); Latka reports the company as bootstrapped with ~$770K ARR and no outside funding",
+   "headcount": "~7-25 employees (varies by source)",
+   "past_completed_deals": "None found - Turgon is a system-integrator/services company, not an acquirer of other firms",
+   "open_role": "No corp-dev roles; hiring Engineering, Sales, Delivery, Product (11 open roles, split SF/Delhi) as of 2026-08-28",
+   "contact_path": "https://turgon.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001052",
+  "name": "Kim",
+  "website": "https://kim.cc",
+  "known_hq": "US",
+  "sector": "Contact Center",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://kim.cc",
+   "year_founded": "2023",
+   "founder": "Sachin Jaiswal (Co-Founder & CEO, ex-Innovaccer/Niki founder); Phani Yedavilli and Kaushik Barodiya (co-founders)",
+   "founder_linkedin": "https://www.linkedin.com/in/sachinjaiswal/",
+   "founder_email": null,
+   "funding_detail": "Venture round led by Stellaris Venture Partners (amount undisclosed)",
+   "headcount": "Currently small; targeting to triple workforce to 100+ employees by 2028",
+   "past_completed_deals": "Not an acquirer - Kim is an AI-native customer support/BPO platform serving 200+ e-commerce (Shopify) brands, not a roll-up buyer of other businesses",
+   "open_role": "No corp-dev roles; hiring Marketing/Growth, Sales, Content, Engineering (4 open roles: Partnerships & Community Lead, Account Executive, Content Lead, Applied AI Engineer) as of 2026-08-28",
+   "contact_path": "https://kim.cc/kim-jobs/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001062",
+  "name": "Antidote",
+  "website": "https://antidote-transform.com",
+  "known_hq": "US",
+  "sector": "Multiple",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "High collision risk - a different, unrelated 'Antidote' (London-based legal billing compliance SaaS, founder Nicholas d'Adhemar, raised $5M seed Jan 2026) dominates search results. Identification below is moderate confidence, based on a roll-up tracker match plus founder's bio referencing 'building an AI roll-up in legacy services.'"
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://antidote-transform.com",
+   "year_founded": null,
+   "founder": "Karo de Jonge (Co-Founder / Tech Founder)",
+   "founder_linkedin": "https://www.linkedin.com/in/karo-de-jonge-a67925a3/",
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "founders@antidotetransform.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001072",
+  "name": "Grwnd",
+  "website": "https://grwnd.ai (redirects to https://gaugeindustrial.com - likely rebrand)",
+  "known_hq": "US",
+  "sector": "ESA Consulting",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "ESA confirmed as 'Environmental' (AI-enabled environmental firms roll-up), not Emotional Support Animal. Site 301-redirects to gaugeindustrial.com, likely a rebrand, but not confirmed explicitly. Do not confuse with unrelated 'Gauge Capital' (a $3B PE firm) or 'Gauge Industrial & Environmental' (unrelated Australian company)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://grwnd.ai (redirects to https://gaugeindustrial.com - likely rebrand)",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "contact@gaugeindustrial.com"
+  }
+ }
+]

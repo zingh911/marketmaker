@@ -1,0 +1,105 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001001",
+  "name_in_list": "Metropolis",
+  "identity_note": "Matched Metropolis Technologies (metropolis.io), the AI computer-vision parking platform and operator that took SP Plus private; sector (parking), stage (growth / Series D) and US HQ all match the batch entry. Not to be confused with Metropolis Healthcare (India) or other 'Metropolis' brands.",
+  "sources": [
+    "https://www.metropolis.io/careers",
+    "https://job-boards.greenhouse.io/metropolis",
+    "https://job-boards.greenhouse.io/metropolis?page=2",
+    "https://www.metropolis.io/news",
+    "https://en.wikipedia.org/wiki/Metropolis_Technologies",
+    "https://news.crunchbase.com/venture/ai-powered-parking-platform-metropolis-seriesd/",
+    "https://pulse2.com/metropolis-1-6-billion-capitalization-at-about-5-billion-valuation-secured-to-expand-ai-recognition-platform",
+    "https://techcrunch.com/2025/01/20/sources-ai-vision-startup-metropolis-is-buying-oosto-formerly-known-as-anyvision-for-just-125m",
+    "https://www.parking.net/parking-news/metropolis-acquires-nashville-based-premier-parking",
+    "https://news.crunchbase.com/transportation/metropolis-sp-plus-parking-acquisition/",
+    "https://www.fortune.com/2025/06/27/exclusive-metropolis-new-cfo-ai-company-nears-5-billion-valuation",
+    "https://www.webull.com/news/15237818809869312",
+    "https://www.reveliolabs.com/companies/metropolis/employees/",
+    "https://www.linkedin.com/in/alex-israel/",
+    "https://www.lazparking.com/our-company/about/news/2024/05/16/laz-parking-resists-private-equity-lure-in-fast-consolidating-sector-president",
+    "https://www.privsource.com/acquisitions/deal/n8SMdp",
+    "https://greenbriarequity.com/?p=641",
+    "https://www.abm.com/perspectives/parking-at-a-glance",
+    "https://www.vistaequitypartners.com/news/flash-secures-over-250-million-in-round-led-by-vista-equity-partners-to-advance-connected-mobility-ecosystem/"
+  ],
+  "profile": {
+    "name": "Metropolis Technologies",
+    "description": "AI computer-vision platform that lets drivers enter and leave parking facilities without tickets or kiosks, run across a network it also operates (including SP+) for property owners, airports, hospitals and municipalities.",
+    "website": "https://www.metropolis.io",
+    "location": "Santa Monica, CA (HQ); offices in Nashville, New York, Chicago and Seattle; engineering also in Bengaluru and Stockport (AeroParker)",
+    "year_founded": "2017",
+    "founder": "Alex Israel (Co-Founder & CEO); co-founders Travis Kell, Peter Fisher, Courtney Fukuda",
+    "founder_linkedin": "https://www.linkedin.com/in/alex-israel/",
+    "founder_email": null,
+    "funding_detail": "Nov 2025: $1.6B package at ~$5B valuation = $500M Series D led by a LionTree-managed fund (with BDT & MSD credit funds, DFJ, Eldridge, Slow Ventures, SoftBank Vision Fund 2, Tekne, Vista) + $1.1B Term Loan B arranged by JPMorgan. Prior: ~$1.7-1.8B debt+equity (2023, led by Eldridge and 3L) to fund the SP+ take-private. Crunchbase puts total debt+equity raised since 2017 at ~$3.5B.",
+    "headcount": "Sources disagree: Revelio Labs ~10,224 (Dec 2025); Wikipedia 20,000+ (2024, incl. SP+ field staff); data vendors as low as ~1,800 (likely corporate only). LinkedIn's own figure not read.",
+    "past_completed_deals": "Oosto (formerly AnyVision, Israeli computer-vision firm) - ~$125M mostly-stock deal announced Jan 2025; SP Plus Corporation - ~$1.5B take-private, announced Oct 2023, completed 2024; Premier Parking (Nashville) - 2022.",
+    "open_role": "No corp-dev roles; hiring Sales (9 Director, Business Development roles plus Associate Account Executives), Growth, Engineering/Applied AI, Finance, Legal, People, Product (84 open corporate roles) as of 2026-10-08",
+    "contact_path": "https://www.metropolis.io/careers (corporate board: https://job-boards.greenhouse.io/metropolis; field roles: http://externalsp-spplus.icims.com/)"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Proven acquirer · no corp dev seat open",
+    "detail": "Bought SP+, Premier Parking and Oosto, then raised $1.6B in Nov 2025; no deal announced in 2026 and no corp-dev/M&A role on the live board, so the CEO is the route in."
+  },
+  "tagline": "Parking tech & operations · Santa Monica, CA",
+  "description": "Runs checkout-free, computer-vision parking for property owners, airports and cities, and operates the largest parking network in North America after taking SP+ private.",
+  "stats": [
+    { "value": "2017", "label": "founded", "caveat": false },
+    { "value": "~10,200", "label": "employees (Revelio)", "caveat": true },
+    { "value": "~$5B", "label": "valuation (Nov 2025)", "caveat": true },
+    { "value": "~$3.5B", "label": "debt + equity raised", "caveat": true }
+  ],
+  "headlines": [
+    { "date": "2026-07-16", "text": "Appointed Eric Garcetti, Hugh Wyman Howard III and ex-DraftKings CFO Jason Park as advisors", "source": "https://www.webull.com/news/15237818809869312" },
+    { "date": "2026-05-19", "text": "Named to the 2026 CNBC Disruptor 50 list for a second consecutive year", "source": "https://www.metropolis.io/news" }
+  ],
+  "ownership": [
+    { "entity": "Metropolis Technologies", "detail": "private, venture/growth-backed (LionTree-led Series D; Eldridge, 3L, SoftBank VF2, Vista)", "is_this": true }
+  ],
+  "deals": [
+    { "date": "2025", "name": "Oosto (formerly AnyVision)", "place": "Israel" },
+    { "date": "2024", "name": "SP Plus Corporation (take-private, ~$1.5B)", "place": "Chicago, IL" },
+    { "date": "2022", "name": "Premier Parking", "place": "Nashville, TN" }
+  ],
+  "footprint": {
+    "hq": "CA",
+    "bought": ["IL", "TN"],
+    "branch": ["TN", "NY", "IL", "WA"],
+    "notes": [
+      { "state": "IL", "text": "SP+ (Chicago) is the subsidiary that added 4,000+ locations and the field workforce" },
+      { "state": "CA", "text": "Oosto acquisition is Israel-based; AeroParker engineering in Stockport, UK and a team in Bengaluru" }
+    ]
+  },
+  "competitors": [
+    { "name": "LAZ Parking", "owner": "Founder-led; Argo investor", "note": "Large US parking operator; says it stays independent and funds its own acquisitions (e.g. FleetLogix, 2025)" },
+    { "name": "Towne Park", "owner": "Greenbriar Equity Group", "note": "Hospitality and healthcare parking/valet services; bought from TA Associates in 2023", "is_acquired": true },
+    { "name": "ABM Parking Services", "owner": "ABM Industries (NYSE: ABM)", "note": "Parking unit of the facility-services group; 1,800+ parking clients, won a 10-year Orlando airport contract in 2025" },
+    { "name": "Flash", "owner": "VC/PE-backed, Vista-led", "note": "Parking software and payments platform (formerly FlashParking); $250M+ round led by Vista in 2022" }
+  ],
+  "best_contact": {
+    "name": "Alex Israel",
+    "title": "Co-Founder & CEO",
+    "entity": "Metropolis",
+    "linkedin": "https://www.linkedin.com/in/alex-israel/",
+    "why": "Led the SP+, Premier and Oosto deals himself; no corp-dev head is publicly named",
+    "outreach_prompt": "Ask how Metropolis is sourcing its next acquisitions after the $1.6B Series D raise."
+  },
+  "people": [
+    { "name": "Lookman Olusanya", "title": "Chief Financial Officer (since June 2025; ex-CFO of Square)", "entity": "Metropolis" },
+    { "name": "Travis Kell", "title": "Co-Founder (former CFO; director of SP Plus since 2024)", "entity": "Metropolis", "caveat": true }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Headcount: Revelio ~10,224 vs Wikipedia 20,000+ vs vendors ~1,800; definitions differ (corporate vs field staff)",
+    "Valuation: ~$5B is reported by Crunchbase/press, not a disclosed figure",
+    "Oosto: deal announced Jan 2025; no source seen today confirms the closing date",
+    "Prior open role: VP Aviation Growth (scope included M&A), seen 2026-08-24, is no longer on the live board",
+    "No 2026 acquisition found: newsroom lists only advisors, rankings and media coverage this year",
+    "Travis Kell: title inconsistent across sources (former CFO vs current director)",
+    "Founder email: none published; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

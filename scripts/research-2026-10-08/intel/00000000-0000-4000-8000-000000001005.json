@@ -1,0 +1,96 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001005",
+  "name_in_list": "Particle Health",
+  "identity_note": "Matched particlehealth.com, the New York healthcare-data interoperability API company (LinkedIn HQ New York, NY), which fits the 'Medical Health Records' sector label. Not to be confused with Particle (IoT hardware) or particle-therapy results that dominate generic searches.",
+  "sources": [
+    "https://www.particlehealth.com",
+    "https://www.particlehealth.com/about-us",
+    "https://www.particlehealth.com/careers",
+    "https://boards.greenhouse.io/embed/job_board?for=particlehealth",
+    "https://www.particlehealth.com/in-the-media",
+    "https://www.particlehealth.com/blog/building-a-discharge-summary-you-dont-have-to-wait-for",
+    "https://www.linkedin.com/company/particle-health",
+    "https://www.linkedin.com/in/jason-prestinario-7ab36373",
+    "https://www.linkedin.com/in/troy-bannister-259a3235",
+    "https://particlehealth.com/blog/particle-health-appoints-jason-prestinario-as-ceo-to-scale-reach-and-clinical-impact",
+    "https://www.healthcaredive.com/news/epic-particle-health-antitrust-suit-moves-forward/759518/",
+    "https://www.mobihealthnews.com/news/data-exchange-platform-particle-health-scores-25m-and-more-digital-health-fundings",
+    "https://www.cbinsights.com/company/particle-health/financials",
+    "https://www.caplight.com/company/particle-health",
+    "https://fenwick.com/insights/experience/fenwick-represents-health-gorilla-in-15-million-series-b",
+    "https://www.cbinsights.com/company/redox-2/financials",
+    "https://www.cbinsights.com/company/1uphealth/financials",
+    "https://g-medtech.com/news/it/tag/financing/"
+  ],
+  "profile": {
+    "name": "Particle Health",
+    "description": "API platform that pulls patient medical records from national health-information networks and turns them into FHIR/C-CDA data and clinical insights, sold to value-based care organizations, payers, health systems and digital-health developers.",
+    "website": "https://www.particlehealth.com",
+    "location": "New York, NY",
+    "year_founded": "2018",
+    "founder": "Troy Bannister and Dan Horbatt (co-founders). Jason Prestinario has been CEO since May 2023 and runs the company; Bannister's LinkedIn now shows him at Onboard AI.",
+    "founder_linkedin": "https://www.linkedin.com/in/troy-bannister-259a3235 (CEO Jason Prestinario: https://www.linkedin.com/in/jason-prestinario-7ab36373)",
+    "founder_email": null,
+    "funding_detail": "About $39M-$49M raised in total (Caplight $39.3M; CB Insights $49.3M over 8 rounds). $12M Series A (early 2020, led by Menlo Ventures); $25M Series B (July 2022, led by Canvas Ventures with Menlo, Story Ventures, PruVen Capital); CB Insights also lists a $10M Series B-II on Dec 10, 2024 with undisclosed investors. No 2026 round found.",
+    "headcount": "11-50 on LinkedIn (41 employees listed on the LinkedIn page as of 2026-10-08); Built In lists 40",
+    "past_completed_deals": "None found. Particle Health is a data-interoperability platform, not an acquirer; no acquisitions page or acquisition press.",
+    "open_role": "No open roles found as of 2026-10-08",
+    "contact_path": "https://www.particlehealth.com/careers"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "Not an acquirer · no open roles",
+    "detail": "Small, VC-backed health-data API company whose antitrust case against Epic is in discovery. It has no deal history and no corp-dev seat; the CEO, Jason Prestinario, makes the calls."
+  },
+  "tagline": "Health data interoperability · New York, NY",
+  "description": "API platform that retrieves patient records from national health-data networks and turns them into usable clinical data for payers, value-based care groups and health-tech developers.",
+  "stats": [
+    { "value": "2018", "label": "founded", "caveat": false },
+    { "value": "41", "label": "employees (LinkedIn)", "caveat": false },
+    { "value": "$39-49M", "label": "raised", "caveat": true }
+  ],
+  "headlines": [
+    {
+      "date": "2026-04-30",
+      "text": "Launched AI-generated discharge summaries that build a clinical summary as soon as a hospital discharge is detected",
+      "source": "https://www.particlehealth.com/blog/building-a-discharge-summary-you-dont-have-to-wait-for"
+    }
+  ],
+  "ownership": [],
+  "deals": [],
+  "footprint": {
+    "hq": "NY",
+    "notes": [
+      { "state": "NY", "text": "HQ per LinkedIn; the about page doesn't state an address" }
+    ]
+  },
+  "competitors": [
+    { "name": "Health Gorilla", "owner": "VC-backed (Nationwide Ventures)", "note": "Health-data exchange and QHIN; sued by Epic in January 2026" },
+    { "name": "Redox", "owner": "VC-backed (Battery Ventures)", "note": "EHR integration network; last round a $45M Series D in 2021" },
+    { "name": "1upHealth", "owner": "VC-backed (Sixth Street Growth)", "note": "FHIR data platform for payers; $45M Series C in 2023" },
+    { "name": "Metriport", "owner": "VC-backed (Matrix, YC)", "note": "Open-source medical-records API; reported $26M round" }
+  ],
+  "best_contact": {
+    "name": "Jason Prestinario",
+    "title": "Chief Executive Officer",
+    "entity": "Particle Health",
+    "linkedin": "https://www.linkedin.com/in/jason-prestinario-7ab36373",
+    "why": "Runs the company and is its public voice; there is no corp-dev function"
+  },
+  "people": [
+    { "name": "Jean Barmash", "title": "Chief Technology Officer", "entity": "Particle Health" },
+    { "name": "Mina Patel", "title": "Chief People Officer", "entity": "Particle Health" },
+    { "name": "Elyse Marr", "title": "VP of Operations", "entity": "Particle Health" }
+  ],
+  "none_found": ["ownership", "deals"],
+  "caveats": [
+    "Open roles: the careers page loads, but its embedded Greenhouse board ('particlehealth') returns 'can't find that page' and no Ashby or Lever board exists, so no postings are live",
+    "Founder: Troy Bannister's LinkedIn now shows Onboard AI; he moved to Chief Strategy Officer in 2023 and appears to have left. Dan Horbatt's current role is not confirmed",
+    "Funding: totals disagree, Caplight $39.3M vs CB Insights $49.3M; the Dec 2024 $10M Series B-II comes only from aggregators",
+    "Headcount: LinkedIn shows 41 (11-50 band), down from the ~50 in the prior pass; Wellfound still shows 51-200",
+    "Litigation: Sept 2025, the SDNY court let Particle's monopolization claims against Epic proceed to discovery; no later ruling found",
+    "Ownership: independent and VC-backed; no parent or PE sponsor found"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

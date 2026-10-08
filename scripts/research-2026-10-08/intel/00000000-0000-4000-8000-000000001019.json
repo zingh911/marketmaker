@@ -1,0 +1,154 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001019",
+  "name_in_list": "Jutro Medical",
+  "identity_note": "Matched Jutro Medical Sp. z o.o. (jutromedical.com), the Warsaw-based NFZ-funded primary-care clinic network founded by Adam Janczewski. Website, sector (medical) and Poland HQ all match the batch entry; no competing company of the same name surfaced.",
+  "sources": [
+    "https://jutromedical.com",
+    "https://jutromedical.com/kariera/dev",
+    "https://jutromedical.com/kariera/med",
+    "https://jutromedical.traffit.com",
+    "https://jobs.eu.lever.co/jutromedical",
+    "https://www.forbes.pl/biznes/adam-janczewski-rewolucjonizuje-z-jutro-medical-polskie-przychodnie/mv00zl5",
+    "https://xyz.pl/firma-jutro-medical-domyka-runde-na-101-mln-zl-chcemy-bic-jakoscia-prywatne-placowki/",
+    "https://rzmlaw.com/en/rymarz-zdort-maruta-advises-jutro-medicals-subsidiary-on-acquisition-financing-provided-by-mbank/",
+    "https://www.linkedin.com/company/jutromedical",
+    "https://pl.linkedin.com/in/adam-janczewski-5362995a",
+    "https://rocketjobs.pl/oferta-pracy/jutro-medical-people-recruitment-specialist-warszawa-hr-recruitment-8534775a",
+    "https://www.seedtable.com/people/adam-janczewski-f0173f3d",
+    "https://www.laingbuissonnews.com/newsletter-archives/bupa-buys-polish-healthcare-provider/",
+    "https://news.cision.com/medicover/r/medicover-acquires-cdt-medicus-group-in-poland,c3447751",
+    "https://www.parkiet.com/firmy/231421-centrum-medyczne-enel-med"
+  ],
+  "profile": {
+    "name": "Jutro Medical",
+    "description": "Polish primary-care (POZ) clinic operator funded by the National Health Fund (NFZ): patients book free teleconsultations or in-person visits and get prescriptions and results in its app, with in-house AI tools supporting doctors. It grows by building clinics and by buying existing ones, often from retiring doctors.",
+    "website": "https://jutromedical.com",
+    "location": "Warsaw, Poland (HQ at Powązkowska 44); clinics in Warsaw, Poznań/Suchy Las, Wrocław, Kraków, Gdańsk and other Polish cities. No US presence found.",
+    "year_founded": "2020",
+    "founder": "Adam Janczewski (Founder & CEO)",
+    "founder_linkedin": "https://pl.linkedin.com/in/adam-janczewski-5362995a",
+    "founder_email": null,
+    "funding_detail": "About PLN 151M raised in equity and debt (Forbes Polska, May 2026). Latest: PLN 101M (~EUR 23-24M) Series A extension announced Dec 2025, led by Warsaw Equity Group with Vinci (BGK group), plus naturalX Health Ventures, Fluent Ventures, Aternus, KAYA VC, Inovo VC and healthcare angels; ~85% equity / 15% debt from Orbit Capital and mBank. Earlier: EUR 12M Series A (Mar 2025, KAYA VC and RIO ASI leads, with Inovo VC); first round PLN 1.7M (Kogito Ventures and others).",
+    "headcount": "LinkedIn band 501-1,000 (126 employees on LinkedIn); Forbes Polska (May 2026): ~70 at HQ and ~800 including clinic staff",
+    "past_completed_deals": "17 clinics acquired to date out of 29 total (Forbes Polska, May 2026), including six acquired in April 2026; seven acquisition transactions in 2025 added nine locations (XYZ.pl, Dec 2025). Acquired clinic names not disclosed. Acquisitions run through subsidiary Medola Centrum Medyczne, which has an mBank acquisition facility.",
+    "open_role": "No open roles found as of 2026-10-08",
+    "contact_path": "https://jutromedical.com/kariera/dev (careers); clinic contact przychodnia@jutromedical.com"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active acquirer of Polish clinics · no corp dev seat open",
+    "detail": "17 clinics bought (6 in April 2026), aiming at a dozen-plus a year; founder-CEO Adam Janczewski runs the roll-up. Outside the US/Canada scope."
+  },
+  "tagline": "Primary care clinics · Warsaw, Poland",
+  "description": "Runs a growing network of NFZ-funded primary-care clinics in Poland, buying clinics from retiring doctors and adding its own AI tools.",
+  "stats": [
+    {
+      "value": "2020",
+      "label": "founded",
+      "caveat": false
+    },
+    {
+      "value": "~800",
+      "label": "staff incl. clinics",
+      "caveat": true
+    },
+    {
+      "value": "PLN 151M",
+      "label": "raised (equity + debt)",
+      "caveat": false
+    },
+    {
+      "value": "17",
+      "label": "clinics acquired",
+      "caveat": false
+    }
+  ],
+  "headlines": [
+    {
+      "date": "2026-05-29",
+      "text": "Forbes Polska: Jutro Medical reaches 29 clinics, 17 of them acquired including six in April 2026; recurring revenue ~PLN 120M a year",
+      "source": "https://www.forbes.pl/biznes/adam-janczewski-rewolucjonizuje-z-jutro-medical-polskie-przychodnie/mv00zl5"
+    }
+  ],
+  "ownership": [
+    {
+      "entity": "Jutro Medical Sp. z o.o.",
+      "detail": "VC-backed private company; investors include Warsaw Equity Group, Vinci (BGK), KAYA VC, Inovo VC",
+      "is_this": true
+    },
+    {
+      "entity": "Medola Centrum Medyczne sp. z o.o.",
+      "detail": "subsidiary used for clinic acquisitions (mBank acquisition facility)"
+    }
+  ],
+  "deals": [
+    {
+      "name": "Six primary-care clinics (names undisclosed)",
+      "date": "Apr 2026",
+      "place": "Poland"
+    },
+    {
+      "name": "Seven clinic acquisitions adding nine locations (names undisclosed)",
+      "date": "2025",
+      "place": "Poland"
+    }
+  ],
+  "footprint": {
+    "notes": [
+      {
+        "state": "PL",
+        "text": "Non-US company: HQ Warsaw, Poland; no US HQ code applies"
+      },
+      {
+        "state": "PL",
+        "text": "29 clinics across Polish cities incl. Warsaw, Poznań, Wrocław, Kraków, Gdańsk"
+      }
+    ]
+  },
+  "competitors": [
+    {
+      "name": "LUX MED",
+      "owner": "Bupa",
+      "note": "Poland's largest private healthcare provider; buys hospitals and clinics",
+      "is_acquired": true
+    },
+    {
+      "name": "Medicover",
+      "owner": "Nasdaq Stockholm: MCOV B",
+      "note": "Clinics, hospitals and labs; bought CDT Medicus primary-care group in 2021"
+    },
+    {
+      "name": "Enel-Med",
+      "owner": "Warsaw-listed (GPW: ENE)",
+      "note": "Warsaw-based outpatient and NFZ-contracted care network"
+    }
+  ],
+  "best_contact": {
+    "name": "Adam Janczewski",
+    "title": "Founder & CEO",
+    "entity": "Jutro Medical",
+    "linkedin": "https://pl.linkedin.com/in/adam-janczewski-5362995a",
+    "why": "Founder-CEO who personally drives the clinic-acquisition strategy"
+  },
+  "people": [
+    {
+      "name": "Konrad Michalski",
+      "title": "Medical Director",
+      "entity": "Jutro Medical",
+      "caveat": true
+    }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Scope: Polish company with no US operations; outside a US/Canada list",
+    "Prior pass: Aug 2026 said not acquisitive; Forbes and XYZ.pl show 17 clinic acquisitions",
+    "Open roles: careers pages loaded with empty listings; postings may render via JavaScript",
+    "Headcount: LinkedIn band 501-1,000 vs Forbes ~70 HQ / ~800 incl. clinics",
+    "Deals: acquired clinic names never disclosed; listed as counts",
+    "People: Konrad Michalski's title from XYZ.pl (Dec 2025); other Forbes-named managers lack titles",
+    "Founder email: none published; left null",
+    "Founded: 2020 per secondary sources (Seedtable, job listing); not on company site"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

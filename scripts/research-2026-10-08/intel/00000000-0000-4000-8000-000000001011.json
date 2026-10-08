@@ -1,0 +1,108 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001011",
+  "name_in_list": "2X",
+  "identity_note": "Matched 2X (2x.com, formerly 2x.marketing), the Malvern, PA B2B marketing-as-a-service / GTM services company backed by Recognize and Insight Partners; sector and PE-growth stage match. Note the LinkedIn page 'linkedin.com/company/2x-marketing' (2-10 employees) is a different, unrelated entity; the right page is linkedin.com/company/2xmarketing.",
+  "sources": [
+    "https://2x.com/career/open-roles/",
+    "https://2x.com/category/press-release/",
+    "https://2x.com/category/press-release/page/2/",
+    "https://2x.com/category/press-release/page/3/",
+    "https://ionanalytics.com/insights/mergermarket/sponsor-backed-2x-now-acquiring-at-a-slower-pace-as-it-scales-operations-ceo/",
+    "https://pulse2.com/2x-acquires-knownwell-to-create-ai-powered-gtm-services-platform-valued-at-more-than-400-million/amp/",
+    "https://2x.com/press-release/2x-appoints-amber-tobias-as-svp/",
+    "https://www.mychesco.com/a/news/business/executives/2x-appoints-amber-tobias-to-lead-corporate-development-and-ma-strategy/",
+    "https://www.privsource.com/acquisitions/deal/3ASYAp",
+    "https://www.willkie.com/news/2023/04/willkie-advises-recognize-partners-in-investment-in-2x-llc",
+    "https://2x.com/press-release/2x-secures-strategic-investment-from-insight-partners/",
+    "https://news.outsourceaccelerator.com/2x-acquires-straightarrow/",
+    "https://www.privsource.com/acquisitions/deal/ZoS7p5",
+    "https://www.mychesco.com/a/news/business/mergers-and-acquisitions/2x-acquires-outbound-funnel-to-deepen-ai-powered-revenue-operations-expertise/",
+    "https://pitchbook.com/profiles/company/257363-29",
+    "https://www.linkedin.com/company/2xmarketing",
+    "https://www.linkedin.com/in/ddewolf/",
+    "https://www.linkedin.com/in/domeniccolasante/",
+    "https://www.martechcube.com/?p=272944",
+    "https://www.privateequitywire.co.uk/horizon-capital-backed-marketing-practice-acquires-rombii/",
+    "https://www.b2bmarketing.net/gravity-global-receives-major-investment-from-private-equity-fund-to-continue-international-expansion/"
+  ],
+  "profile": {
+    "name": "2X",
+    "description": "Subscription-based B2B go-to-market services firm ('marketing-as-a-service', now pitched as human-agentic GTM) that runs marketing, RevOps and sales/customer-success execution for B2B companies using onshore strategists and offshore delivery teams.",
+    "website": "https://2x.com",
+    "location": "Malvern, PA (HQ, Greater Philadelphia); delivery centers in Kuala Lumpur, Malaysia and Manila, Philippines",
+    "year_founded": "2017",
+    "founder": "Domenic (Dom) Colasante (Founder; company says it was founded by three former B2B CMOs); David DeWolf is CEO since June 2026 (founder of Knownwell, acquired by 2X)",
+    "founder_linkedin": "https://www.linkedin.com/in/domeniccolasante/ (Colasante); https://www.linkedin.com/in/ddewolf/ (DeWolf, CEO)",
+    "founder_email": null,
+    "funding_detail": "PE-backed. Recognize Partners made 2X's first institutional, strategic growth-equity investment (Mar 29, 2023; Stellus Capital provided debt + equity co-invest; amount undisclosed). Insight Partners made a strategic secondary investment (Mar 18, 2025; undisclosed). Knownwell acquisition (Jun 2026) valued the combined company at $400M+; Knownwell's lead investor Sovereign's Capital remains on the cap table.",
+    "headcount": "1,001-5,000 band on LinkedIn (1,310 employees listed on the page); company says 1,200+ / nearly 1,300 team members globally",
+    "past_completed_deals": "Six acquisitions since 2023 per Mergermarket (Jul 2026); five identified: Knownwell (AI/agentic GTM platform, Jun 2026; founder David DeWolf became 2X CEO), The Kiln (Brooklyn Clay/GTM engineering partner, Jan 2026), Outbound Funnel (RevOps consultancy, Jul 2025), Intelligent Demand (Denver B2B growth agency, Dec 2024), StraightArrow (Manila creative outsourcing firm, ~200 staff, Nov 2023). Also minority/strategic investments in Get Levrg (Jan 2025) and a Copy.ai partnership (2025). Stated target size: $10-30M revenue.",
+    "open_role": "No corp-dev roles; hiring Senior Content Writer, Performance Marketing Specialist, UI/UX Designer, Client Success Director, Strategic Campaign Director, Video Editor (6 open roles) as of 2026-10-08",
+    "contact_path": "https://2x.com/career/open-roles/ (careers); https://2x.com/contact/ (general contact)"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active acquirer · SVP Corp Dev in seat",
+    "detail": "Six deals since 2023, latest Knownwell (Jun 2026); now buying selectively at $10-30M revenue, and SVP Corporate Development Amber Tobias runs the pipeline."
+  },
+  "tagline": "B2B marketing / GTM services · Malvern, PA",
+  "description": "Runs outsourced, subscription-based marketing, RevOps and go-to-market execution for B2B companies, mixing US strategists with offshore delivery teams and AI agents.",
+  "stats": [
+    { "value": "2017", "label": "founded", "caveat": false },
+    { "value": "1,310", "label": "employees (LinkedIn)", "caveat": false },
+    { "value": "$400M+", "label": "valuation (Jun 2026)", "caveat": true },
+    { "value": "6", "label": "acquisitions since 2023", "caveat": false }
+  ],
+  "headlines": [
+    { "date": "2026-08-11", "text": "Made the 2026 Inc. 5000 list of fastest-growing private companies", "source": "https://2x.com/category/press-release/" },
+    { "date": "2026-06-10", "text": "Acquired Knownwell and named its founder David DeWolf CEO; combined company valued at $400M+", "source": "https://ionanalytics.com/insights/mergermarket/sponsor-backed-2x-now-acquiring-at-a-slower-pace-as-it-scales-operations-ceo/" }
+  ],
+  "ownership": [
+    { "entity": "Recognize Partners", "detail": "PE sponsor (tech-services growth equity); first institutional investor", "since": "2023" },
+    { "entity": "Insight Partners", "detail": "strategic secondary investor", "since": "2025" },
+    { "entity": "2X", "detail": "private, PE-backed; controlling holder not disclosed", "is_this": true }
+  ],
+  "deals": [
+    { "date": "2026", "name": "Knownwell", "place": "undisclosed" },
+    { "date": "2026", "name": "The Kiln", "place": "Brooklyn, NY" },
+    { "date": "2025", "name": "Outbound Funnel", "place": "undisclosed" },
+    { "date": "2024", "name": "Intelligent Demand", "place": "Denver, CO" },
+    { "date": "2023", "name": "StraightArrow", "place": "Manila, Philippines" }
+  ],
+  "footprint": {
+    "hq": "PA",
+    "bought": ["CO", "NY"],
+    "notes": [
+      { "state": "PA", "text": "Delivery centers in Kuala Lumpur and Manila (StraightArrow); live job board is all KL/Manila roles" }
+    ]
+  },
+  "competitors": [
+    { "name": "Walker Sands", "owner": "Mountaingate Capital", "note": "B2B growth services platform (strategy, martech, RevOps, creative); two add-ons since first PE deal", "is_acquired": true },
+    { "name": "The Marketing Practice", "owner": "Horizon Capital", "note": "B2B marketing agency group; Rombii was its fifth acquisition in 18 months", "is_acquired": true },
+    { "name": "Gravity Global", "owner": "Elysian Capital", "note": "International B2B brand-to-demand agency network; three acquisitions in 18 months", "is_acquired": true }
+  ],
+  "best_contact": {
+    "name": "Amber Tobias",
+    "title": "SVP, Corporate Development",
+    "entity": "2X",
+    "why": "Leads target identification, deal execution and integration (appointed Jul 2025; ex-Head of Corp Dev at PSG-backed FluentStream)",
+    "outreach_prompt": "Ask which vertical or capability gaps 2X is filling next in the $10-30M revenue range."
+  },
+  "people": [
+    { "name": "David DeWolf", "title": "CEO (since Jun 2026; founder of Knownwell and 3Pillar Global)", "entity": "2X", "linkedin": "https://www.linkedin.com/in/ddewolf/" },
+    { "name": "Dom Colasante", "title": "Founder", "entity": "2X", "linkedin": "https://www.linkedin.com/in/domeniccolasante/" },
+    { "name": "Drew Murphy", "title": "Chief Financial and Operating Officer (named Apr 2026)", "entity": "2X" }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Amber Tobias: role from Jul 2025 press release; not re-verified on LinkedIn today",
+    "Acquisition count: Mergermarket says six since 2023; only five named in sources checked",
+    "Valuation: $400M+ is the company's own figure at the Knownwell deal",
+    "Ownership: Recognize and Insight stake sizes and control not disclosed",
+    "Knownwell / Outbound Funnel: HQ locations not stated in sources checked",
+    "LinkedIn name clash: 'linkedin.com/company/2x-marketing' is an unrelated 3-person page",
+    "Founder email: none published; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

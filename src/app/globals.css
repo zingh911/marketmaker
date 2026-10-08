@@ -173,3 +173,219 @@ body {
   background: transparent;
   border: none;
 }
+
+/* --- CRM view ------------------------------------------------------------ */
+
+.hide-narrow {
+}
+@media (max-width: 760px) {
+  .hide-narrow {
+    display: none !important;
+  }
+}
+
+.crm-toolbar {
+  flex-shrink: 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  padding: 10px 16px;
+}
+
+.seg-group {
+  display: flex;
+  gap: 2px;
+  padding: 2px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--card);
+}
+.seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px;
+  border: none;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted-foreground);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+.seg[aria-pressed="true"] {
+  background: var(--acc-bg);
+  color: var(--primary);
+}
+
+.chip {
+  height: 28px;
+  padding: 0 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted-foreground);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+.chip:hover {
+  color: var(--foreground);
+}
+.chip[aria-pressed="true"] {
+  border-color: var(--acc-border);
+  background: var(--acc-bg);
+  color: var(--primary);
+}
+
+.seg:focus-visible,
+.chip:focus-visible,
+.th-btn:focus-visible,
+.rail-item:focus-visible,
+.crm-table tbody tr:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: -2px;
+}
+
+.crm-body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  position: relative;
+}
+.crm-main {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.crm-table {
+  width: 100%;
+  min-width: 1100px;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.crm-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--background);
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  padding: 0;
+}
+.th-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  padding: 10px 12px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+  text-align: left;
+}
+.th-btn:hover {
+  color: var(--foreground);
+}
+.crm-table td.nowrap {
+  white-space: nowrap;
+}
+.crm-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+.crm-table tbody tr {
+  cursor: pointer;
+}
+.crm-table tbody tr:hover {
+  background: #1c1c21;
+}
+.crm-table tbody tr[aria-selected="true"] {
+  background: var(--acc-bg);
+  box-shadow: inset 3px 0 0 var(--primary);
+}
+
+.crm-rail {
+  width: 300px;
+  flex-shrink: 0;
+  overflow-y: auto;
+  border-right: 1px solid var(--border);
+  background: var(--card);
+}
+.rail-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 100%;
+  text-align: left;
+  padding: 9px 12px;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.rail-item:hover {
+  background: #1f1f24;
+}
+.rail-item[aria-pressed="true"] {
+  background: var(--acc-bg);
+  box-shadow: inset 3px 0 0 var(--primary);
+}
+
+.map-notes {
+  position: absolute;
+  left: 12px;
+  bottom: 24px;
+  right: 160px;
+  z-index: 500;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  pointer-events: none;
+}
+.map-note {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted-foreground);
+  background: rgba(26, 26, 30, 0.92);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+
+.crm-drawer {
+  width: 420px;
+  flex-shrink: 0;
+  overflow-y: auto;
+  border-left: 1px solid var(--border);
+  background: var(--card);
+}
+
+/* Narrow screens: the rail goes, and the drawer covers the body. */
+@media (max-width: 900px) {
+  .crm-rail {
+    display: none;
+  }
+  .crm-drawer {
+    position: absolute;
+    inset: 0;
+    width: auto;
+    z-index: 600;
+    border-left: none;
+  }
+}

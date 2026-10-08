@@ -1,0 +1,111 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001003",
+  "name_in_list": "R1 RCM",
+  "identity_note": "Matched R1 RCM (brand now styled 'R1'), the Murray, UT revenue-cycle-management company at r1rcm.com, formerly Accretive Health and formerly NASDAQ: RCM. Sector (medical RCM) and website match the batch entry; no collision risk.",
+  "sources": [
+    "https://www.r1rcm.com/careers/",
+    "https://www.r1rcm.com/careers/jobs",
+    "https://www.r1rcm.com/employee/dan-bise",
+    "https://www.r1rcm.com/newsroom/r1-expands-finance-and-corporate-development-teams-with-new-appointments",
+    "https://pulse2.com/r1-to-acquire-humata-health-as-ai-prior-authorization-platform-delivers-up-to-96-first-pass-approval/",
+    "https://www.pehub.com/towerbrook-cdr-backed-r1-to-acquire-prior-authorization-ai-firm-humata/",
+    "https://www.globenewswire.com/news-release/2025/10/14/3166156/0/en/R1-to-Acquire-Phare-Health-a-Leading-AI-Platform-for-Automating-Inpatient-Coding-and-Pre-Bill-Clinical-Documentation-Improvement.html",
+    "https://www.globenewswire.com/news-release/2026/02/04/3232043/0/en/r1-awarded-best-in-klas-across-multiple-rcm-categories-for-2026.html",
+    "https://www.r1rcm.com/news-and-press/towerbrook-and-cdr-complete-acquisition-of-r1-rcm/",
+    "https://www.fiercehealthcare.com/finance/towerbrook-cdr-take-health-tech-company-r1-rcm-private-89b-deal",
+    "https://www.techtarget.com/revcyclemanagement/news/366625065/R1-secures-investment-for-agentic-AI-in-revenue-cycle-management",
+    "https://en.wikipedia.org/wiki/R1_RCM",
+    "https://ca.finance.yahoo.com/quote/RCM/profile",
+    "https://www.r1rcm.com/newsroom/r1-completes-acquisition-of-visitpay",
+    "https://www.biospace.com/r1-completes-acquisition-of-sci-solutions",
+    "https://www.r1rcm.com/news/r1-rcm-completes-acquisition-of-cloudmed",
+    "https://www.beckershospitalreview.com/finance/revenue-cycle-management/9-health-system-rcm-partnerships-in-2026/",
+    "https://www.ensemblehp.com/blog/thoreau-to-make-strategic-growth-investment-in-ensemble/",
+    "https://www.healthcaredive.com/news/tenet-conifer-commonspirit-equity-deal-rcm/811073/",
+    "https://clearlake.com/portfolio/finthrive/",
+    "https://www.digitalhealthnews.com/new-mountain-capital-acquires-majority-stake-in-access-healthcare"
+  ],
+  "profile": {
+    "name": "R1 RCM (R1)",
+    "description": "Outsourced and technology-led revenue cycle management for US hospitals, health systems and physician groups, now built around its AI 'Phare OS' platform and R37 AI lab; says it serves ~1,000 providers including 95 of the top 100 US health systems.",
+    "website": "https://www.r1rcm.com",
+    "location": "Murray, UT (Wikipedia / Yahoo Finance profile); 2026 press releases datelined Chicago; large offshore delivery footprint (India and elsewhere)",
+    "year_founded": "2003",
+    "founder": "Founded as Accretive Health in 2003 by Mary Tolan and Michael Cline (renamed R1 RCM 2017). Current CEO Joe Flanagan (not a founder; CEO 2016-2023, CEO again since Nov 2024 take-private; quoted as CEO in Aug 2026 Humata release).",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "Taken private by TowerBrook Capital Partners and Clayton, Dubilier & Rice; deal closed Nov 2024 at ~$8.9B ($14.30/share), delisted from NASDAQ. Khosla Ventures made an undisclosed investment in R1 (June 2025) to back the R37 AI lab.",
+    "headcount": "~29,400 full-time (Yahoo Finance / GlobalData); Wikipedia gives ~30,000 (2023) and 27,200+ in body text. LinkedIn figure not retrieved.",
+    "past_completed_deals": "Humata Health (AI prior authorization; agreement announced Aug 18, 2026, close expected by end of Q3 2026, closing not confirmed); Phare Health (London AI inpatient coding; agreement Oct 2025, team folded into R37); Cloudmed (~$4.1B, 2022); VisitPay (~$300M, closed Jul 2021); SCI Solutions (closed Apr 2020); Cerner RevWorks business (2020).",
+    "open_role": "No corp-dev roles; hiring Revenue Cycle Operations (patient registration, coding), R37 AI/product engineering, Service Delivery (439 open roles) as of 2026-10-08",
+    "contact_path": "https://www.r1rcm.com/careers/jobs"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active acquirer of AI RCM tech · no corp dev seat open",
+    "detail": "Two AI tuck-ins in a year (Phare Health, Humata Health); M&A is run by EVP Corp Dev & Strategy Dan Bise, with sponsors TowerBrook and CD&R behind him."
+  },
+  "tagline": "Medical RCM · Murray, UT",
+  "description": "Runs and automates revenue cycle operations (registration, coding, billing, denials, prior auth) for US hospitals, health systems and physician groups.",
+  "stats": [
+    {"value": "2003", "label": "founded", "caveat": false},
+    {"value": "~29,400", "label": "employees", "caveat": true},
+    {"value": "$8.9B", "label": "2024 take-private", "caveat": false},
+    {"value": "439", "label": "open roles", "caveat": false}
+  ],
+  "headlines": [
+    {"date": "2026-09-09", "text": "UF Health partners with R1 to deploy an AI-native revenue cycle model on Phare OS, with R37 engineers embedded", "source": "https://www.beckershospitalreview.com/finance/revenue-cycle-management/9-health-system-rcm-partnerships-in-2026/"},
+    {"date": "2026-08-18", "text": "R1 agrees to acquire Humata Health (AI prior authorization); terms undisclosed, close expected by end of Q3 2026", "source": "https://pulse2.com/r1-to-acquire-humata-health-as-ai-prior-authorization-platform-delivers-up-to-96-first-pass-approval/"}
+  ],
+  "ownership": [
+    {"entity": "TowerBrook Capital Partners & Clayton, Dubilier & Rice", "detail": "PE owners (joint)", "since": "Nov 2024"},
+    {"entity": "R1 RCM", "detail": "private, PE-owned", "is_this": true},
+    {"entity": "Public shareholders (NASDAQ: RCM)", "detail": "public until delisting", "is_former": true}
+  ],
+  "deals": [
+    {"date": "2026", "name": "Humata Health (pending; announced Aug 2026)"},
+    {"date": "2025", "name": "Phare Health", "place": "London, UK"},
+    {"date": "2022", "name": "Cloudmed"},
+    {"date": "2021", "name": "VisitPay"},
+    {"date": "2020", "name": "SCI Solutions"},
+    {"date": "2020", "name": "Cerner RevWorks business"}
+  ],
+  "footprint": {
+    "hq": "UT",
+    "branch": ["IL", "FL", "AZ", "IA", "TX"],
+    "notes": [
+      {"state": "IL", "text": "2026 press releases datelined Chicago"},
+      {"state": "FL", "text": "Branch states are onsite patient-registration postings seen on the jobs board, not offices"}
+    ]
+  },
+  "competitors": [
+    {"name": "Ensemble Health Partners", "owner": "PE; Thoreau investing", "note": "End-to-end hospital RCM outsourcing for 200+ hospitals; Thoreau growth investment announced Jun 2026"},
+    {"name": "Conifer Health Solutions", "owner": "Tenet (NYSE: THC)", "note": "Hospital RCM outsourcing; Tenet took full ownership from CommonSpirit in 2026"},
+    {"name": "FinThrive", "owner": "Clearlake Capital", "note": "RCM software and services; refinanced with $155M new capital Nov 2024"},
+    {"name": "Access Healthcare", "owner": "New Mountain Capital", "note": "Offshore RCM/BPO; New Mountain bought a ~70-75% stake (Jan 2025)", "is_acquired": true},
+    {"name": "Optum (Insight RCM)", "owner": "UnitedHealth (NYSE: UNH)", "note": "Large RCM outsourcing and software arm of UnitedHealth"}
+  ],
+  "best_contact": {
+    "name": "Dan Bise",
+    "title": "EVP, Corporate Development and Strategy",
+    "entity": "R1",
+    "why": "Leads R1's enterprise strategy and M&A (joined June 2025 from Tailwind Capital; ex-Change Healthcare corp dev)."
+  },
+  "people": [
+    {"name": "Joe Flanagan", "title": "Chief Executive Officer", "entity": "R1"},
+    {"name": "Chris Ricaurte", "title": "Chief Financial Officer (oversees Finance and Corp Dev & Strategy)", "entity": "R1", "caveat": true}
+  ],
+  "none_found": [],
+  "caveats": [
+    "Humata close: deal was due by end of Q3 2026; no closing announcement found as of Oct 8",
+    "Humata price: one aggregator cites a $7.5B NYT figure; unconfirmed and not used",
+    "Headcount: Yahoo/GlobalData 29,400; Wikipedia 30,000 (2023) and 27,200+; LinkedIn not retrieved",
+    "HQ: Murray, UT per Wikipedia/Yahoo; 2026 releases datelined Chicago",
+    "Open roles: jobs board showed 439 roles; only page 1 read and keyword search did not filter, so a corp-dev title elsewhere can't be fully excluded",
+    "Ricaurte: CFO since June 2025 per press release; not re-verified on a 2026 source",
+    "Founder LinkedIn/email: founders long gone from company; left null",
+    "Careers page: careers landing and jobs board loaded; newsroom and leadership pages returned 403"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

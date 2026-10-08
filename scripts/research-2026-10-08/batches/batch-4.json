@@ -1,0 +1,165 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001003",
+  "name": "R1 RCM",
+  "website": "https://www.r1rcm.com",
+  "known_hq": "US",
+  "sector": "Medical RCM",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "Structurally different from the rest of this list - a large, PE-owned public-company-turned-private RCM incumbent (34K employees) rather than a young AI-native roll-up, though it fits the M&A pattern via Cloudmed/VisitPay/SCI Solutions."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.r1rcm.com",
+   "year_founded": "2003",
+   "founder": "Founded as Accretive Health in 2003 by Mary Tolan and Michael Cline (renamed R1 RCM in 2017); current CEO is Joe (Joseph) Flanagan, reinstalled Nov 2024 after TowerBrook Capital Partners/CD&R took the company private (not a founder - long-tenured operating exec, COO 2013, CEO 2016-2023, CEO again since Nov 2024)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Public company (former NASDAQ: RCM) taken private by TowerBrook Capital Partners and Clayton, Dubilier & Rice (CD&R) in a deal that closed Nov 2024, valuing R1 at $8.9B. Not a traditional VC-funded startup.",
+   "headcount": "~30,000-34,000 associates worldwide; large offshore delivery presence (India, etc.)",
+   "past_completed_deals": "Under Joe Flanagan's leadership R1 acquired VisitPay, SCI Solutions, and Cloudmed (advanced analytics/robotic process automation for revenue intelligence) - establishing R1 as a technology-led RCM platform. R1 itself began as Accretive Health (2003).",
+   "open_role": "No corp-dev/M&A-titled role confirmed via direct search. r1rcm.com/careers returned HTTP 403 to automated fetch, searched via Workday portal instead. Hiring elsewhere; 300+ open roles, mostly Revenue Cycle Ops/Coding/IT as of 2026-08-24",
+   "contact_path": "https://www.r1rcm.com/careers/ (workday portal: https://r1rcm.wd1.myworkdayjobs.com/R1RCM); recruiting contact: R1Careers@r1rcm.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001013",
+  "name": "Iterative Health",
+  "website": "https://iterative.health",
+  "known_hq": "US",
+  "sector": "Clinical Research",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://iterative.health",
+   "year_founded": "2017",
+   "founder": "Jonathan Ng, MBBS (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/jonathan-ng-55784b61/",
+   "founder_email": null,
+   "funding_detail": "Series C: $77M (announced April 2026), led by Google Ventures and Intrepid Growth Partners, with new investors EDBI and a family office, plus existing investors Insight Partners and Obvious Ventures. Prior backers also include Nat Turner and Zach Weinberg (Flatiron founders), J&J, and Eli Lilly.",
+   "headcount": "~156-250 (sources vary: ~156-168 per recent counts, 250 per PitchBook)",
+   "past_completed_deals": "Actively acquiring clinical trial sites/companies to build a multispecialty research network (100+ sites across 3 continents). Confirmed: acquisition of three Texas cardiology sites (Beaumont, Port Arthur, Waco) from NextStage Clinical Research (2026); earlier acquisition of Clinical Research Strategy Group and Precision Research (2022, under prior name Iterative Scopes), both IBD-focused clinical trial optimization firms.",
+   "open_role": "Corporate Development Manager open as of 2026-08-24 (https://job-boards.greenhouse.io/iterativehealth/jobs/4707385006) - also has related Business Development Operations Manager (Cardiology) and Director, Life Sciences roles open",
+   "contact_path": "https://job-boards.greenhouse.io/iterativehealth"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001023",
+  "name": "Ready Plan Go",
+  "website": "https://readyplango.com",
+  "known_hq": "Canada",
+  "sector": "Tax Advisory",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "One of only two Canada-HQ'd companies in the full 209-company database",
+   "Own site is JS-heavy and rendered almost no content via fetch - founder/team details came from secondary sources (BetaKit, ZoomInfo, LinkedIn posts) rather than the site directly, lower confidence."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://readyplango.com",
+   "year_founded": null,
+   "founder": "Nima Jalalvandi (CEO/Co-Founder); Aryan Shirazi (Co-Founder & Full-Stack AI Developer)",
+   "founder_linkedin": "https://ca.linkedin.com/in/nimaaa",
+   "founder_email": null,
+   "funding_detail": "$750K pre-seed, including Mistral Venture Partners and 15 Montreal-area angel investors (incl. Stay22 CEO Andrew Lockhead, ex-General Dynamics Canada president Firat Gezen); plus $175K non-dilutive prize money from Startupfest (2SLGBTQIA+ Prize + FinTech Grant)",
+   "headcount": "Very small, early-stage (team includes Jalalvandi, Shirazi, plus Kaya Gezen and Sadegh Bolouki per team mentions) - likely under 10",
+   "past_completed_deals": "Roll-up model in concept: acquires/white-labels existing tax-client books (T1/1040 books) from accounting firms and services them via its AI back-office; landed first large client book in Pennsylvania. No dedicated portfolio/acquisitions page found.",
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.linkedin.com/company/readyplango"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001033",
+  "name": "Pillar",
+  "website": null,
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Could not confidently identify: multiple unrelated 'Pillar' companies surfaced (financial-risk-management platform with $20M a16z seed; a construction-tech 'Pillar' in Italy; 'Pillar Advisors' M&A consultancy; 'Pillar Accounting' a 12-employee back-office/M&A support firm not described as buying practices). None clearly matches an AI-native accounting-firm roll-up. Left fields null rather than guess."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": null,
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": null,
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001043",
+  "name": "e4n",
+  "website": "https://e4ngroup.com",
+  "known_hq": "US",
+  "sector": "IT MSP",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://e4ngroup.com",
+   "year_founded": "2026",
+   "founder": "Herve Tessler (CEO); Raphael Weil (CIO), Ethan Madar (Chief Growth Officer), Lucas Fischer (Head of Tech & AI Strategy) also co-founding team",
+   "founder_linkedin": "https://www.linkedin.com/in/hervetessler/",
+   "founder_email": null,
+   "funding_detail": "$12.5M seed round, announced May 2026; lead investor not disclosed in public sources",
+   "headcount": null,
+   "past_completed_deals": "Platform partnerships/acquisitions: Katalyst (NC-based MSP, first platform partner) and Layer27 (Durham, NC MSSP, acquired by Katalyst July 2026)",
+   "open_role": "No corp-dev roles; hiring Managed Services (Systems Engineer, Managed Services - Katalyst/e4n platform co., NC) as of 2026-08-28",
+   "contact_path": "contact@e4ngroup.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001053",
+  "name": "OpenCall",
+  "website": "https://opencall.ai",
+  "known_hq": "US",
+  "sector": "Contact Center",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://opencall.ai",
+   "year_founded": "2022",
+   "founder": "Oliver Silverstein (CEO), with co-founders Nicholas Lee, Eric Mei, Arthur Silverstein",
+   "founder_linkedin": "https://www.linkedin.com/in/oliver-silverstein-42949515b/",
+   "founder_email": null,
+   "funding_detail": "Conflicting reports: Crunchbase lists a Pre-Seed round with CoreNest Capital; other profiles (Latka) describe the company as bootstrapped/no outside funding with ~$1M ARR. No confirmed seed round size found.",
+   "headcount": "~5-9 (Y Combinator listings vary between team size 5 and 9)",
+   "past_completed_deals": "None found - this is an AI voice-agent SaaS product (automates patient scheduling/intake for healthcare practices), not an active acquirer with a visible deal history",
+   "open_role": "No public careers page found",
+   "contact_path": "https://opencall.ai/about (no jobs/careers link located)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001063",
+  "name": "Birdi",
+  "website": "https://birdi.ai",
+  "known_hq": "US",
+  "sector": "Medical RCM",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "High collision risk - unrelated companies named Birdi/Birdie exist (Birdi.io optometry, Birdie.ai CX intelligence, Birdie UK homecare, a geospatial 'Birdi'). Used birdi.ai per roll-up tracker listing, but the live landing page ('AI Systems for Modern Operations') doesn't explicitly mention medical RCM - moderate confidence only."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://birdi.ai",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "info@birdi.ai"
+  }
+ }
+]

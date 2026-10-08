@@ -1,0 +1,120 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001004",
+  "name_in_list": "Shield (Technology Partners)",
+  "identity_note": "Matched Shield Technology Partners (shieldtp.com), the Thrive Holdings / ZBS Partners-backed MSP platform. Not Shield AI (defense drones, acquired Aechelon in 2026), which dominates search results for 'Shield'.",
+  "sources": [
+    "https://shieldtp.com",
+    "https://shieldtp.com/about",
+    "https://shieldtp.com/our-team",
+    "https://shieldtp.com/company-news",
+    "https://shieldtp.pinpointhq.com/postings.json",
+    "https://shieldtp.pinpointhq.com/en/postings/c6d3b207-8e4e-40e8-bfa9-4b5e91167636",
+    "https://www.channeldive.com/news/shield-technology-partners-nerds-support-acquisition-forge-platform/831181/",
+    "https://themspsummit.com/article/shield-hires-ceo-picks-up-msp-option-one/",
+    "https://www.silicon.co.uk/press-release/thrive-holdings-zbs-partners-launch-shield-technology-partners-an-ai-enabled-platform-for-it-services-businesses-with-over-100m-in-initial-funding",
+    "https://www.builtinnyc.com/company/shield-technology-partners",
+    "https://topworkplaces.com/company/shield-technology-partne/",
+    "https://www.fastaijobs.com/companies/shield-technology-partners",
+    "https://themspsummit.com/article/openai-rolls-into-shields-roll-up-portfolio-through-thrive/",
+    "https://www.omers.com/news/omers-private-equity-announces-agreement-to-acquire-integris",
+    "https://www.channele2e.com/news/oval-partners-forms-new-charter",
+    "https://www.privsource.com/acquisitions/deal/e4SxV6"
+  ],
+  "profile": {
+    "name": "Shield Technology Partners",
+    "description": "National IT services platform that takes controlling stakes in regional managed service providers (\"ShieldCos\"), keeps local leadership in equity, and supplies capital, operating support and its Forge AI operating system for IT services.",
+    "website": "https://shieldtp.com",
+    "location": "Tampa, FL (Built In / Top Workplaces HQ); corporate roles also posted in New York City",
+    "year_founded": "2024 per shieldtp.com/about; publicly launched June 5, 2025",
+    "founder": "Co-founders Jake Sloane, Frank Zhang and Casey Botts (launch press release, June 2025), with ZBS Partners and Thrive Holdings as founding sponsors. Jim Siders (ex-Palantir CIO) has been CEO since Dec 2025; he is an operating exec, not a founder.",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "Over $100M at launch (June 2025) from Thrive Holdings and ZBS Partners, plus a second $100M from Thrive Holdings announced Feb 2, 2026, for product development and M&A. That is about $200M+ in total. OpenAI took an equity stake in Thrive Holdings in Dec 2025.",
+    "headcount": "Platform team: ~44 people named on shieldtp.com/our-team; Top Workplaces says 55 US employees; FastAIJobs says 51-200. The 20 ShieldCos employ far more (no consolidated figure published).",
+    "past_completed_deals": "20 ShieldCos serving 3,750+ businesses (shieldtp.com/about). 2025: ClearFuze, IronOrbit, Delval Technology Solutions, OneNet Global (launch, Jun 2025), NetAscendant, SK Tech Group, BCS365, Option One Technologies (8th, Dec 2025). 2026: Nerds Support (20th, announced Sep 24, 2026); also listed on Shield's site or careers board: Liss Technologies, Exigent, boxIT, Crestwood Associates, Westerman, Threshold Communications, Christo IT, MyCLTech, Webistix.",
+    "open_role": "No corp-dev roles; hiring Finance (Director of FP&A, Director/VP of Strategic Finance, Senior Manager FP&A Revenue), Sales, Operations, Procurement and MSP field engineering at ShieldCos (18 open roles) as of 2026-10-08",
+    "contact_path": "https://shieldtp.com/contact (has a 'Partnership Query' / 'Refer an MSP' option); careers at https://shieldtp.pinpointhq.com/"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active MSP acquirer · 20 deals in ~16 months · M&A seat now closed",
+    "detail": "The Manager of M&A posting seen on Aug 24 is gone (its URL now redirects to the board root). The M&A function sits under Head of M&A Everett Brownstein."
+  },
+  "tagline": "IT services / MSP platform · Tampa, FL",
+  "description": "Thrive Holdings-backed platform that buys controlling stakes in regional managed IT service providers and runs them on its Forge AI operating system.",
+  "stats": [
+    { "value": "2024", "label": "founded (launched Jun 2025)", "caveat": true },
+    { "value": "20", "label": "MSPs acquired", "caveat": false },
+    { "value": "$200M+", "label": "raised from Thrive Holdings / ZBS", "caveat": false },
+    { "value": "~44-55", "label": "platform staff", "caveat": true }
+  ],
+  "headlines": [
+    { "date": "2026-09-24", "text": "Took a controlling stake in Florida MSP Nerds Support, its 20th acquisition", "source": "https://www.channeldive.com/news/shield-technology-partners-nerds-support-acquisition-forge-platform/831181/" },
+    { "date": "2026-09-24", "text": "Launched Forge, an AI operating system for IT services, across its ShieldCos", "source": "https://shieldtp.com/company-news" }
+  ],
+  "ownership": [
+    { "entity": "Thrive Holdings", "detail": "lead sponsor (Thrive Capital vehicle; OpenAI took an equity stake Dec 2025)", "since": "2025" },
+    { "entity": "ZBS Partners", "detail": "co-sponsor at launch", "since": "2025" },
+    { "entity": "Shield Technology Partners", "detail": "platform / holdco", "is_this": true, "since": "2025" }
+  ],
+  "deals": [
+    { "date": "2026-09", "name": "Nerds Support", "place": "FL" },
+    { "date": "2026", "name": "Liss Technologies", "place": "NY" },
+    { "date": "2026", "name": "Exigent", "place": "NJ" },
+    { "date": "2026", "name": "boxIT", "place": "CA" },
+    { "date": "2026", "name": "Crestwood Associates" },
+    { "date": "2026", "name": "Westerman" },
+    { "date": "2026", "name": "Threshold Communications" },
+    { "date": "2026", "name": "Christo IT" },
+    { "date": "2026", "name": "MyCLTech" },
+    { "date": "2026", "name": "Webistix" },
+    { "date": "2025-12", "name": "Option One Technologies", "place": "MA" },
+    { "date": "2025", "name": "BCS365" },
+    { "date": "2025", "name": "SK Tech Group" },
+    { "date": "2025", "name": "NetAscendant" },
+    { "date": "2025-06", "name": "ClearFuze" },
+    { "date": "2025-06", "name": "IronOrbit" },
+    { "date": "2025-06", "name": "Delval Technology Solutions" },
+    { "date": "2025-06", "name": "OneNet Global" }
+  ],
+  "footprint": {
+    "hq": "FL",
+    "bought": ["FL", "NY", "NJ", "CA", "MA"],
+    "branch": ["NY"],
+    "notes": [
+      { "state": "NY", "text": "Corporate FP&A, sales and ops roles posted in NYC; Liss Technologies roles in Manhattan, Bronx, Roslyn" },
+      { "state": "FL", "text": "Tampa HQ per Built In; Nerds Support is Florida-based" }
+    ]
+  },
+  "competitors": [
+    { "name": "Integris", "owner": "OMERS Private Equity", "note": "SMB MSP roll-up; agreed to buy Australia's First Focus", "is_acquired": true },
+    { "name": "New Charter Technologies", "owner": "Oval Partners", "note": "Equity-partnership MSP roll-up, 25+ MSPs; bought NetSource One Jan 2026" },
+    { "name": "Evergreen Services Group", "owner": "Alpine Investors", "note": "Hold-forever MSP consolidator; 100th add-on (Digital Boardwalk) Jan 2026" }
+  ],
+  "best_contact": {
+    "name": "Everett Brownstein",
+    "title": "Head of M&A",
+    "entity": "Shield Technology Partners",
+    "why": "Listed as Head of M&A on shieldtp.com/our-team; owns the deal pipeline now the Manager of M&A posting has closed",
+    "outreach_prompt": "Ask how the M&A team is staffed after 20 deals, and whether they need more help on sourcing or integration as Forge rolls out."
+  },
+  "people": [
+    { "name": "Jim Siders", "title": "CEO", "entity": "Shield", "outreach_prompt": "Ex-Palantir CIO; publicly says Shield has no hard target for deal count." },
+    { "name": "Raghav Kotha", "title": "Head of Strategy & Growth", "entity": "Shield" },
+    { "name": "Sophie Eldridge", "title": "M&A (team member)", "entity": "Shield" }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Identity: Shield Technology Partners, not Shield AI (defense)",
+    "Founded: site says 2024; public launch and funding were June 2025",
+    "Founder: prior pass listed only ZBS (Sloane, Zhang); launch PR also names Casey Botts as co-founder",
+    "M&A role: Aug 24 'Manager of M&A' posting closed; URL now redirects to board root",
+    "Deal dates: 10 ShieldCos dated 2026 by inference (Shield had 8 in Dec 2025; Nerds Support was #20); 2 of the 20 are unnamed",
+    "Deal count: one MSP Summit keynote piece says 13 MSPs; that predates the Sept 2026 '20th' count",
+    "Headcount: ~44 on team page, Top Workplaces 55, FastAIJobs 51-200; LinkedIn not checked directly",
+    "Footprint: acquired-company states inferred from ShieldCo job locations and press",
+    "Founder LinkedIn: no verified URL for Sloane, Zhang or Botts; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

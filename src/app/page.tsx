@@ -1,5 +1,5 @@
 /**
- * The one page.
+ * The one page: the CRM view of a market, in list mode or map mode.
  *
  * A server component that asks the repository for rows and hands them to the
  * client. Note what it does NOT do: it never imports src/data, never reads a
@@ -8,11 +8,12 @@
  * line changes.
  */
 
-import Workspace from "@/components/Workspace";
+import Crm from "@/components/Crm";
 import {
   activeSource,
   allRegions,
   getCompanies,
+  getIntel,
   getMarket,
   regionsWithoutPoints,
   toMapPoints,
@@ -24,7 +25,12 @@ const MARKET = "AI-native roll-ups";
 
 export const dynamic = "force-dynamic";
 
-export default async function Page() {
+export default async function Page({
+  searchParams,
+}: {
+  searchParams: Promise<{ view?: string; c?: string }>;
+}) {
+  const params = await searchParams;
   const market = await getMarket(MARKET);
 
   if (!market) {
@@ -42,6 +48,7 @@ export default async function Page() {
 
   const companies = await getCompanies(market.id);
   const points = toMapPoints(companies);
+  const intel = await getIntel(companies.map((c) => c.id));
 
   const unlocatedRegions: Record<string, string[]> = {};
   const regions: Record<string, string[]> = {};
@@ -51,13 +58,18 @@ export default async function Page() {
   }
 
   return (
-    <Workspace
+    <Crm
       marketName={market.canonicalName}
       companies={companies}
       points={points}
+      intel={intel}
       source={activeSource()}
       unlocatedRegions={unlocatedRegions}
       allRegions={regions}
+      initialView={params.view === "map" ? "map" : "list"}
+      initialSelected={
+        companies.some((c) => c.id === params.c) ? params.c! : null
+      }
     />
   );
 }

@@ -1,0 +1,95 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001008",
+  "name_in_list": "UnifyCX",
+  "identity_note": "Matched UnifyCX (unifycx.com), the Louisville, KY customer-experience BPO formerly GlowTouch. Not to be confused with Unify (German unified-communications firm bought by Mitel from Atos) or 'Tregaron India Holdings dba Unify' named in Aura Consolidated Group's 2026 S-1, which the filings do not tie to UnifyCX.",
+  "sources": [
+    "https://www.unifycx.com/about-us/",
+    "https://www.unifycx.com/careers/",
+    "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d077926ee10177931c7bb3021d",
+    "https://www.unifycx.com/news-sitemap.xml",
+    "https://www.unifycx.com/news/unifycx-expands-global-footprint-with-launch-of-new-operations-center-in-south-africa/",
+    "https://www.unifycx.com/news/unifycx-recognized-by-iaop-as-a-global-100-leader-for-2026-after-a-defining-year-of-innovation-and-global-expansion/",
+    "https://martech360.com/news/launch-of-unifycx-to-redefine-customer-experience/",
+    "https://intrepid.archive.deasilnet.com/?p=18341",
+    "https://pitchbook.com/profiles/company/11752-03",
+    "https://builtin.com/company/unifycx",
+    "https://www.businesswire.com/news/home/20230424005031/en",
+    "https://www.linkedin.com/in/vidya-ravichandran-53423b2",
+    "https://www.businesswire.com/news/home/20251008065888/en/TaskUs-Inc.-Announces-Results-of-Special-Meeting-of-Stockholders-and-Expects-to-Terminate-Proposed-Take-Private-Transaction",
+    "https://www.startek.com/insights/uncategorized/startek-announces-completion-of-take-private-acquisition-by-funds-managed-by-csp-management-limited-2/",
+    "https://www.sec.gov/Archives/edgar/data/1720420/000155837022014803/ibex-20220630x20f.htm"
+  ],
+  "profile": {
+    "name": "UnifyCX",
+    "description": "Global customer-experience outsourcing (BPO) company that pairs AI tooling with human agents for customer support, technical support, healthcare billing and back-office work for enterprise clients.",
+    "website": "https://www.unifycx.com",
+    "location": "Louisville, KY (US HQ per PitchBook and press datelines); delivery sites in the US (KY, TX, MA, FL), Colombia, Honduras, Dominican Republic, India, Philippines and South Africa",
+    "year_founded": "2002 (as GlowTouch; some third-party profiles say 2001); rebranded UnifyCX Nov 2024",
+    "founder": "Vidya Ravichandran (Founder & CEO)",
+    "founder_linkedin": "https://www.linkedin.com/in/vidya-ravichandran-53423b2",
+    "founder_email": null,
+    "funding_detail": "Private; PitchBook classifies it as private-equity-backed. Company site says UnifyCX was created 'with WndrCo' (Jeffrey Katzenberg's holding company); WndrCo's stake and any amounts are undisclosed.",
+    "headcount": "~2,200-2,500 (Built In 2,213; PitchBook ~2,500); Latka-type estimates as low as ~1,100",
+    "past_completed_deals": "GlowTouch acquired Collective Solution (Los Angeles call-center provider, founded 2002) in 2024; the combined business was rebranded UnifyCX (launched Nov 4, 2024; sale-completion announcement by Intrepid dated Dec 2024). No acquisitions found since.",
+    "open_role": "No corp-dev roles; hiring Operations, Customer Service, Healthcare Billing, QA, Finance (Global Consolidation & Financial Reporting Manager, Senior Tax Accountant), Engineering and Legal (Corporate Paralegal) (34 open roles) as of 2026-10-08",
+    "contact_path": "https://www.unifycx.com/careers/"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "One formative acquisition (2024) · no corp dev seat open",
+    "detail": "Growth since the Collective Solution deal has been organic site launches (Quezon City 2025, South Africa Jun 2026); founder-CEO Vidya Ravichandran controls strategy."
+  },
+  "tagline": "Contact center BPO · Louisville, KY",
+  "description": "Customer-experience outsourcer combining AI tools with human agents for enterprise support, tech support and healthcare billing, delivered from sites in the US, LatAm, India, the Philippines and South Africa.",
+  "stats": [
+    {"value": "2002", "label": "founded (as GlowTouch)", "caveat": true},
+    {"value": "~2,200-2,500", "label": "employees", "caveat": true},
+    {"value": "34", "label": "open roles", "caveat": false},
+    {"value": "1", "label": "acquisition", "caveat": false}
+  ],
+  "headlines": [
+    {"date": "2026-06-25", "text": "Opens first South Africa operations center in Ballito", "source": "https://www.unifycx.com/news/unifycx-expands-global-footprint-with-launch-of-new-operations-center-in-south-africa/"},
+    {"date": "2026-03-06", "text": "Named to IAOP Global Outsourcing 100 for 2026", "source": "https://www.unifycx.com/news/unifycx-recognized-by-iaop-as-a-global-100-leader-for-2026-after-a-defining-year-of-innovation-and-global-expansion/"}
+  ],
+  "ownership": [
+    {"entity": "UnifyCX (formerly GlowTouch)", "detail": "private, founder-led; PE-backed per PitchBook; formed 'with WndrCo'", "is_this": true}
+  ],
+  "deals": [
+    {"date": "2024", "name": "Collective Solution", "place": "Los Angeles, CA"}
+  ],
+  "footprint": {
+    "hq": "KY",
+    "bought": ["CA"],
+    "branch": ["TX", "MA", "FL"],
+    "notes": [
+      {"state": "KY", "text": "Most delivery capacity is offshore: Colombia, Honduras, Dominican Republic, India, Philippines, South Africa"},
+      {"state": "TX", "text": "San Antonio site hiring (4 roles live on Paycor board)"}
+    ]
+  },
+  "competitors": [
+    {"name": "TaskUs", "owner": "public, Nasdaq: TASK", "note": "AI-era CX and trust-and-safety BPO; Blackstone take-private voted down Oct 2025"},
+    {"name": "Startek", "owner": "Capital Square Partners", "note": "Global CX BPO taken private Jan 2024", "is_acquired": true},
+    {"name": "IBEX", "owner": "public, Nasdaq: IBEX", "note": "Nearshore/offshore CX outsourcing for US brands"}
+  ],
+  "best_contact": {
+    "name": "Vidya Ravichandran",
+    "title": "Founder & CEO",
+    "entity": "UnifyCX",
+    "linkedin": "https://www.linkedin.com/in/vidya-ravichandran-53423b2",
+    "why": "Founder-CEO; no corp-dev head found, so acquisition decisions likely sit with her"
+  },
+  "people": [
+    {"name": "Satish Varanasi", "title": "Chief Operating Officer", "entity": "UnifyCX"}
+  ],
+  "none_found": [],
+  "caveats": [
+    "Identity: not the Mitel-owned Unify; Aura's S-1 'Unify' vendor (Tregaron India Holdings) not confirmed to be UnifyCX",
+    "Founded: 2002 per GlowTouch press releases; MarketScreener/IndiaMart say 2001",
+    "Headcount: Built In 2,213, PitchBook ~2,500, prior Latka figure ~1,100; LinkedIn not read",
+    "Funding: WndrCo's role and stake not disclosed anywhere checked; no round amounts",
+    "Deal date: Collective Solution close dated Dec 2024 by Intrepid archive, UnifyCX launch Nov 4, 2024",
+    "Careers: site embeds a Paycor (Newton) board; titles read from the live board, not search snippets"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

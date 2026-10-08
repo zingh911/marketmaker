@@ -1,0 +1,96 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001018",
+  "name_in_list": "Eudia",
+  "identity_note": "Matched Eudia (eudia.com; legal entity Cicero Technologies, Inc. dba Eudia), the Palo Alto legal-AI company that has bought ALSPs. Not the French training firm 'EUDIA' on LinkedIn (/company/eudia) or EUDA Health; Eudia's own LinkedIn slug is /company/eudiahq.",
+  "sources": [
+    "https://www.eudia.com/company",
+    "https://www.eudia.com/careers",
+    "https://boards-api.greenhouse.io/v1/boards/eudia/jobs",
+    "https://www.eudia.com/news",
+    "https://www.eudia.com/news/eudia-expands-global-sales-leadership-with-new-regional-appointments",
+    "https://eudia.com/news/eudia-s-out-house-buy-boosts-ai-legal-tech-for-fortune-500",
+    "https://en.wikipedia.org/wiki/Eudia_(company)",
+    "https://siliconangle.com/2025/02/14/legal-ai-startup-eudia-launches-105m-bring-ai-agents-legal-teams/",
+    "https://www.verdict.co.uk/eudia-raises-upto-105m-in-series-a-round/",
+    "https://www.linkedin.com/company/eudiahq/",
+    "https://www.lawnext.com/2019/09/alsp-axiom-says-it-will-receive-significant-strategic-investment-from-private-equity-firm-permira.html",
+    "https://www.businesswire.com/news/home/20180920005562/en",
+    "https://fortune.com/2026/02/05/lawhive-ai-law-firm-startup-series-b-venture-funding/",
+    "https://www.artificiallawyer.com/2025/09/10/alsp-lawhive-buys-woodstock-as-smb-market-evolves/"
+  ],
+  "profile": {
+    "name": "Eudia",
+    "description": "AI platform plus tech-enabled legal services for corporate legal departments and government: AI assistants/agents, contracting and compliance tools, forward-deployed lawyers, and an Arizona ABS law firm (Eudia Counsel).",
+    "website": "https://www.eudia.com",
+    "location": "Palo Alto, CA (HQ); offices in New York, Irvine CA, Bengaluru (India) and Dublin (Ireland)",
+    "year_founded": "2023",
+    "founder": "Omar Haroun (Co-Founder & CEO; previously founded Text IQ, sold to Relativity); co-founders Ashish Agrawal and David Van Reyk (per Wikipedia)",
+    "founder_linkedin": "https://www.linkedin.com/in/omarharoun/",
+    "founder_email": null,
+    "funding_detail": "Series A of up to $105M announced Feb 2025, led by General Catalyst with Floodgate and Sierra Ventures (~$30M upfront, ~$75M contingent on acquisitions approved by General Catalyst). No later round found as of 2026-10-08.",
+    "headcount": "157 on LinkedIn (2026-10-08); prior pass recorded ~191-200 in mid-2026. Acquired ALSP staff (Johnson Hana 300+ legal professionals) may not all map to the Eudia LinkedIn page.",
+    "past_completed_deals": "Johnson Hana (Dublin ALSP, 300+ legal professionals, Jul 2025); Out-House (Maryland ALSP serving Fortune 500 legal departments, Oct 23, 2025). No acquisitions found in 2026.",
+    "open_role": "No corp-dev roles; hiring Engineering, Product, GTM (Account Director, Business Leads for federal/defense, Field Marketing, Solutions Consultant), Forward Deployed Lawyers, People Ops and Recruiting (20 open roles) as of 2026-10-08",
+    "contact_path": "https://job-boards.greenhouse.io/eudia"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "ALSP roll-up (2 deals in 2025) · no corp dev seat open",
+    "detail": "Series A capital is partly earmarked for acquisitions, but 2026 news has been partnerships (OpenAI, Microsoft, ServiceNow, NVIDIA), not deals; CEO Omar Haroun is the decision-maker."
+  },
+  "tagline": "Legal services & legal AI · Palo Alto, CA",
+  "description": "Legal-AI platform and tech-enabled legal services provider for Fortune 500 legal departments and government, grown partly by acquiring alternative legal services providers.",
+  "stats": [
+    {"value": "2023", "label": "founded", "caveat": false},
+    {"value": "157", "label": "LinkedIn employees", "caveat": true},
+    {"value": "up to $105M", "label": "Series A", "caveat": true},
+    {"value": "2", "label": "acquisitions", "caveat": false}
+  ],
+  "headlines": [
+    {"date": "2026-09-09", "text": "Announces collaboration with NVIDIA on document intelligence", "source": "https://www.eudia.com/news"},
+    {"date": "2026-05-19", "text": "Strategic partnership with OpenAI on AI for government customers", "source": "https://www.eudia.com/news"}
+  ],
+  "ownership": [
+    {"entity": "Eudia (Cicero Technologies, Inc.)", "detail": "private, VC-backed (General Catalyst lead)", "is_this": true}
+  ],
+  "deals": [
+    {"date": "Oct 2025", "name": "Out-House", "place": "Maryland"},
+    {"date": "Jul 2025", "name": "Johnson Hana", "place": "Dublin, Ireland"}
+  ],
+  "footprint": {
+    "hq": "CA",
+    "bought": ["MD"],
+    "branch": ["NY", "DC"],
+    "notes": [
+      {"state": "CA", "text": "Offices also in Irvine CA, Bengaluru and Dublin (Johnson Hana)"},
+      {"state": "DC", "text": "Government-focused roles posted as Washington, DC / remote"}
+    ]
+  },
+  "competitors": [
+    {"name": "Axiom", "owner": "Permira (majority, 2019)", "note": "Large flexible-lawyer ALSP for in-house legal teams"},
+    {"name": "UnitedLex", "owner": "CVC (majority, 2018)", "note": "Legal and IP managed services for corporates and law firms"},
+    {"name": "Lawhive", "owner": "VC-backed (Series B 2026)", "note": "AI-native legal platform; bought UK law firm Woodstock (Sep 2025)"}
+  ],
+  "best_contact": {
+    "name": "Omar Haroun",
+    "title": "Co-Founder & CEO",
+    "entity": "Eudia",
+    "linkedin": "https://www.linkedin.com/in/omarharoun/",
+    "why": "Drives the ALSP acquisition strategy; no corp-dev head found"
+  },
+  "people": [
+    {"name": "Mitch Loquaci", "title": "Regional Vice President of Sales, US", "entity": "Eudia"},
+    {"name": "Stephen Mulholland", "title": "Vice President of Sales, EMEA", "entity": "Eudia"}
+  ],
+  "none_found": [],
+  "caveats": [
+    "Identity: LinkedIn /company/eudia is an unrelated French firm; used /company/eudiahq",
+    "Headcount: LinkedIn 157 today vs ~191-200 recorded in the Aug 2026 pass; cause unclear",
+    "Funding: 'up to $105M' is mostly contingent capital; amount actually drawn not disclosed",
+    "Co-founders: Ashish Agrawal and David Van Reyk per Wikipedia only; titles not verified",
+    "Founder LinkedIn: carried from prior pass, not re-fetched today",
+    "Competitor owners: Axiom/UnitedLex ownership sourced from 2018-2019 deal coverage"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

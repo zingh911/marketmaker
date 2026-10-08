@@ -1,0 +1,111 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001029",
+  "name_in_list": "Modus",
+  "identity_note": "Matched Modus (Modus Audit LLC / Modus Audit, Inc.), the New York AI-native audit firm at modusalliance.com led by CEO Arush Jain and backed by Lightspeed. Sector (audit) and website match the batch entry. Ruled out unrelated same-name companies such as Modus eDiscovery and Modus Create.",
+  "sources": [
+    "https://www.modusalliance.com",
+    "https://www.modusalliance.com/careers/",
+    "https://jobs.ashbyhq.com/modus",
+    "https://api.ashbyhq.com/posting-api/job-board/modus",
+    "https://jobs.ashbyhq.com/modus/54c7ba6d-2594-4a9c-abd8-b9d60d0c2bcf",
+    "https://www.accountingtoday.com/news/modus-raises-85m-to-invest-in-audit-firms-tech",
+    "https://axios.com/pro/fintech-deals/2026/04/07/modus-85m-ai-audit-rollup",
+    "https://lsvp.com/stories/building-the-worlds-first-ai-native-audit-technology-our-investment-in-modus/",
+    "https://secure.businesswire.com/news/home/20260924919813/en/Modus-Adds-Two-Former-Grant-Thornton-Audit-Executives-to-Build-an-AI-Native-Firm",
+    "https://secure.businesswire.com/news/home/20260407062528/en/Modus-Raises-%2485-Million-Led-by-Lightspeed-to-Build-AI-Native-Accounting-Firm",
+    "https://www.linkedin.com/in/arush-jain",
+    "https://swooped.co/job-postings/ai-native-auditor-new-york-modus-9654d",
+    "https://simplify.jobs/c/Modus-Audit",
+    "https://kfgo.com/2025/06/04/thrive-backed-accounting-firm-crete-to-spend-500-million-in-ai-roll-up/",
+    "https://www.cpapracticeadvisor.com/2025/01/07/citrin-coopermans-pe-backed-ownership-flips-from-new-mountain-capital-to-blackstone-in-monumental-deal/154011/",
+    "https://www.grantthornton.com/insights/press-releases/2024/may/new-mountain-capital-and-grant-thornton-close-growth-investment",
+    "https://www.bakertilly.com/news/baker-tilly-secures-strategic-investment-led-by-hellman"
+  ],
+  "profile": {
+    "name": "Modus",
+    "description": "AI-native audit and assurance firm for mid-market businesses: it takes majority stakes in the advisory entities of established CPA firms (alternative practice structure) and runs their audits with its own AI agent, Andi. Member CPA firms perform the attest work.",
+    "website": "https://www.modusalliance.com (legal entity Modus Audit LLC)",
+    "location": "New York, NY (corporate roles in New York); partner-firm audit and tax roles in Ohio and New Jersey; site cites five offices and 175+ professionals across the network",
+    "year_founded": "2025",
+    "founder": "Arush Jain (Co-founder & CEO), with co-founders Pranav Pillai and Vinay Kasat (met at the University of Pennsylvania)",
+    "founder_linkedin": "https://www.linkedin.com/in/arush-jain",
+    "founder_email": null,
+    "funding_detail": "$85M total: $5M Seed and $80M Series A, both led by Lightspeed Venture Partners, with Comma Capital and Garry Tan participating (announced April 7-8, 2026)",
+    "headcount": "Corporate team ~13 on LinkedIn (via job-board scrape; Simplify band 11-50); network-wide 175+ professionals per company site, including partner firms",
+    "past_completed_deals": "One disclosed investment: majority stake in the advisory entity of an unnamed IPA Top 200 accounting firm (>$30M revenue, reportedly Ohio-based, ~175 staff) shortly after the June 2025 launch. Axios reported a target of at least five investments in 2026; no further deals publicly named.",
+    "open_role": "M&A open as of 2026-10-08 (https://jobs.ashbyhq.com/modus/54c7ba6d-2594-4a9c-abd8-b9d60d0c2bcf)",
+    "contact_path": "https://jobs.ashbyhq.com/modus (12 open roles); https://www.modusalliance.com/contact/"
+  },
+  "verdict": {
+    "kind": "role_open",
+    "headline": "M&A role open in New York · early-stage CPA roll-up",
+    "detail": "Lightspeed-backed with $85M; one firm bought so far and an M&A hire posted on Ashby. Arush Jain (CEO) is the decision-maker."
+  },
+  "tagline": "AI audit firm roll-up · New York, NY",
+  "description": "Builds an AI-native audit firm by buying majority stakes in established CPA firms' advisory arms and running their audits on its own AI agents.",
+  "stats": [
+    { "value": "2025", "label": "founded", "caveat": false },
+    { "value": "$85M", "label": "raised", "caveat": false },
+    { "value": "~13", "label": "corporate staff", "caveat": true },
+    { "value": "12", "label": "open roles", "caveat": false }
+  ],
+  "headlines": [
+    {
+      "date": "2026-09-24",
+      "text": "Modus hires former Grant Thornton Chief Auditor Jim Burton as advisor and Matt Van Buren as Director of Audit Transformation",
+      "source": "https://secure.businesswire.com/news/home/20260924919813/en/Modus-Adds-Two-Former-Grant-Thornton-Audit-Executives-to-Build-an-AI-Native-Firm"
+    },
+    {
+      "date": "2026-04-07",
+      "text": "Modus raises $85M Seed + Series A led by Lightspeed to invest in audit firms and build AI audit agents",
+      "source": "https://www.accountingtoday.com/news/modus-raises-85m-to-invest-in-audit-firms-tech"
+    }
+  ],
+  "ownership": [
+    {
+      "entity": "Modus Audit, Inc. / Modus Audit LLC",
+      "detail": "VC-backed private company; lead investor Lightspeed Venture Partners",
+      "is_this": true
+    }
+  ],
+  "deals": [
+    { "name": "Majority stake in advisory entity of an unnamed IPA Top 200 CPA firm", "date": "2025", "place": "OH (reported)" }
+  ],
+  "footprint": {
+    "hq": "NY",
+    "bought": ["OH"],
+    "branch": ["OH", "NJ"],
+    "notes": [
+      { "state": "OH", "text": "Partner-firm audit and tax roles posted in Ohio; the acquired firm is reported as Ohio-based but unnamed" }
+    ]
+  },
+  "competitors": [
+    { "name": "Crete Professionals Alliance", "owner": "Thrive Capital", "note": "AI-enabled CPA roll-up; pledged $500M for firm acquisitions, BFJ joined Mar 2026" },
+    { "name": "Citrin Cooperman", "owner": "Blackstone", "note": "PE-backed top-20 CPA firm; serial acquirer of regional firms", "is_acquired": true },
+    { "name": "Grant Thornton Advisors", "owner": "New Mountain Capital", "note": "PE-backed national firm buying regional CPA practices", "is_acquired": true },
+    { "name": "Baker Tilly", "owner": "Hellman & Friedman, Valeas", "note": "PE-backed national firm; active merger and acquisition program", "is_acquired": true }
+  ],
+  "best_contact": {
+    "name": "Arush Jain",
+    "title": "Co-founder & CEO",
+    "entity": "Modus",
+    "linkedin": "https://www.linkedin.com/in/arush-jain",
+    "why": "Runs the company and fronts the firm-investment strategy; the open M&A seat is a New York corporate role"
+  },
+  "people": [
+    { "name": "Pranav Pillai", "title": "Co-founder", "entity": "Modus" },
+    { "name": "Vinay Kasat", "title": "Co-founder", "entity": "Modus" },
+    { "name": "Matt Van Buren", "title": "Director of Audit Transformation", "entity": "Modus" }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Same name: matched Modus Audit (modusalliance.com); not Modus eDiscovery or Modus Create",
+    "Deals: the one invested firm is unnamed in every source; Ohio location is inferred from reports and job posts",
+    "Headcount: ~13 corporate on LinkedIn vs 175+ network-wide per company site",
+    "Co-founder titles: prior pass said CTO (Pillai) and COO (Kasat); today's sources say only co-founder",
+    "M&A role: posted Feb 16, 2026 and still listed on Ashby today",
+    "Founder email: none published; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

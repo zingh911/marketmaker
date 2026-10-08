@@ -1,0 +1,164 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001009",
+  "name": "Halyard Collective",
+  "website": "https://www.halyardcollective.com",
+  "known_hq": "US",
+  "sector": "Real Estate lettings",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "Very early-stage/stealth entity - website is a single page with just name, city, and email. Ruled out confusion with unrelated 'Halyard Capital' (a PE firm) and unrelated UK lettings roll-ups."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.halyardcollective.com",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": "2-10 employees (LinkedIn)",
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "hello@halyardcollective.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001019",
+  "name": "Jutro Medical",
+  "website": "https://jutromedical.com",
+  "known_hq": "Poland",
+  "sector": "Medical",
+  "funding_tier": "Series A",
+  "priority": "long_list",
+  "flags": [
+   "Corrected 2026-08-28: was tagged country: USA with no US operations found anywhere in its enrichment (headcount describes a Polish clinic network \u2014 Warsaw, Poznan, Gdynia). Verified via Vestbee/EU-Startups coverage: Jutro Medical is a Warsaw-headquartered Polish medtech startup, no US presence found. Country corrected to Poland. This puts it outside this file's stated 'US and Canada only' scope \u2014 flagging for a scope decision (keep as an out-of-scope entry vs. remove) rather than removing it unilaterally."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://jutromedical.com",
+   "year_founded": "2020",
+   "founder": "Adam Janczewski (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/adam-janczewski-5362995a/",
+   "founder_email": null,
+   "funding_detail": "~$50M raised total across 6 rounds: EUR500K angel, EUR1M pre-seed (Sep 2020), EUR6M Series A (Jul 2021), EUR12M Series A (Mar 2025, led by KAYA VC & RIO ASI, with Inovo VC), EUR24M Series A extension (Dec 2025, led by Warsaw Equity Group) - Series A round total EUR36M",
+   "headcount": "~106 employees; Polish primary-care clinic network across multiple cities (Warsaw, Poznan, Gdynia, etc.)",
+   "past_completed_deals": "Not a roll-up in the acquisitive sense - operates proprietary clinics rather than acquiring existing practices; no dedicated portfolio/acquisitions page found",
+   "open_role": "No open roles found as of 2026-08-24 (careers page states 'No job postings currently open')",
+   "contact_path": "https://jobs.eu.lever.co/jutromedical"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001029",
+  "name": "Modus",
+  "website": "https://www.modusalliance.com (legal entity Modus Audit LLC)",
+  "known_hq": "US",
+  "sector": "Audit",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.modusalliance.com (legal entity Modus Audit LLC)",
+   "year_founded": "2025",
+   "founder": "Arush Jain (CEO), Pranav Pillai (CTO), Vinay Kasat (COO) - met at University of Pennsylvania",
+   "founder_linkedin": "https://www.linkedin.com/in/arush-jain",
+   "founder_email": null,
+   "funding_detail": "$85M combined Seed + Series A led by Lightspeed Venture Partners, with Comma Capital and YC's Garry Tan participating (announced April 2026)",
+   "headcount": "11-50 (Crunchbase); ~15 per RocketReach",
+   "past_completed_deals": "Acquiring stakes in audit/advisory firms as part of roll-up strategy; specific acquired firm names not surfaced",
+   "open_role": "M&A role open as of 2026-08-28 (https://jobs.ashbyhq.com/modus) - 12 total open roles across Audit, Engineering, M&A, Product, Tax, Commercial",
+   "contact_path": "https://jobs.ashbyhq.com/modus"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001039",
+  "name": "Rollout",
+  "website": "https://rollout.ai",
+  "known_hq": "US",
+  "sector": "IT MSP",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Tracker's listed URL (joinrollout.ai) 404s; used live rollout.ai (Neil Satra, SF-based AI-native MSP) as the likely match, but couldn't confirm via the original source domain - lower confidence than other names in this batch."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://rollout.ai",
+   "year_founded": null,
+   "founder": "Neil Satra - Founder & CEO",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": "10-49 employees (per CloudSecureTech)",
+   "past_completed_deals": "None found - appears to be an AI-native MSP delivering IT services directly, not an acquirer of other MSPs",
+   "open_role": "No public careers page found",
+   "contact_path": "https://rollout.ai (sales line: (888) 408-9738)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001049",
+  "name": "PayPath",
+  "website": "https://www.paypathai.com",
+  "known_hq": "US",
+  "sector": "Freight Audit and Payment",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.paypathai.com",
+   "year_founded": null,
+   "founder": "Dean Glas (Co-Founder and CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/deanglas/",
+   "founder_email": null,
+   "funding_detail": "Portfolio company of Invest Detroit Ventures; amount undisclosed. Also appeared in a16z Speedrun program.",
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.paypathai.com/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001059",
+  "name": "Zero RFI",
+  "website": "https://www.zero-rfi.com",
+  "known_hq": "US",
+  "sector": "Construction Services",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.zero-rfi.com",
+   "year_founded": "2026",
+   "founder": "KP Reddy (Founder & CEO); also founder of Shadow Ventures, second-generation civil engineer",
+   "founder_linkedin": "https://www.linkedin.com/in/kpreddy/",
+   "founder_email": null,
+   "funding_detail": "$13.8M seed round led by General Catalyst (announced March 2026)",
+   "headcount": "~27 employees",
+   "past_completed_deals": "Launched with three initial acquisitions: Brookwood Group, BuildingWorks, and KP Reddy Co.; evaluating ~15 more targets",
+   "open_role": "Careers page confirmed live (zero-rfi.com/careers) but specific role listings could not be fetched (403/access blocked on repeat attempts) - unable to confirm exact open roles as of 2026-08-28",
+   "contact_path": "https://www.zero-rfi.com/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001069",
+  "name": "Bruges",
+  "website": "https://www.bruges.ai",
+  "known_hq": "US",
+  "sector": "Customs Broker",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "Confirmed via bruges.ai matching AI Roll-up Nexus directory listing, but live site is just a 'Launching Soon' placeholder - essentially no public footprint."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.bruges.ai",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "Contact form only at bruges.ai (no published email)"
+  }
+ }
+]

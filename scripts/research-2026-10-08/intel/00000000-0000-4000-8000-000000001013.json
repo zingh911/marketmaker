@@ -1,0 +1,97 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001013",
+  "name_in_list": "Iterative Health",
+  "identity_note": "Matched Iterative Health (formerly Iterative Scopes), Cambridge, MA clinical-research site network at iterative.health. Sector (clinical research), website and Series-stage funding match the batch entry; no name collision found.",
+  "sources": [
+    "https://iterative.health/",
+    "https://iterative.health/about-us/",
+    "https://iterative.health/latest-news/blog/iterative-health-closes-77-million-series-c-to-accelerate-the-future-of-clinical-research/",
+    "https://job-boards.greenhouse.io/iterativehealth",
+    "https://job-boards.greenhouse.io/iterativehealth/jobs/4707385006",
+    "https://job-boards.greenhouse.io/iterativehealth/jobs/4717552006",
+    "https://pulse2.com/iterative-health-cardiology-site-acquisition-expands-texas-clinical-research-network/",
+    "https://www.timesargus.com/news/business/iterative-health-and-gastroenterology-associates-of-new-jersey-partner-to-expand-patient-access-to-advanced/article_a71760b1-0d58-54bf-8d87-a7829b141324.html",
+    "https://www.businesswire.com/news/home/20220428005352/en/Iterative-Scopes-Announces-the-Acquisition-of-Clinical-Research-Strategy-Group-and-Precision-Research",
+    "https://www.businesswire.com/news/home/20260811036505/en/Iterative-Health-Appoints-Dr.-Samin-K.-Sharma-at-Mount-Sinai-Hospital-as-Honorary-Chair-of-Interventional-Cardiology",
+    "https://www.reveliolabs.com/companies/iterative-health/employees",
+    "https://thl.com/articles/thl-announces-agreement-to-acquire-headlands-research-from-kkr/",
+    "https://www.clinicaltrialsarena.com/news/gho-capital-velocity-clinical-research/",
+    "https://www.businesswire.com/news/home/20210923005816/en/Morgan-Stanley-Expansion-Capital-and-Ally-Bridge-Group-Lead-%24135-Million-Investment-in-Elligo"
+  ],
+  "profile": {
+    "name": "Iterative Health",
+    "description": "Builds and runs a network of community-based clinical research sites (GI, hepatology, obesity, cardiology) and sells trial execution and patient access to pharma and biotech sponsors; 100+ sites across North America, Europe, India and Australia.",
+    "website": "https://iterative.health",
+    "location": "Cambridge, MA (675 Massachusetts Ave) and New York, NY; operations office in Southlake, TX; sites in US, Europe, India, Australia",
+    "year_founded": "2017",
+    "founder": "Jonathan Ng, MBBS (Founder & CEO)",
+    "founder_linkedin": "https://www.linkedin.com/in/jonathan-ng-55784b61/",
+    "founder_email": null,
+    "funding_detail": "Series C $77M closed Apr 30, 2026, led by Intrepid Growth Partners and GV, with new investors EDBI and a family office and existing investors Insight Partners and Obvious Ventures. Total raised to date not stated in the release.",
+    "headcount": "250+ worldwide per the company's own Oct 2026 job posting; ~167 per Revelio Labs (Mar 2026); LinkedIn-derived figure ~127 via an aggregator",
+    "past_completed_deals": "Three Texas cardiology research sites (Beaumont, Port Arthur, Waco) from NextStage Clinical Research (May 2026); Clinical Research Strategy Group and Precision Research (IBD trial firms, Grapevine TX area; Apr 2022, as Iterative Scopes). Also non-acquisition site partnerships: US Heart & Vascular (Apr 2026), Gastroenterology Associates of New Jersey (Jul 2026), GI Alliance, One GI.",
+    "open_role": "VP, Mergers & Acquisitions open as of 2026-10-08 (https://job-boards.greenhouse.io/iterativehealth/jobs/4717552006); also Corporate Development Manager open as of 2026-10-08 (https://job-boards.greenhouse.io/iterativehealth/jobs/4707385006)",
+    "contact_path": "https://job-boards.greenhouse.io/iterativehealth"
+  },
+  "verdict": {
+    "kind": "role_open",
+    "headline": "Active site acquirer · VP M&A and Corp Dev Manager both open",
+    "detail": "Fresh $77M Series C funding a site roll-up; corp dev is led by VP Corporate Development Matt Morris, and the new VP M&A will partner with the Chief Development Officer."
+  },
+  "tagline": "Clinical research sites · Cambridge, MA",
+  "description": "Runs a network of community clinical research sites in GI, hepatology, obesity and cardiology and sells trial execution to pharma and biotech sponsors.",
+  "stats": [
+    {"value": "2017", "label": "founded", "caveat": false},
+    {"value": "167-250+", "label": "employees", "caveat": true},
+    {"value": "$77M", "label": "Series C (Apr 2026)", "caveat": false},
+    {"value": "100+", "label": "research sites", "caveat": false}
+  ],
+  "headlines": [
+    {"date": "2026-07-08", "text": "Partners with Gastroenterology Associates of New Jersey as its research partner, opening sites in Toms River and Clifton, NJ", "source": "https://www.timesargus.com/news/business/iterative-health-and-gastroenterology-associates-of-new-jersey-partner-to-expand-patient-access-to-advanced/article_a71760b1-0d58-54bf-8d87-a7829b141324.html"},
+    {"date": "2026-05-14", "text": "Acquires three Texas cardiology research sites (Beaumont, Port Arthur, Waco) from NextStage Clinical Research", "source": "https://pulse2.com/iterative-health-cardiology-site-acquisition-expands-texas-clinical-research-network/"}
+  ],
+  "ownership": [
+    {"entity": "Iterative Health", "detail": "private, VC-backed (GV, Intrepid Growth, Insight, Obvious)", "is_this": true}
+  ],
+  "deals": [
+    {"date": "2026", "name": "NextStage Clinical Research cardiology sites (3)", "place": "Beaumont / Port Arthur / Waco, TX"},
+    {"date": "2022", "name": "Clinical Research Strategy Group", "place": "TX"},
+    {"date": "2022", "name": "Precision Research"}
+  ],
+  "footprint": {
+    "hq": "MA",
+    "bought": ["TX"],
+    "branch": ["NY", "TX", "RI", "CT", "IN", "NC", "AL", "TN", "MS", "MI", "AZ", "OH", "NJ"],
+    "notes": [
+      {"state": "TX", "text": "Southlake, TX office plus acquired Beaumont, Port Arthur, Waco sites"},
+      {"state": "NJ", "text": "Branch states are site-coordinator postings and partner sites, not all owned"}
+    ]
+  },
+  "competitors": [
+    {"name": "Velocity Clinical Research", "owner": "GHO Capital", "note": "Serial acquirer of research sites in US and Europe (Meridian, Impact Research, others)", "is_acquired": true},
+    {"name": "Headlands Research", "owner": "THL (from KKR)", "note": "Clinical trial site network; THL agreed to buy from KKR for ~$600M (Aug 2025)", "is_acquired": true},
+    {"name": "Elligo Health Research", "owner": "VC/growth (Morgan Stanley)", "note": "Embeds research in community practices; bought ClinEdge (2021)"}
+  ],
+  "best_contact": {
+    "name": "Matt Morris",
+    "title": "VP, Corporate Development",
+    "entity": "Iterative Health",
+    "why": "Heads corp dev; the open Corporate Development Manager reports to this role."
+  },
+  "people": [
+    {"name": "Jonathan Ng, MBBS", "title": "Founder & CEO", "entity": "Iterative Health", "linkedin": "https://www.linkedin.com/in/jonathan-ng-55784b61/"},
+    {"name": "Bill Kayser", "title": "President & CFO", "entity": "Iterative Health"},
+    {"name": "Dana Feuchtbaum", "title": "Chief Operating Officer", "entity": "Iterative Health"}
+  ],
+  "none_found": [],
+  "caveats": [
+    "Headcount: own job post says 250+; Revelio ~167 (Mar 2026); LinkedIn-derived ~127",
+    "Chief Development Officer: named in the VP M&A posting but not listed on the About page; name unknown",
+    "Branch states: drawn from careers-board site postings; may include partner-run sites, not owned ones",
+    "Competitor owners: Velocity's GHO ownership and Elligo's investors confirmed only from 2021-2022 sources; Headlands close not confirmed",
+    "Prior roles: Corporate Development Manager from Aug pass still live; VP M&A is new since Aug",
+    "Total funding: Series C release gives no cumulative total; left out"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

@@ -1,0 +1,166 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001005",
+  "name": "Particle Health",
+  "website": "https://www.particlehealth.com",
+  "known_hq": "US",
+  "sector": "Medical Health Records",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.particlehealth.com",
+   "year_founded": "2018",
+   "founder": "Troy Bannister (Founder), co-founded with Dan Horbatt. Current CEO is Jason Prestinario (appointed May 2023, ex-Komodo Health/Palantir) - Bannister is founder but Prestinario now runs the company.",
+   "founder_linkedin": "https://www.linkedin.com/in/troy-bannister-259a3235/ (current CEO Jason Prestinario: https://www.linkedin.com/in/jason-prestinario-7ab36373/)",
+   "founder_email": null,
+   "funding_detail": "$25M Series B (July 2022) led by Canvas Ventures, with Menlo Ventures, Story Ventures, and Pruven Capital participating; brought total raised to $39.3M at that time (earlier: ~$12M Series A, early 2020, led by Menlo Ventures). Total lifetime funding roughly $39-49M per various trackers.",
+   "headcount": "~50 employees (as of June 2026), grown slowly from ~31 in 2021 / ~49 in Jan 2024 - a small team",
+   "past_completed_deals": "None found. Particle Health is a healthcare-data interoperability API platform, not an acquisitive roll-up - no portfolio/acquisitions page found on their site.",
+   "open_role": "No corp-dev roles found. Per Glassdoor (4 open positions) and site careers page: Data Engineer, VP of Finance, Senior Infrastructure/Site Reliability Engineer, Senior API/Backend Engineer, as of 2026-08-24",
+   "contact_path": "https://www.particlehealth.com/careers (job board: https://job-boards.greenhouse.io/particlehealth)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001015",
+  "name": "Loop",
+  "website": "https://www.loop.com",
+  "known_hq": "US",
+  "sector": "Freight Audit/Payment",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [
+   "Generic name - target confirmed as loop.com, Chicago/SF freight audit & payment platform founded 2021, not Loop Returns/Loop EV/Loop Earplugs/Loop Payments or Loop Freight (Dhaka)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.loop.com",
+   "year_founded": "2021",
+   "founder": "Matt McKinney (Co-founder & CEO), Shaosu Liu (Co-founder & CTO)",
+   "founder_linkedin": "https://www.linkedin.com/in/mattlmckinney/",
+   "founder_email": null,
+   "funding_detail": "~$210M total raised. Seed (~$6M) + Series A led by Founders Fund; Series B $35M (Oct 2023) co-led by J.P. Morgan Growth Equity Partners and Index Ventures; Series C $95M (April 2026) led by Valor Equity Partners and the Valor Atreides AI Fund, with 8VC, Founders Fund, Index Ventures, J.P. Morgan Growth Equity Partners, and Tao Capital Partners.",
+   "headcount": "~150-300 (LinkedIn shows 51-200 band via aggregators; Loop's own careers page states '300+ team members')",
+   "past_completed_deals": "Acquired StrategIQ Commerce (closed Oct 31, 2025) - a freight/parcel audit, visibility and predictive-analytics provider, folded into Loop's Logistics Data Platform. This is Loop's one confirmed acquisition.",
+   "open_role": "No corp-dev roles; hiring Engineering, Sales, Product, Legal, Payments, Revenue Ops, People, Customer Success/Client Ops, Solutions, Deployment, Workplace (16 open roles) as of 2026-08-24",
+   "contact_path": "https://www.loop.com/company/careers (general contact: https://www.loop.com/contact)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001025",
+  "name": "American Growth Insurance (AGI Holdings)",
+  "website": "https://www.agiholdings.com",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.agiholdings.com",
+   "year_founded": "2026",
+   "founder": "Brian Morgan (CEO)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "~$70M committed equity funding; led by Atomic (venture studio) and Rockbridge Growth Equity",
+   "headcount": null,
+   "past_completed_deals": "First acquisition: Heller-Kowitz Insurance Advisors (Baltimore-based independent agency), announced ~May 2026, described as their first 'platform' in the Mid-Atlantic region",
+   "open_role": "No corp-dev roles; hiring Producers, Service, Engineering (roles referenced on homepage, no distinct careers page found) as of 2026-08-28",
+   "contact_path": "https://www.agiholdings.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001035",
+  "name": "Corgi",
+  "website": "https://www.corgi.insure",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Weak thesis fit: substance-wise this is now a $1.3B-4B-valuation, ~250-person full-stack AI insurance carrier, not a broker/agency acquiring other agencies - doesn't match the 'Seed-stage roll-up buying up smaller businesses' pattern despite matching on the tracker."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.corgi.insure",
+   "year_founded": "2024",
+   "founder": "Nico Laqua (CEO) & Emily Yuan (Co-Founder)",
+   "founder_linkedin": "https://www.linkedin.com/in/nico-laqua-302b17233/",
+   "founder_email": null,
+   "funding_detail": "$108M seed+Series A; $160M Series B at $1.3B valuation (May 2026, led by TCV); $106M Series B1 at $2.6B valuation weeks later; reportedly a further round near $4B ~8 weeks after that (figures vary by source, >$268M-$370M+ cited)",
+   "headcount": "~250 employees",
+   "past_completed_deals": "Not an agency-acquisition roll-up - acquired the corgi.com domain (not an operating business); runs in-house sub-brands (Corgi Cafe, Corgi Bus, Corgi Funds/ETFs, trucking division, Golden sports insurance). No insurance-agency acquisitions found.",
+   "open_role": "No corp-dev roles found; hiring Engineering, Sales, Marketing, Finance (64 open roles) as of 2026-08-28",
+   "contact_path": "https://www.corgi.insure/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001045",
+  "name": "Guardiana",
+  "website": null,
+  "known_hq": "US",
+  "sector": "Customs Broker",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Genuinely stealth - no discoverable website, founder, or public presence."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": null,
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001055",
+  "name": "Ellis",
+  "website": "https://www.ellis.com",
+  "known_hq": "US",
+  "sector": "Immigration Law",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Name collision risk resolved: a second, unrelated 'Ellis AI' (fintech, private-credit ops platform, founder Ryan Williams, $10M seed, mid-2026) surfaces heavily in search. Correct company is ellis.com, founder Sampei Omichi, verified via site content matching the Immigration Law sector label."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.ellis.com",
+   "year_founded": "2021",
+   "founder": "Sampei Omichi (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/sampeiomichi/",
+   "founder_email": null,
+   "funding_detail": "$5.6M raised (per 2022 TechCrunch); investors include v1.vc, Kindred Ventures, Day One Ventures, Castle Island VC, Dreamers VC, plus angels (Will Smith, Balaji Srinivasan, Tom Blomfield, Joshua Browder, et al.)",
+   "headcount": "Small team; leadership includes Ali Ramezanzadeh (Managing Partner), Adam W. Moses (Partner), Henry Lam (Head of Ops), Chris Whitefield (Head of Tech & Design). Exact headcount not visible.",
+   "past_completed_deals": "None found - Ellis is a tech-enabled immigration law firm, not visibly rolling up other firms",
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.ellis.com/about"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001065",
+  "name": "Clarence",
+  "website": "https://www.joinclarence.com",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "Two different products share adjacent domains - joinclarence.com (insurance agency acquisition/roll-up, used below) vs. tryclarence.com (a different AI copilot tool for insurance producers, unrelated)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.joinclarence.com",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.joinclarence.com"
+  }
+ }
+]

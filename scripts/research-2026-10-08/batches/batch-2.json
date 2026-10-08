@@ -1,0 +1,186 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001001",
+  "name": "Metropolis",
+  "website": "https://www.metropolis.io",
+  "known_hq": "US",
+  "sector": "Parking",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.metropolis.io",
+   "year_founded": "2017",
+   "founder": "Alex Israel (Co-Founder & CEO); co-founders Travis Kell, Peter Fisher, Courtney Fukuda",
+   "founder_linkedin": "https://www.linkedin.com/in/alex-israel/",
+   "founder_email": null,
+   "funding_detail": "Nov 2025: $1.6B combined debt+equity at $5B valuation ($1.1B senior secured loan + $500M Series D equity), led by a fund managed by existing investor LionTree. Prior: Oct 2023 $1.7-1.8B raise (Series C + debt) to fund the SP+ take-private. Total raised approaching $2B+.",
+   "headcount": "Figures vary widely by source: ~1,700-1,900 per LeadIQ/Tracxn (likely corporate HQ staff) vs. ~10,300 per Revelio Labs (likely including SP+ field/parking operations staff post-acquisition). No single authoritative number found.",
+   "past_completed_deals": "SP Plus Corporation (SP+) - take-private acquisition, ~$1.5B enterprise value, announced Oct 2023, closed May 2024 (made Metropolis the largest parking operator in North America, 4,000+ locations, 20,000+ employees added); Premier Parking (Nashville-based operator), acquired ~2022. Founder Alex Israel's prior company ParkMe was sold to INRIX in 2015, pre-dating Metropolis.",
+   "open_role": "No corp-dev/M&A-titled role found. Hiring Business Development, Strategy/Growth (2 open roles as of 2026-08-24): Director, Business Development - Milwaukee, Director, Business Development - Minneapolis, plus Vice President, Aviation Growth (https://job-boards.greenhouse.io/metropolis/jobs/7528990003) whose scope explicitly includes M&A for the aviation segment. ~79-114 total open roles across Corporate/Field teams.",
+   "contact_path": "https://www.metropolis.io/careers (job board: https://job-boards.greenhouse.io/metropolis)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001011",
+  "name": "2X",
+  "website": "https://2x.com",
+  "known_hq": "US",
+  "sector": "Marketing",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "Resolved 2026-08-28: this entity was also listed as a separate Seed-stage '2X' record (funding_tier: Seed, priority: long_list, website 2x.marketing) \u2014 confirmed to be the same company, not a second one, and merged into this record. The duplicate has been removed."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://2x.com",
+   "year_founded": "2017",
+   "founder": "Domenic Colasante (Founder); David DeWolf (CEO as of June 2026, via Knownwell acquisition)",
+   "founder_linkedin": "https://www.linkedin.com/in/domeniccolasante/ (Colasante); https://www.linkedin.com/in/ddewolf/ (DeWolf)",
+   "founder_email": null,
+   "funding_detail": "PE Growth stage. Backed by Recognize (first institutional/strategic growth equity investment, March 2023, amount undisclosed) and Insight Partners (strategic secondary investment, March 2025, amount undisclosed). Combined company valued at $400M+ following the Knownwell acquisition (June 2026).",
+   "headcount": "~1,000-1,300 (Inc. 5000 lists 1,001-5,000 band; company press states '1,000+ team members globally') Includes multi-country agency staff (e.g. Kuala Lumpur, Manila) per a since-merged duplicate record.",
+   "past_completed_deals": "Active roll-up of B2B marketing/GTM agencies - six acquisitions since 2023 per company statements, including Knownwell (AI/agentic GTM platform, 2026, David DeWolf became CEO), The Kiln (Clay/GTM engineering shop), and Intelligent Demand (B2B growth services agency), and Outbound Funnel (per a second, since-merged source record). Other acquisitions in the 'six since 2023' count not individually named in sources reviewed.",
+   "open_role": "No corp-dev roles; hiring Client Success, Marketing/Demand Gen, Creative/Content, Design (6 open roles shown) as of 2026-08-24",
+   "contact_path": "https://2x.com/career/open-roles/ (careers); https://2x.com/contact/ (general contact form)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001021",
+  "name": "Covu",
+  "website": "https://www.covu.com",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Series A",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.covu.com",
+   "year_founded": "2022",
+   "founder": "Ali Safavi (Co-Founder & CEO); Tasos Chatzimichailidis (Co-Founder, ex-wefox CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/asafavi/",
+   "founder_email": null,
+   "funding_detail": "~$50M total raised: $10M seed (led by ManchesterStory Group), $12.5M Series A, expanded to $22M Series A (Feb 2025 extension, Benhamou Global Ventures led, True Global Ventures participated), plus additional $16M equity/growth financing on top of the $32M base",
+   "headcount": "51-200 employees (LinkedIn band), San Francisco Bay Area / Redwood City, CA HQ",
+   "past_completed_deals": "Active roll-up - at least 7 acquisitions of independent P&C insurance agencies as of Aug 2025: CIII Insurance Services, Lords Insurance Agency, Uno Insurance Services (TX), Ford Insurance Agency (ME, 4th deal), Leland Insurance Services (CA, 5th deal), and Aduna Insurance Agency (7th deal)",
+   "open_role": "No corp-dev roles; hiring Sales/Partnerships (Inside Sales Rep, Head of Strategic Relations), Operations (Chief of Staff), Product (Senior PM - COVU Connect, Senior PM - COVU OS) - 5 open roles as of 2026-08-24",
+   "contact_path": "https://builtin.com/company/covu/jobs"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001031",
+  "name": "Mandrel",
+  "website": null,
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Likely name collision: the only live, well-documented 'Mandrel' (mandrel.inc/mandrel.tech, founded 2023 by Arjun Aggarwal, backed by Asymmetric Capital Partners/Construct Capital/Lux Capital) is an AI-native ERP for consumer/physical-goods brands, not an accounting roll-up. Left fields null rather than guess."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": null,
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": null,
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001041",
+  "name": "Treeline",
+  "website": "https://www.treeline.ai",
+  "known_hq": "US",
+  "sector": "IT MSP",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.treeline.ai",
+   "year_founded": null,
+   "founder": "Peter Doyle (CEO & Co-Founder, ex-Accel), Hussain Kader (CTO & Co-Founder)",
+   "founder_linkedin": "https://www.linkedin.com/in/peterwdoyle/",
+   "founder_email": null,
+   "funding_detail": "$25M Series A (March 2026) led by Andreessen Horowitz",
+   "headcount": "~70 employees",
+   "past_completed_deals": "Varsity Technologies - MSP acquisition, brought in founder Patrick Ciccarelli (28 years of MSP expertise)",
+   "open_role": "No corp-dev roles; hiring IT, Engineering, Finance, Operations (9 open roles) as of 2026-08-28",
+   "contact_path": "https://www.treeline.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001051",
+  "name": "SKROL",
+  "website": "https://skrol.com",
+  "known_hq": "US",
+  "sector": "Multiple",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://skrol.com",
+   "year_founded": "2023",
+   "founder": "Michael Cassau (Founder & CEO, previously founder/CEO of Grover); Christopher Silva (Co-Founder & CTO)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "$1.2M pre-seed led by Magnetic Capital",
+   "headcount": "~3 employees",
+   "past_completed_deals": "Business model is acquiring SMBs across sectors (stated target of 5,000 acquisitions); specific completed deals not found on public site within light-touch search",
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.linkedin.com/company/skrolhq"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001061",
+  "name": "Aera",
+  "website": null,
+  "known_hq": "US",
+  "sector": "Contact Center",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "Genuinely stealth - no public website found. Several unrelated companies share the name (Aera Technology, Aera Capital, Aera Health, Aera VC)."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": null,
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001071",
+  "name": "Starshunt",
+  "website": "https://www.starshunt.ai",
+  "known_hq": "US",
+  "sector": "Staffing",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "Actual product ('Emma') reads more like an AI recruiting-agent/agency service than a classic roll-up acquiring staffing firms - worth a sanity check against the roll-up thesis."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.starshunt.ai",
+   "year_founded": "2023 (San Francisco) - moderately confident, not from a primary source",
+   "founder": "Karen Danielyan (Co-Founder & CEO); Fedi Meliksetyan (Co-Founder & President); Alex Arakelyan (Co-Founder & CTO)",
+   "founder_linkedin": "https://www.linkedin.com/in/karen-danielyan/",
+   "founder_email": "karen.danielyan@starshunt.ai (surfaced incidentally via a data-enrichment listing, not verified firsthand)",
+   "funding_detail": "Formula VC reported as an investor; no round size found",
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "info@starshunt.ai"
+  }
+ }
+]

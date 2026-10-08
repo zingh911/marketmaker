@@ -1,0 +1,110 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001006",
+  "name_in_list": "Carr, Riggs & Ingram",
+  "identity_note": "Matched Carr, Riggs & Ingram (CRI), the Enterprise, AL-based top-25 US CPA and advisory firm at criadv.com. Sector, website and the Centerbridge/Bessemer backing all match the batch entry; no meaningful name collision.",
+  "sources": [
+    "https://www.criadv.com/about/",
+    "https://www.criadv.com/news/",
+    "https://www.criadv.com/news/cri-names-dee-burger-chief-executive-officer/",
+    "https://www.criadv.com/news/cri-merges-in-morrison-smith-expanding-alabama-footprint/",
+    "https://www.criadv.com/news/trace-advisory-joins-carr-riggs-ingram-launching-cri-government-solutions/",
+    "https://www.criadv.com/news/carr-riggs-ingram-merges-in-fort-worths-dmr-cpas/",
+    "https://www.criadv.com/news/top-25-firm-carr-riggs-ingram-continues-strategic-expansion-in-texas/",
+    "https://www.criadv.com/news/carr-riggs-ingram-expands-national-footprint-with-addition-of-cfo-hub/",
+    "https://criadv.com/news/carr-riggs-ingram-merges-in-greenvilles-cayton-associates",
+    "https://www.criadv.com/people/dee-burger/",
+    "https://www.criadv.com/career-opportunities/",
+    "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8acda1103fbd6f4f013fd5511ea10fcd",
+    "https://www.accountingtoday.com/news/carr-riggs-ingram-acquires-crowl-cameron-associates",
+    "https://www.accountingtoday.com/news/carr-riggs-ingram-appoints-first-ceo",
+    "https://www.cpapracticeadvisor.com/2025/01/21/cri-joins-forces-with-top-200-firm-capincrouse/",
+    "https://www.cpapracticeadvisor.com/2025/09/24/cri-adds-williams-steinert-mask-cpas-in-texas/169596/",
+    "https://www.cpapracticeadvisor.com/2025/10/29/cri-combines-with-abroms-associates-in-alabama/171950/",
+    "https://www.cpapracticeadvisor.com/2025/12/05/cri-adds-dk-partners-in-texas/174444/"
+  ],
+  "profile": {
+    "name": "Carr, Riggs & Ingram (CRI)",
+    "description": "Top-25 US CPA and advisory firm offering audit, tax, client accounting, transaction advisory, CFO and wealth/trust services to middle-market businesses, nonprofits, healthcare and government clients.",
+    "website": "https://www.criadv.com",
+    "location": "Enterprise, AL (HQ); 50+ markets across ~15 states plus Chihuahua and Juárez, Mexico",
+    "year_founded": "1997",
+    "founder": "Bill Carr (founding partner, now Chairman); Dee Burger is CEO (CRI's first CEO, named June 25, 2026; ex-President North America, Insight Enterprises)",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "Strategic growth investment from Centerbridge Partners (lead) with Bessemer Venture Partners, announced Nov 2024; terms undisclosed. Accounting Today 2026 Top 100: No. 23, $601M revenue.",
+    "headcount": "Over 2,700 employees, 483 partners, 41 offices (Accounting Today, June 2026); CRI's own site says 2,000+ professionals",
+    "past_completed_deals": "12+ acquisitions since the Nov 2024 investment: CapinCrouse (Jan 2025, Indianapolis), Axley & Rode (Jun 2025, Lufkin TX), Williams Steinert Mask (Sep 2025, San Antonio), Abroms & Associates (Oct 2025, Florence AL), DK Partners (Dec 2025, Austin), Cayton & Associates (Jan 2026, Greenville NC), CFO Hub (Mar 2026, San Diego), Crowl, Cameron & Associates (Jun 2026, Conroe TX), DMR CPAs (Aug 2026, Fort Worth; called the 12th since the investment), Trace Advisory (Aug 2026, Ridgeland MS; now CRI Government Solutions), Morrison & Smith (Sep 2026, Tuscaloosa AL).",
+    "open_role": "No corp-dev roles; hiring Tax, Audit, CapinCrouse, Campus Recruits, Preferred Legacy Trust, CFO Hub, Capital Markets (146 open roles) as of 2026-10-08",
+    "contact_path": "https://www.criadv.com/career-opportunities/"
+  },
+  "verdict": {
+    "kind": "buyer",
+    "headline": "Active acquirer · 6 deals in 2026 · no corp dev seat open",
+    "detail": "PE-backed (Centerbridge/Bessemer) CPA roll-up closing a deal roughly every 1-2 months; Chairman Bill Carr fronts every deal and new CEO Dee Burger owns the growth mandate."
+  },
+  "tagline": "Accounting & advisory · Enterprise, AL",
+  "description": "Top-25 US CPA and advisory firm serving middle-market businesses, nonprofits and public-sector clients, now rolling up regional CPA firms with Centerbridge and Bessemer backing.",
+  "stats": [
+    { "value": "1997", "label": "founded", "caveat": false },
+    { "value": "2,700+", "label": "employees", "caveat": false },
+    { "value": "$601M", "label": "revenue (2026 list)", "caveat": false },
+    { "value": "12+", "label": "deals since Nov 2024", "caveat": true }
+  ],
+  "headlines": [
+    { "date": "2026-09-01", "text": "CRI merges in Tuscaloosa's Morrison & Smith, expanding its Alabama footprint", "source": "https://www.criadv.com/news/cri-merges-in-morrison-smith-expanding-alabama-footprint/" },
+    { "date": "2026-08-19", "text": "Trace Advisory (Ridgeland, MS) joins CRI, launching CRI Government Solutions", "source": "https://www.criadv.com/news/trace-advisory-joins-carr-riggs-ingram-launching-cri-government-solutions/" }
+  ],
+  "ownership": [
+    { "entity": "Centerbridge Partners (lead) with Bessemer Venture Partners", "detail": "PE growth investors (non-attest CRI Advisors structure)", "since": "2024-11" },
+    { "entity": "Carr, Riggs & Ingram (CRI Advisors, LLC / Carr, Riggs & Ingram, L.L.C.)", "detail": "partner-owned CPA firm with PE-backed advisory entity", "is_this": true }
+  ],
+  "deals": [
+    { "date": "2026-09", "name": "Morrison & Smith", "place": "Tuscaloosa, AL" },
+    { "date": "2026-08", "name": "Trace Advisory (now CRI Government Solutions)", "place": "Ridgeland, MS" },
+    { "date": "2026-08", "name": "DMR CPAs", "place": "Fort Worth, TX" },
+    { "date": "2026-06", "name": "Crowl, Cameron & Associates", "place": "Conroe, TX" },
+    { "date": "2026-03", "name": "CFO Hub", "place": "San Diego, CA" },
+    { "date": "2026-01", "name": "Cayton & Associates", "place": "Greenville, NC" },
+    { "date": "2025-12", "name": "DK Partners", "place": "Austin, TX" },
+    { "date": "2025-10", "name": "Abroms & Associates", "place": "Florence, AL" },
+    { "date": "2025-09", "name": "Williams Steinert Mask CPAs", "place": "San Antonio, TX" },
+    { "date": "2025-06", "name": "Axley & Rode", "place": "Lufkin, TX" },
+    { "date": "2025-01", "name": "CapinCrouse", "place": "Indianapolis, IN" }
+  ],
+  "footprint": {
+    "hq": "AL",
+    "bought": ["AL", "TX", "MS", "CA", "NC", "IN"],
+    "branch": ["FL", "GA", "KY", "LA", "MS", "NM", "NY", "NC", "OK", "SC", "TN", "TX", "CO", "AZ", "MO"],
+    "notes": [
+      { "state": "TX", "text": "Most-targeted state: 5 Texas firms added since mid-2025" },
+      { "state": "IN", "text": "CapinCrouse (largest deal in CRI history) runs under its own brand with offices nationwide" }
+    ]
+  },
+  "competitors": [
+    { "name": "Cherry Bekaert", "owner": "Parthenon Capital", "note": "Southeast CPA/advisory roll-up; PE-backed since 2022, steady regional M&A", "is_acquired": true },
+    { "name": "Aprio", "owner": "Charlesbank Capital Partners", "note": "Atlanta-based CPA firm; PE capital since 2024 earmarked for M&A", "is_acquired": false },
+    { "name": "Citrin Cooperman", "owner": "Blackstone", "note": "Northeast CPA platform; first PE-to-PE flip (New Mountain to Blackstone, 2025)", "is_acquired": true },
+    { "name": "Baker Tilly", "owner": "Hellman & Friedman, Valeas", "note": "Top-10 US advisory/CPA firm; PE-backed since 2024, large merger program", "is_acquired": true }
+  ],
+  "best_contact": {
+    "name": "Bill Carr",
+    "title": "Founding Partner & Chairman",
+    "entity": "Carr, Riggs & Ingram",
+    "why": "Quoted on every 2025-2026 merger announcement; the visible face of CRI's deal program.",
+    "outreach_prompt": "Reference the 2026 run (Cayton, CFO Hub, Crowl Cameron, DMR, Trace, Morrison & Smith) and ask who now runs sourcing and integration under the new CEO."
+  },
+  "people": [
+    { "name": "Dee Burger", "title": "Chief Executive Officer (first CEO, since June 2026)", "entity": "CRI", "outreach_prompt": "New outside CEO from Insight/Capgemini, positioning CRI for continued growth; likely building out a corporate team." }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Deal count: CRI's own releases number the deals inconsistently (Crowl Cameron called 7th, 8th or 10th; DMR called 12th); list above is from dated releases.",
+    "Headcount: Accounting Today says 2,700+ employees (June 2026); CRI's site still says 2,000+.",
+    "Corp dev: no named corp-dev or M&A head found on CRI's site or in releases; CRI M&A Advisors is a sell-side advisory affiliate, not CRI's buy-side team.",
+    "LinkedIn: no personal LinkedIn verified for Bill Carr or Dee Burger; left null.",
+    "Funding: Centerbridge/Bessemer deal terms and stake size are undisclosed.",
+    "Careers read: 146 roles read from the embedded Paycor job board behind criadv.com/career-opportunities/; 'Corporate' dept has a Business Development Executive and payroll role, not corp dev."
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

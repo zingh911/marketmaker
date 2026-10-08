@@ -23,6 +23,7 @@
 
 import type {
   Company,
+  CompanyIntel,
   CompanyLocation,
   CompanyWithLocations,
   MapPoint,
@@ -34,6 +35,7 @@ import {
   COMPANY_LOCATIONS,
   MARKET_AI_NATIVE_ROLLUPS,
 } from "@/data/dataset-one";
+import { COMPANY_INTEL } from "@/data/intel";
 
 // ---------------------------------------------------------------------------
 // Adapter selection
@@ -223,6 +225,24 @@ export async function getCompanies(
     ...rowToCompany(r),
     locations: byCompany.get(r.id) ?? [],
   }));
+}
+
+/**
+ * The /company-intel record for each lead, keyed by company id.
+ *
+ * Read from the repo under BOTH adapters for now. Intel has no table yet: the
+ * schema is four tables and a fifth needs a ruling (0001_init.sql). The table
+ * it would become is written and waiting in db/migrations/
+ * 0003_company_intel.sql.PENDING. When that lands, the postgres branch reads
+ * it here and nothing above this line changes.
+ */
+export async function getIntel(
+  companyIds: string[],
+): Promise<Record<string, CompanyIntel>> {
+  const wanted = new Set(companyIds);
+  const out: Record<string, CompanyIntel> = {};
+  for (const r of COMPANY_INTEL) if (wanted.has(r.companyId)) out[r.companyId] = r;
+  return out;
 }
 
 // ---------------------------------------------------------------------------

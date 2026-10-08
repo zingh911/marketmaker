@@ -11,6 +11,14 @@ node scripts/4-merge-research.mjs  # merges scripts/research-2026-08-31/ (see it
 node scripts/3-emit.mjs            # writes ../src/data/dataset-one.ts
 ```
 
+Company intel is separate and independent of the four steps above:
+
+```
+node scripts/5-emit-intel.mjs      # research-2026-10-08/ → src/data/intel.ts
+```
+
+See `research-2026-10-08/README.md`.
+
 `intermediate.json` is a scratch file this pipeline writes and reads between
 steps — it is gitignored and safe to delete before a fresh run.
 

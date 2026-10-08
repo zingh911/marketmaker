@@ -19,6 +19,11 @@ interface Props {
   points: MapPoint[];
   selectedCompanyId: string | null;
   onSelect: (companyId: string) => void;
+  /**
+   * Right-hand fit padding. The floating company card needed CARD_GUTTER; the
+   * CRM puts its drawer beside the map instead, so it passes a plain margin.
+   */
+  rightGutter?: number;
 }
 
 // Continental US. Where the map opens when there is nothing to fit to.
@@ -48,6 +53,7 @@ export default function MarketMap({
   points,
   selectedCompanyId,
   onSelect,
+  rightGutter = CARD_GUTTER,
 }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<LeafletMap | null>(null);
@@ -61,6 +67,8 @@ export default function MarketMap({
   selectedRef.current = selectedCompanyId;
   const onSelectRef = useRef(onSelect);
   onSelectRef.current = onSelect;
+  const gutterRef = useRef(rightGutter);
+  gutterRef.current = rightGutter;
 
   /**
    * Once the user has panned or zoomed, stop moving the map under them.
@@ -87,6 +95,9 @@ export default function MarketMap({
         maxBounds: NA_BOUNDS,
         maxBoundsViscosity: NA_VISCOSITY,
         minZoom: NA_MIN_ZOOM,
+        // Fractional fits, so the auto-fit hugs the pins instead of snapping
+        // a whole zoom level out. The +/- buttons still step by 1.
+        zoomSnap: 0.25,
       });
 
       L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -185,9 +196,9 @@ export default function MarketMap({
     fittingRef.current = true;
     try {
       map.fitBounds(bounds, {
-        // Asymmetric on purpose: the company card floats over the right edge.
+        // Asymmetric when a card floats over the right edge.
         paddingTopLeft: [56, 56],
-        paddingBottomRight: [CARD_GUTTER, 56],
+        paddingBottomRight: [gutterRef.current, 56],
         maxZoom: 7,
         animate: false,
       });

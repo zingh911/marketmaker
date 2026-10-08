@@ -1,0 +1,162 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001006",
+  "name": "Carr, Riggs & Ingram",
+  "website": "https://www.criadv.com",
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "29-year-old CPA firm, not an AI-native startup, but fits the roll-up thesis: took a Centerbridge Partners/Bessemer growth investment Nov 2024 and has executed 7+ acquisitions since, with a first-ever outside CEO installed June 2026."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.criadv.com",
+   "year_founded": "1997",
+   "founder": "Bill Carr (founder, now Chairman); Dee Burger (CEO, appointed June 2026)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Strategic growth investment from Centerbridge Partners (lead) with Bessemer Venture Partners co-investing, announced Nov 18, 2024; deal amount undisclosed. FY23 net revenue was ~$455.4M.",
+   "headcount": "~2,000+ professionals; 35+ market locations",
+   "past_completed_deals": "Active roll-up under new PE backing: CapinCrouse (Jan 2025, largest merger in CRI's 28-year history), Axley & Rode (Jun 2025), Williams Steinert Mask CPAs (Sep 2025), Abroms & Associates (late Oct 2025), Trace Advisory (became CRI Government Solutions), DMR CPAs (Fort Worth, CRI's 12th acquisition since the Nov 2024 investment), DK Partners (Dec 2025). Also operates a dedicated 'CRI M&A Advisors' subsidiary.",
+   "open_role": "No corp-dev roles found; hiring across Tax (46), CFO Hub (5), Capital Markets (2), Transaction Advisory Services (1), plus general audit/accounting roles (124+ total open positions) as of 2026-08-24",
+   "contact_path": "https://www.criadv.com/career-opportunities/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001016",
+  "name": "Nuvocargo",
+  "website": "https://www.nuvocargo.com",
+  "known_hq": "US",
+  "sector": "Freight Forwarder",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.nuvocargo.com",
+   "year_founded": "2019",
+   "founder": "Deepak Chhugani (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/deepakchhugani/",
+   "founder_email": null,
+   "funding_detail": "$75-85M+ total raised across 7 rounds. Series A ~$20.5M (2021, led by Tiger Global); Series B $36.5M (July 2023) led by QED Investors, with Tresalia Capital, Amador Holdings, Tiger Global, NFX, ALLVP, Magma Partners, MAYA Capital, One Way Ventures returning. A July 2026 profile cites total raised as 'over $85M' from QED Investors, NFX, and others - exact date/name of latest round unclear from public sources.",
+   "headcount": "~89 employees (LinkedIn 51-200 band)",
+   "past_completed_deals": "Acquired Merge Transportation (South Carolina-based intra-US 3PL, ~14 employees) - Nuvocargo's first acquisition, expanding into domestic freight brokerage. Also acquired Mentum (YC-backed AI agent startup for procurement/supply chain automation), announced late Oct 2025, folded into Nuvocargo's R&D/NuvoOS team.",
+   "open_role": "No corp-dev roles; hiring Customs, Sales (3 open roles: Head of Customs Brokerage, Brokerage Sales Executive, Sales Executive) as of 2026-08-24",
+   "contact_path": "https://careers.nuvocargo.com/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001026",
+  "name": "Overdrive Health",
+  "website": "https://www.overdrive.health",
+  "known_hq": "US",
+  "sector": "Medical RCM",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.overdrive.health",
+   "year_founded": "2025",
+   "founder": "Michael Schroeder (Founder/CEO); one source also lists Daniel Inge as co-founder",
+   "founder_linkedin": "https://www.linkedin.com/in/michaelschroeder-/",
+   "founder_email": null,
+   "funding_detail": "$500K Pre-Seed from Y Combinator (W26 batch), announced ~March 2026",
+   "headcount": "~1-2 (YC page lists team size as 1)",
+   "past_completed_deals": null,
+   "open_role": "No open roles found as of 2026-08-28 (YC jobs page: 'No jobs at Overdrive Health are currently posted')",
+   "contact_path": "https://www.ycombinator.com/companies/overdrive-health"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001036",
+  "name": "Gyde",
+  "website": "https://www.gydehealth.ai",
+  "known_hq": "US",
+  "sector": "Insurance Broker/Agency",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.gydehealth.ai",
+   "year_founded": null,
+   "founder": "Will Johnson & Sam Wiener - Co-CEOs/Co-Founders (both ex-Oscar Health)",
+   "founder_linkedin": "https://www.linkedin.com/in/will-johnson-71197236/",
+   "founder_email": null,
+   "funding_detail": "$60M launch financing (Jan 2026) led by Lightspeed, with Optum Ventures, Crystal Venture Partners, Virtue, MVP Ventures, and endowment funds",
+   "headcount": "~17-30 employees (varies by source)",
+   "past_completed_deals": "Avid Health, a Medicare agency in Palm Beach, FL (acquired April 2026)",
+   "open_role": "No corp-dev roles listed on own careers page (generic CTA only); external boards show a Value Creation Director opening as of 2026-08-28",
+   "contact_path": "https://www.gydehealth.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001046",
+  "name": "Veloclear",
+  "website": "https://veloclear.com (site returned 404 on live check)",
+  "known_hq": "US",
+  "sector": "Customs Broker",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "veloclear.com returned 404 on live check; only found as a bare listing on a third-party roll-up directory. Very thin public footprint."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://veloclear.com (site returned 404 on live check)",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001056",
+  "name": "Gazelle Travel",
+  "website": "https://www.gazelle.travel",
+  "known_hq": "US",
+  "sector": "Travel Agency",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Minimal footprint as expected - site (gazelle.travel) is a single static page. Do not confuse with Sonder founder Francis Davidson's separate venture 'Odessia,' a different AI travel-agent company."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.gazelle.travel",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": "None named - site states it is 'executing buy-and-build strategies across the travel sector' (New York, NY) with no portfolio/brands listed",
+   "open_role": "No public careers page found",
+   "contact_path": "https://www.gazelle.travel"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001066",
+  "name": "Ashler",
+  "website": "https://ashler.com",
+  "known_hq": "US",
+  "sector": "Engineering Services",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://ashler.com",
+   "year_founded": "October 2025",
+   "founder": "Two co-founders, first names Conor (ex-Alpine Investors/CapitalG, Stanford GSB) and Connor (ML engineer, ex-AWS/Citadel, Columbia) - full surnames not confidently found in this light pass",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Backed by General Catalyst and Shadow Ventures (pre-seed/seed; round size not disclosed)",
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "https://ashler.com (contact via /inquiry)"
+  }
+ }
+]

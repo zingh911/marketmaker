@@ -1,0 +1,97 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001017",
+  "name_in_list": "Pando",
+  "identity_note": "Matched Pando (pando.ai), the AI transportation-management-system (TMS) vendor with its main base in Chennai (PandoCorp Pvt Ltd) and US presence, which fits the batch website and freight sector. Not the HR-software Pando acquired by Lattice, nor other 'Pando' entities. Pando.ai was itself acquired by Fleetx.ai (announced 2026-08-20) and continues as a distinct brand.",
+  "sources": [
+    "https://pando.ai",
+    "https://careers.pando.ai",
+    "https://www.dtnext.in/news/business/fleetxai-acquires-chennai-based-pandoai",
+    "https://www.outlookbusiness.com/spotlight/news-wire/fleetx-ai-acquires-pando-ai-strengthening-its-leadership-in-india-s-fleet-and-logistics-technology-market",
+    "https://india.entrepreneur.com/business-news/fleetx-ai-acquires-pando-ai-to-expand-logistics-tech",
+    "https://www.barandbench.com/law-firms/dealstreet/fleetx-acquires-pandoai-jsa-cms-induslaw-advise",
+    "https://omm.com/news/press-releases/o-melveny-advises-pando-on-us-30-million-series-b-funding",
+    "https://manatt.com/insights/news/2023/manatt-represents-iron-pillar-in-pandos-30m-series",
+    "https://www.thesaasnews.com/news/pando-raises-30-million-in-series-b/",
+    "https://ambitionbox.com/overview/pando-overview",
+    "https://www.gartner.com/reviews/product/pando-478612432",
+    "https://inc42.com/company/pando/people/",
+    "https://www.fleetx.io/news",
+    "https://inc42.com/company/fleetx/",
+    "https://www.ingka.com/newsroom/ingka-group-acquires-locus-an-ai-powered-logistics-software-company-to-transform-the-ikea-home-delivery-experience/",
+    "https://www.foodlogistics.com/home/news/21452239/fareye-fareye-announces-100-million-series-e-round"
+  ],
+  "profile": {
+    "name": "Pando (Pando.ai)",
+    "description": "AI-powered transportation management system covering freight procurement, dispatch/tracking and carrier freight audit & settlement, sold to enterprise shippers (manufacturers, retailers, distributors) such as Castrol, Godrej, Nivea, Marico, Sun Pharma and Honda.",
+    "website": "https://pando.ai",
+    "location": "Chennai, India (main operations and all open roles; entity PandoCorp Pvt Ltd); US presence variously listed as California (2023 Series B release datelined San Jose) or Chicago",
+    "year_founded": "2018 (Gartner, AmbitionBox, Inc42); The SaaS News says 2017",
+    "founder": "Nitin Jayakrishnan and Abhijeet Manohar (co-founders, per The SaaS News). Current CEO: Badrinath (Badri) Setlur, who continues to lead Pando.ai under Fleetx.ai.",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "~$45M total raised; $30M Series B (May 2023) co-led by Iron Pillar and Uncorrelated Ventures with Nexus Venture Partners, Chiratae Ventures and Next47. Acquired by Fleetx.ai (announced Aug 20, 2026; undisclosed terms).",
+    "headcount": "Sources disagree: Inc42 149 (down ~16% in 90 days); Bitscale 204; ContactOut 251; Gartner/Prospeo 201-500 band",
+    "past_completed_deals": "No acquisitions by Pando found. Pando was itself acquired by Fleetx.ai (announced 2026-08-20, undisclosed); combined entity targeting an IPO in 18-24 months.",
+    "open_role": "No corp-dev roles; hiring Enterprise Sales, Fullstack Developer, Visual Designer, Customer Success Manager (4 open roles, all Chennai) as of 2026-10-08",
+    "contact_path": "https://careers.pando.ai"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "Acquired by Fleetx.ai (Aug 2026) · not an acquirer · no corp-dev seat",
+    "detail": "Now a brand inside Fleetx.ai; any M&A appetite sits with Fleetx CEO Vineet Sharma as the combined company prepares for an IPO."
+  },
+  "tagline": "Freight TMS / audit & payment · Chennai, India",
+  "description": "Sells an AI transportation management system that runs freight procurement, execution and carrier settlement for large enterprise shippers.",
+  "stats": [
+    { "value": "2018", "label": "founded", "caveat": true },
+    { "value": "149-251", "label": "employees", "caveat": true },
+    { "value": "~$45M", "label": "raised before exit", "caveat": false },
+    { "value": "Aug 2026", "label": "acquired by Fleetx.ai", "caveat": false }
+  ],
+  "headlines": [
+    { "date": "2026-08-20", "text": "Fleetx.ai acquires Pando.ai for an undisclosed sum; Pando keeps its brand and leadership, combined company eyes IPO in 18-24 months", "source": "https://www.dtnext.in/news/business/fleetxai-acquires-chennai-based-pandoai" }
+  ],
+  "ownership": [
+    { "entity": "Fleetx.ai", "detail": "private, VC-backed (IndiaMART, BEENEXT); Gurugram, India", "since": "2026-08" },
+    { "entity": "Pando.ai", "detail": "distinct brand within Fleetx.ai", "is_this": true },
+    { "entity": "Iron Pillar, Uncorrelated Ventures, Nexus, Chiratae, Next47", "detail": "former VC investors", "is_former": true }
+  ],
+  "deals": [],
+  "footprint": {
+    "notes": [
+      { "state": "CA", "text": "2023 Series B release datelined San Jose; main base is Chennai, India" },
+      { "state": "IL", "text": "Some directories list Chicago as US HQ; not confirmed by the company" }
+    ]
+  },
+  "competitors": [
+    { "name": "Blue Yonder", "owner": "Panasonic", "note": "Planning-led supply-chain suite with TMS module", "is_acquired": true },
+    { "name": "Descartes Systems", "owner": "public, NASDAQ: DSGX", "note": "Logistics software incl. TMS; serial acquirer" },
+    { "name": "FarEye", "owner": "VC-backed (TCV, Dragoneer)", "note": "Chicago/Noida delivery-management and visibility platform" },
+    { "name": "Locus", "owner": "Ingka Group (IKEA)", "note": "AI route optimisation/dispatch; bought Oct 2025", "is_acquired": true },
+    { "name": "Fretron", "owner": "not checked", "note": "Indian TMS for manufacturers incl. freight billing" }
+  ],
+  "best_contact": {
+    "name": "Vineet Sharma",
+    "title": "Co-founder and CEO",
+    "entity": "Fleetx.ai",
+    "why": "Parent CEO who controls capital allocation and further M&A post-acquisition"
+  },
+  "people": [
+    { "name": "Badrinath Setlur", "title": "CEO", "entity": "Pando.ai" },
+    { "name": "Nitin Jayakrishnan", "title": "Co-founder", "entity": "Pando.ai", "caveat": true },
+    { "name": "Abhijeet Manohar", "title": "Co-founder", "entity": "Pando.ai", "caveat": true }
+  ],
+  "none_found": ["deals"],
+  "caveats": [
+    "Identity: pando.ai freight TMS, not Lattice's acquired HR-software Pando",
+    "Status: acquired by Fleetx.ai Aug 2026; no longer a standalone acquirer prospect",
+    "US HQ: sources split between San Jose/California and Chicago; footprint hq left blank",
+    "Founded: 2018 per Gartner/AmbitionBox/Inc42, 2017 per The SaaS News",
+    "Headcount: Inc42 149, Bitscale 204, ContactOut 251, Gartner 201-500 band",
+    "Founders: named by one source only; prior pass said both moved to board roles to start Freehand, not re-verified",
+    "Founder LinkedIn: prior pass URLs not re-verified today; left null",
+    "Careers page: Zoho Recruit page is JS-rendered; roles read from the page's embedded job data"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

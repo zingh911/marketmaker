@@ -1,0 +1,100 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001007",
+  "name_in_list": "Crescendo",
+  "identity_note": "Matched Crescendo (crescendo.ai), the San Francisco AI-native contact-center / CX company incubated by General Catalyst, which fits the batch website and the Contact Center sector. Not Crexendo (NASDAQ: CXDO, cloud telecom), Crescendo Lab (Taipei martech), or the Crescendo music-trainer app acquired by Ultimate Guitar.",
+  "sources": [
+    "https://www.crescendo.ai",
+    "https://www.crescendo.ai/careers",
+    "https://itbrief.co.uk/story/crescendo-appoints-andy-lee-as-chief-executive-officer",
+    "https://www.crescendo.ai/news/crescendo-launches-the-ai-native-customer-experience-platform-one-system-that-runs-and-continuously-improves-the-entire-cx-operation",
+    "https://www.crescendo.ai/news/crescendo-acquires-customer-operations-innovator-partnerhero",
+    "https://www.globenewswire.com/news-release/2024/10/02/2957175/0/en/Crescendo-Acquires-Customer-Operations-Innovator-PartnerHero.html",
+    "https://siliconangle.com/2024/10/02/crescendo-raises-50m-ai-powered-customer-service-platform/",
+    "https://www.crescendo.ai/news/crescendo-to-exceed-100m-arr-as-global-adoption-of-its-first-ai-native-contact-center-accelerates",
+    "https://crescendo.ai/news/crescendo-expands-europe",
+    "https://www.builtinsf.com/company/crescendo/jobs",
+    "https://jobs.generalcatalyst.com/companies/crescendo-2-1fc09d6e-7427-4a85-8af7-a6d2cbfc5622",
+    "https://trueup.io/co/crescendo-ai",
+    "https://www.cbinsights.com/company/crescendo-3",
+    "https://www.ocbj.com/technology/alorica-founder-lee-steps-down-ceo/",
+    "https://sacra.com/c/sierra/",
+    "https://news.bloomberglaw.com/artificial-intelligence/ai-customer-support-startup-decagon-valued-at-4-5-billion",
+    "https://stockanalysis.com/private/ada/"
+  ],
+  "profile": {
+    "name": "Crescendo",
+    "description": "AI-native customer experience platform and managed contact center that combines AI agents with human CX specialists (CCaaS, ticketing, QA, workforce management, knowledge) for retail/ecommerce, connected-device and health & wellness brands.",
+    "website": "https://www.crescendo.ai",
+    "location": "San Francisco, CA (HQ); human CX workforce largely offshore via the PartnerHero acquisition; UK/Europe expansion announced April 2026",
+    "year_founded": "2024 (per company's own Aug 2026 release; some trackers such as Sacra list 2023)",
+    "founder": "Co-founders Matt Price, Andy Lee, Anand Chandrasekaran and Slava Zhakov (incubated at General Catalyst). Andy Lee (former Chairman; Alorica founder and Executive Chairman) became CEO in July 2026; Matt Price, founding CEO, moved to Strategic Advisor to the Board.",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "$50M Series C at a $500M valuation led by General Catalyst with Celesta Capital and Alorica (Oct 2, 2024); CB Insights lists ~$54.5M total raised. No newer round found as of 2026-10-08.",
+    "headcount": "~2,000-2,077 (Built In lists 2,077 employees; TrueUp estimates ~2,000); General Catalyst job board shows a stale 1-10 band",
+    "past_completed_deals": "Acquired PartnerHero (Boise, ID customer-operations/BPO firm), Oct 2, 2024 - added 200+ customers and ~3,000 CX professionals. No acquisitions found since.",
+    "open_role": "No open roles found as of 2026-10-08",
+    "contact_path": "careers@crescendo.ai (careers); info@crescendo.ai / +1.888.410.8077 (general)"
+  },
+  "verdict": {
+    "kind": "watch",
+    "headline": "One transformative acquisition (2024) · no deals since · new CEO",
+    "detail": "Bought PartnerHero in 2024 to fuse AI with a BPO workforce; new CEO Andy Lee (Alorica founder) is the person who would drive any further BPO buys."
+  },
+  "tagline": "AI-native contact center · San Francisco, CA",
+  "description": "Runs AI-native customer service for consumer brands, blending AI agents with human CX specialists on one platform priced by outcome.",
+  "stats": [
+    { "value": "2024", "label": "founded", "caveat": true },
+    { "value": "~2,000", "label": "employees", "caveat": true },
+    { "value": "$100M+", "label": "ARR target (end-2025, company claim)", "caveat": true },
+    { "value": "$50M", "label": "Series C (2024)", "caveat": false }
+  ],
+  "headlines": [
+    { "date": "2026-08-25", "text": "Launched the Crescendo Customer Experience Platform (CXP), consolidating CCaaS, ticketing, WFM, QA, VoC and knowledge under AI agents", "source": "https://www.crescendo.ai/news/crescendo-launches-the-ai-native-customer-experience-platform-one-system-that-runs-and-continuously-improves-the-entire-cx-operation" },
+    { "date": "2026-07-15", "text": "Co-founder Andy Lee (Alorica founder) named CEO; founding CEO Matt Price becomes Strategic Advisor to the Board", "source": "https://itbrief.co.uk/story/crescendo-appoints-andy-lee-as-chief-executive-officer" }
+  ],
+  "ownership": [
+    { "entity": "Crescendo", "detail": "private, VC-backed (General Catalyst lead; Celesta Capital, Alorica)", "is_this": true }
+  ],
+  "deals": [
+    { "date": "2024-10", "name": "PartnerHero", "place": "Boise, ID" }
+  ],
+  "footprint": {
+    "hq": "CA",
+    "bought": ["ID"],
+    "notes": [
+      { "state": "ID", "text": "PartnerHero (acquired 2024) was Boise-based; its CX workforce is largely offshore" },
+      { "state": "CA", "text": "Expanded into UK/Europe in April 2026" }
+    ]
+  },
+  "competitors": [
+    { "name": "Sierra", "owner": "VC-backed (GV, Tiger)", "note": "AI customer-service agents; raised $950M at ~$15.8B valuation May 2026" },
+    { "name": "Decagon", "owner": "VC-backed (Coatue, Index)", "note": "AI support agents; $250M round at $4.5B valuation Jan 2026" },
+    { "name": "Ada", "owner": "VC-backed, private", "note": "Toronto AI customer-service agents; last priced round 2021" },
+    { "name": "Teleperformance", "owner": "public, Euronext: TEP", "note": "Global BPO/contact-center giant adding AI; frequent acquirer" }
+  ],
+  "best_contact": {
+    "name": "Andy Lee",
+    "title": "CEO and Co-founder",
+    "entity": "Crescendo",
+    "why": "CEO since July 2026 and Alorica founder; owns strategy and any further BPO acquisitions"
+  },
+  "people": [
+    { "name": "Tod Famous", "title": "Co-founder and Chief Product Officer", "entity": "Crescendo" },
+    { "name": "Matt Price", "title": "Founder; Strategic Advisor to the Board (former CEO)", "entity": "Crescendo" },
+    { "name": "Anand Chandrasekaran", "title": "Co-founder", "entity": "Crescendo", "caveat": true }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Identity: Crescendo (crescendo.ai), not Crexendo (CXDO) or Crescendo Lab",
+    "Leadership change: prior pass named Matt Price CEO; Andy Lee is CEO since July 2026",
+    "Founded: company says 2024; Sacra and prior pass said 2023",
+    "Headcount: Built In 2,077, TrueUp ~2,000, General Catalyst board a stale 1-10 band; no LinkedIn figure retrieved",
+    "ARR: '$100M+' is a Sept 2025 company projection, not an audited figure",
+    "Careers page: loads but shows only template 'Job Example' placeholders; Built In and General Catalyst boards also show 0 jobs",
+    "Founder LinkedIn: prior pass URL for Matt Price could not be verified today; left null",
+    "Offshore footprint: prior pass cited Honduras/Philippines staff; not re-verified today"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

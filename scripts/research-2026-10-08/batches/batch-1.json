@@ -1,0 +1,180 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000000101",
+  "name": "Resolve Pain Solutions",
+  "website": "https://resolvepainsolutions.com",
+  "known_hq": "Atlanta, GA, US",
+  "sector": "Medical",
+  "funding_tier": null,
+  "priority": null,
+  "flags": [],
+  "prior_enrichment_2026_08_24": null
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001010",
+  "name": "Lightswitch",
+  "website": "https://www.lightswitchpm.com",
+  "known_hq": "US",
+  "sector": "Property Management",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [
+   "Own site is also a bare one-page stealth site; funding/founding-year figures below come only from third-party enrichment (RocketReach/The Org), lower-confidence than a press release."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.lightswitchpm.com",
+   "year_founded": null,
+   "founder": "Benton Atchison (Founder & CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/benton-atchison-a2886725/",
+   "founder_email": null,
+   "funding_detail": "Third-party sources (RocketReach) indicate <$5M raised across 2 rounds, last closed ~Mar 31 2025 - unverified, no official press release found. Listed as 'PE Growth' stage in one industry directory, but public footprint suggests earlier stage.",
+   "headcount": "1-10 employees (LinkedIn/The Org) - small HQ team; any acquired property-management company headcounts are not public",
+   "past_completed_deals": "None named publicly. Site states mission to 'partner with exceptional property managers to strengthen and grow their businesses while preserving leadership, brand, and culture' (roll-up model) but lists no acquired company names.",
+   "open_role": "No public careers page found",
+   "contact_path": "letschat@lightswitchpm.com"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001020",
+  "name": "Alix",
+  "website": "https://www.meetalix.com",
+  "known_hq": "US",
+  "sector": "Legal/Estate",
+  "funding_tier": "Series A",
+  "priority": "long_list",
+  "flags": [
+   "Name collides heavily with the unrelated, much larger consultancy AlixPartners - data below is for the estate-settlement startup (meetalix.com), confirmed via Alexandra Mysoor/Hugh Tamassia leadership."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.meetalix.com",
+   "year_founded": "2022",
+   "founder": "Alexandra Mysoor (Co-Founder & CEO); Hugh Tamassia (Co-Founder & President)",
+   "founder_linkedin": "https://www.linkedin.com/in/alexandramysoor/",
+   "founder_email": null,
+   "funding_detail": "$20M Series A (Jul 2025) from Acrew Capital, Charles Schwab, and Edward Jones Ventures, with existing investors Initialized Capital, Scribble, Magnify, Ziegler Link-age Funds, and Cameron Ventures; total funding to date $30.65M",
+   "headcount": "~59 employees (Tracxn/LinkedIn), team listed as 11-50 on some sources",
+   "past_completed_deals": "None found - Alix is a direct-to-consumer estate-settlement service provider (AI platform + in-house fiduciaries/CPAs/lawyers), not an acquirer of other firms",
+   "open_role": "No corp-dev roles; hiring Legal (Attorney - Trusts & Estates Settlement) and Customer/Care Team (Care Team Specialist) as of 2026-08-24",
+   "contact_path": "https://jobs.gusto.com/boards/alix-392e7ee3-8a5b-4eb1-ad5c-99f6e241fb60"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001030",
+  "name": "Gain",
+  "website": null,
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Could not confirm this entity: the source directory lists a seed-stage 'Gain' at joingain.co, but that domain does not resolve (DNS failure). Live 'Gain' companies found (getgain.com AI workforce/procurement agents; a separate Crunchbase 'Gain' AI workers platform) do not match an accounting roll-up. Left fields null rather than guess."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": null,
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": null,
+   "contact_path": null
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001040",
+  "name": "TitanMSP",
+  "website": "https://titanmsp.ai",
+  "known_hq": "US",
+  "sector": "IT MSP",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://titanmsp.ai",
+   "year_founded": "2024",
+   "founder": "Saurin Patel (CEO/Co-Founder, ex-Twitter/Snap), David Heffernan (CTO/Co-Founder, ex-Scale AI)",
+   "founder_linkedin": "https://www.linkedin.com/in/-saurin-patel/",
+   "founder_email": null,
+   "funding_detail": "$74M funding led by General Catalyst, with 8VC participation",
+   "headcount": "Combined entity (with RFA) reported ~630 employees; core Titan holdco itself much smaller (~10 per PitchBook) - figure likely dominated by acquired RFA staff",
+   "past_completed_deals": "RFA (Richard Fleischman & Associates) - IT MSP serving 400+ financial-services clients, acquired 2025; also a partnership mentioned with StoredTech",
+   "open_role": "M&A Associate/VP open as of 2026-08-28 (https://titanmsp.ai/careers) - also a Sourcing Analyst role under the same M&A department",
+   "contact_path": "https://titanmsp.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001050",
+  "name": "Xhipment",
+  "website": "https://www.xhipment.com",
+  "known_hq": "US",
+  "sector": "Freight Forwarder",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Mixed signals: site claims Delaware/USA incorporation with founder bios matching a Seed-stage narrative, but LinkedIn shows HQ in Bengaluru India, ~125 employees, and some sources describe it as bootstrapped/founded 2022 - larger/more mature than a typical Seed roll-up profile. Could be the same company (US C-corp, India engineering hub) or a distinct company sharing the name/domain. Treat funding/headcount with caution."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.xhipment.com",
+   "year_founded": "2022",
+   "founder": "Shashank Pant and Bharat Bhardwaj (ex-Amazon)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Investors: Better Capital, Good Capital, Relentless VC, Titan Capital (round size undisclosed)",
+   "headcount": "~125 employees (51-200 band) per LinkedIn",
+   "past_completed_deals": null,
+   "open_role": "No public careers page found (xhipment.com/careers 404); LinkedIn shows Sales hiring mentioned in posts but no formal listing",
+   "contact_path": "https://www.xhipment.com/"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001060",
+  "name": "Rocketable",
+  "website": "https://rocketable.com",
+  "known_hq": "US",
+  "sector": "SaaS/Software Roll-up",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Corrected 2026-08-28: source sector tag was the placeholder \"World Domination\" (not a real sector) \u2014 already investigated and resolved in a prior pass (see below), but the sector field itself was never updated to match. Set to \"SaaS/Software Roll-up\" per that resolution.",
+   "Actual business: an AI-native 'software holding company' that buys profitable small SaaS businesses and runs them with AI instead of human teams."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://rocketable.com",
+   "year_founded": "2023",
+   "founder": "Alan Wells (Founder/CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/awells/",
+   "founder_email": null,
+   "funding_detail": "$6.5M seed round from Y Combinator, True Ventures, Bloomberg Beta, Indie.vc, and others",
+   "headcount": "Very small - YC profile lists 2 employees (deliberately lean, 'AI maximalist' model)",
+   "past_completed_deals": "Acquired podcast production tools Alitu and The Podcast Host from founder Colin Gray, folding them into an AI-automated operating model",
+   "open_role": "No corp-dev roles; hiring Engineering (Founding Engineer, Automation Platform - onsite SF/Marin County) as of 2026-08-28",
+   "contact_path": "https://www.ycombinator.com/companies/rocketable/jobs"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001070",
+  "name": "Sedona",
+  "website": "https://www.sedonahq.com",
+  "known_hq": "US",
+  "sector": "Freight Broker",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [
+   "Generic/place name - heavy noise from Sedona AZ tourism, Sedona Trucking Inc, Sedona Staffing, Sedona Systems, The Sedona Conference. Confirmed correct via sedonahq.com ('the autonomous freight brokerage')."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.sedonahq.com",
+   "year_founded": null,
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": null,
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": null
+  }
+ }
+]

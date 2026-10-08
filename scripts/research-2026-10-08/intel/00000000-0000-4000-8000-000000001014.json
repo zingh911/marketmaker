@@ -1,0 +1,96 @@
+{
+  "company_id": "00000000-0000-4000-8000-000000001014",
+  "name_in_list": "Long Lake Management Holdings",
+  "identity_note": "Matched Long Lake Management Holdings, Inc. (llmh.com, 'Long Lake'), the General Catalyst-backed AI holding company led by Alex Taubman that bought Amex GBT. It is not Long Lake Insurance (a Saskatchewan brokerage), and it is not The Taubman Company, whose address is on Long Lake Rd in Bloomfield Hills, MI.",
+  "sources": [
+    "https://llmh.com",
+    "https://api.ashbyhq.com/posting-api/job-board/long-lake",
+    "https://jobs.ashbyhq.com/long-lake/0449fd29-8278-4c90-aaa6-9ad4490a20f6",
+    "https://finviz.com/news/396503/long-lake-the-worlds-first-ai-holding-company-completes-63-billion-acquisition-of-american-express-global-business-travel",
+    "https://www.lw.com/en/news/2026/09/latham-watkins-advises-long-lake-in-completed-acquisition-of-american-express-global-business-travel",
+    "https://ir.americanexpress.com/news/investor-relations-news/investor-relations-news-details/2026/Long-Lake-Backed-by-General-Catalyst-to-Purchase-American-Express-Stake-in-Global-Business-Travel-Group-Inc--as-GBTG-Agrees-to-be-Acquired/default.aspx",
+    "https://dealroom.co/news/128461-long-lake-buys-amex-gbt-for-6-3b-to-build-an-ai-powered-corporate-travel/",
+    "https://dealroom.co/companies/long-lake-management/",
+    "https://simplify.jobs/c/Long-Lake",
+    "https://www.newcomer.co/p/inside-the-vc-roll-up-craze-that",
+    "https://www.generalcatalyst.com/stories/our-investment-in-titan",
+    "https://thenextweb.com/news/thrive-holdings-2bn-12bn-valuation-softbank-ai-rollup",
+    "https://finance.yahoo.com/news/thrive-backed-accounting-firm-crete-130200467.html"
+  ],
+  "profile": {
+    "name": "Long Lake Management Holdings (Long Lake)",
+    "description": "Permanent-capital AI holding company that buys US services businesses and runs them on its Nexus AI platform, with forward-deployed engineers and operators embedded in each company. It closed a $6.3B take-private of American Express Global Business Travel in Sept 2026.",
+    "website": "https://llmh.com",
+    "location": "New York, NY (Simplify HQ; offices in New York and San Francisco per llmh.com)",
+    "year_founded": "2023",
+    "founder": "Alex (Alexander) Taubman, Co-Founder & CEO. Press names no other co-founder; the 'Zach Frankl' co-founder from the prior pass is still uncorroborated and is dropped.",
+    "founder_linkedin": null,
+    "founder_email": null,
+    "funding_detail": "About $1.3B raised across 4 rounds (Dealroom, Simplify), the latest a $609M Series C in Nov 2025 (Simplify). Investors are General Catalyst, Alpha Wave, Thrive, D1, Elad Gil and Lightscape. The Amex GBT deal was co-financed by existing investors, Koch Equity Development, and a $1.5B first-lien term loan at the GBT level.",
+    "headcount": null,
+    "past_completed_deals": "Amex GBT take-private (~$6.3B, all cash, $9.50/share). Announced May 4, 2026, approved by stockholders Aug 3, 2026, completed Sep 29, 2026; GBT is delisted from NYSE. Before that, 'dozens' of services businesses per the company's release (secondary sources say 18 by late 2025, and 30+ or ~35 by 2026), concentrated in HOA management, construction and other services. Long Lake does not publish the names. Wold Architects (from the prior pass) could not be verified.",
+    "open_role": "M&A role, posted under the title \"Finance\" on the M&A team (deal execution from diligence to close plus post-close value creation; New York/SF), open as of 2026-10-08 (https://jobs.ashbyhq.com/long-lake/0449fd29-8278-4c90-aaa6-9ad4490a20f6)",
+    "contact_path": "https://jobs.ashbyhq.com/long-lake"
+  },
+  "verdict": {
+    "kind": "role_open",
+    "headline": "M&A deal-execution seat still open · just closed $6.3B Amex GBT",
+    "detail": "The M&A posting (first published May 13, 2026, now titled 'Finance' under the M&A team) is live on Ashby. It covers diligence through close and then value creation alongside management."
+  },
+  "tagline": "AI holding company, services · New York, NY",
+  "description": "General Catalyst-backed permanent-capital holding company that buys services businesses, from HOA managers to Amex GBT, and runs them on its own AI platform.",
+  "stats": [
+    { "value": "2023", "label": "founded", "caveat": false },
+    { "value": "~$1.3B", "label": "equity raised", "caveat": true },
+    { "value": "$6.3B", "label": "Amex GBT take-private", "caveat": false },
+    { "value": "30+", "label": "businesses owned", "caveat": true }
+  ],
+  "headlines": [
+    { "date": "2026-09-29", "text": "Completed the $6.3B all-cash take-private of American Express Global Business Travel; GBT delisted from NYSE", "source": "https://finviz.com/news/396503/long-lake-the-worlds-first-ai-holding-company-completes-63-billion-acquisition-of-american-express-global-business-travel" },
+    { "date": "2026-05-04", "text": "Agreed to buy Amex GBT at $9.50/share, with Amex selling its ~30% stake", "source": "https://ir.americanexpress.com/news/investor-relations-news/investor-relations-news-details/2026/Long-Lake-Backed-by-General-Catalyst-to-Purchase-American-Express-Stake-in-Global-Business-Travel-Group-Inc--as-GBTG-Agrees-to-be-Acquired/default.aspx" }
+  ],
+  "ownership": [
+    { "entity": "Long Lake Management Holdings", "detail": "private, VC-backed permanent-capital vehicle (General Catalyst, Alpha Wave, Thrive, D1, Elad Gil)", "is_this": true, "since": "2023" }
+  ],
+  "deals": [
+    { "date": "2026-09", "name": "American Express Global Business Travel (take-private, $6.3B)", "place": "NY" }
+  ],
+  "footprint": {
+    "hq": "NY",
+    "bought": ["NY"],
+    "branch": ["CA"],
+    "notes": [
+      { "state": "CA", "text": "San Francisco office per llmh.com; all 4 open roles listed New York/SF" },
+      { "state": "NY", "text": "Earlier HOA / construction acquisitions are unnamed, so their states are unknown" }
+    ]
+  },
+  "competitors": [
+    { "name": "Thrive Holdings", "owner": "Thrive Capital", "note": "AI holdco owning Crete (accounting) and Shield (IT); reportedly raising ~$2B" },
+    { "name": "Crete Professionals Alliance (Current)", "owner": "Thrive Holdings", "note": "Accounting-firm AI roll-up, $500M+ acquisition budget, 20+ firms by 2025" },
+    { "name": "Titan", "owner": "General Catalyst-led", "note": "AI-enabled MSP holdco; $74M round, first deal RFA" },
+    { "name": "Eudia", "owner": "General Catalyst-backed", "note": "Legal-services AI roll-up co-created by General Catalyst" }
+  ],
+  "best_contact": {
+    "name": "Alex Taubman",
+    "title": "Co-Founder & CEO",
+    "entity": "Long Lake",
+    "why": "Only executive Long Lake names publicly; no head of M&A is published",
+    "outreach_prompt": "Reference the GBT close and ask how the M&A team is scaling deal execution for post-GBT vertical platforms."
+  },
+  "people": [
+    { "name": "Paul Abbott", "title": "CEO, Amex GBT (Long Lake portfolio company)", "entity": "Amex GBT" }
+  ],
+  "none_found": [],
+  "caveats": [
+    "Identity: llmh.com AI holdco, not Long Lake Insurance or The Taubman Company",
+    "Funding: $1.3B (Dealroom/Simplify) vs '$670M' late-2025 newsletter vs 'billions of permanent capital' in its job post",
+    "Deal count: '18 businesses' (late 2025) vs '30+' and '35th acquisition' (2026); names unpublished",
+    "Prior deal: Wold Architects acquisition not verifiable today; dropped",
+    "Co-founder: 'Zach Frankl' uncorroborated; dropped",
+    "Headcount: no published holdco figure (Simplify N/A); prior LinkedIn 11-50 not re-verified, so null",
+    "Role title: Ashby shows it as 'Finance' on the M&A team; prior pass called it 'M&A and Investments'",
+    "Founder LinkedIn: no verified URL; left null"
+  ],
+  "verified_on": "2026-10-08",
+  "verified_note": "careers page live"
+}

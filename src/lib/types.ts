@@ -119,3 +119,86 @@ export interface Source {
   name: "postgres" | "seed";
   detail: string;
 }
+
+/* -------------------------------------------------------------------------- */
+/* Company intel — the /company-intel profile attached to each lead.          */
+/* -------------------------------------------------------------------------- */
+
+/**
+ * The company-intel profile, field for field as the skill produces it
+ * (studio/skills/company-intel/SKILL.md, step 2). Every field is nullable on
+ * purpose: null is an honest gap, and a stealth company with a mostly-null
+ * profile is a correct result. Never backfill one with a plausible guess.
+ */
+export interface IntelProfile {
+  name: string | null;
+  description: string | null;
+  website: string | null;
+  location: string | null;
+  year_founded: string | null;
+  founder: string | null;
+  founder_linkedin: string | null;
+  /** Only an address published somewhere citable. Never pattern-generated. */
+  founder_email: string | null;
+  funding_detail: string | null;
+  headcount: string | null;
+  past_completed_deals: string | null;
+  /** A dated read of the live careers page, in one of the skill's four shapes. */
+  open_role: string | null;
+  contact_path: string | null;
+}
+
+export type VerdictKind = "buyer" | "target" | "role_open" | "watch";
+
+export interface IntelPerson {
+  name: string;
+  title?: string;
+  entity?: string;
+  linkedin?: string;
+  why?: string;
+  caveat?: boolean;
+}
+
+/**
+ * One lead's intel. `pass` says which research run it came from, so a six-week
+ * old read is never shown as if it were today's.
+ */
+export interface CompanyIntel {
+  companyId: string;
+  /** "2026-10-08" for the full company-intel pass; "2026-08-24" for the older profile-only pass. */
+  pass: string;
+  /** True when this pass ran the full skill (card sections included). */
+  full: boolean;
+  verifiedOn: string;
+  verifiedNote: string | null;
+
+  /** Source labels from ai-rollup.fyi. Carried through unchanged. */
+  priority: "priority" | "long_list" | null;
+  fundingTier: string | null;
+  flags: string[];
+
+  profile: IntelProfile;
+
+  verdict: { kind: VerdictKind; headline: string; detail?: string } | null;
+  tagline: string | null;
+  description: string | null;
+  stats: { value: string; label: string; caveat?: boolean }[];
+  headlines: { date?: string; text: string; source?: string; unconfirmed?: boolean }[];
+  ownership: { entity: string; detail?: string; since?: string; is_this?: boolean; is_former?: boolean }[];
+  deals: { date?: string; name: string; place?: string }[];
+  footprint: {
+    hq?: string;
+    bought?: string[];
+    branch?: string[];
+    customer?: string[];
+    notes?: { state?: string; text: string }[];
+  } | null;
+  competitors: { name: string; owner?: string; note?: string; is_acquired?: boolean }[];
+  bestContact: IntelPerson | null;
+  people: IntelPerson[];
+  /** Sections researched and found empty. A section absent here was not checked. */
+  noneFound: string[];
+  caveats: string[];
+  identityNote: string | null;
+  sources: string[];
+}

@@ -1,0 +1,163 @@
+[
+ {
+  "company_id": "00000000-0000-4000-8000-000000001007",
+  "name": "Crescendo",
+  "website": "https://www.crescendo.ai",
+  "known_hq": "US",
+  "sector": "Contact Center",
+  "funding_tier": "PE Growth / Series C-D",
+  "priority": "priority",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.crescendo.ai",
+   "year_founded": "2023",
+   "founder": "Matt Price (Co-founder & CEO), with co-founders Anand Chandrasekaran, Andy Lee, and Dr. Slava Zhakov - incubated at General Catalyst",
+   "founder_linkedin": "https://www.linkedin.com/in/growthspecialist/",
+   "founder_email": null,
+   "funding_detail": "$50M Series C at a $500M valuation, led by General Catalyst, joined by Celesta Capital and strategic partner Alorica (announced Oct 2, 2024)",
+   "headcount": "~1,900-2,700 (estimates vary; Revelio Labs cites ~2,668 as of March 2026), heavily weighted toward Honduras and the Philippines post-PartnerHero acquisition",
+   "past_completed_deals": "Acquired PartnerHero (Oct 2024) - added 200+ enterprise customers (Airtable, Khan Academy, sweetgreen, Toms, Udemy) and ~3,000 CX professionals; described at the time as the largest acquisition ever by an early-stage tech company. Combined company reported EBITDA positive with $50M+ ARR.",
+   "open_role": "No open roles found as of 2026-08-24 (careers page shows only a placeholder and directs candidates to email careers@crescendo.ai)",
+   "contact_path": "careers@crescendo.ai"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001017",
+  "name": "Pando",
+  "website": "https://pando.ai",
+  "known_hq": "US",
+  "sector": "Freight Audit/Payment",
+  "funding_tier": "Series B",
+  "priority": "priority",
+  "flags": [
+   "Generic name - target confirmed as pando.ai (Chennai/Mountain View freight-tech/TMS), not the unrelated HR-software 'Pando' Lattice acquired Aug 19 2026.",
+   "Pando itself was acquired by Fleetx.ai on 2026-08-20 (days before this research) - no longer a standalone acquirer prospect for a corp-dev hire; now the acquired party, continuing as a distinct brand under Fleetx.ai."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://pando.ai",
+   "year_founded": "2018",
+   "founder": "Nitin Jayakrishnan and Abhijeet Manohar (co-founders); both stepped back to board-only roles in early 2024 to launch a separate company, Freehand. Current Pando CEO as of 2026 is Badri Setlur.",
+   "founder_linkedin": "https://www.linkedin.com/in/nitinjayakrishnan/ (original founder); current CEO Badri Setlur: https://www.linkedin.com/in/badrisetlur/",
+   "founder_email": null,
+   "funding_detail": "~$45M total raised across 5 rounds. Series B $30M (May 2023) led by Iron Pillar and Uncorrelated Ventures, with Nexus Venture Partners, Chiratae Ventures, and Next47 participating.",
+   "headcount": "~150-152 employees (LinkedIn 51-200 band)",
+   "past_completed_deals": "No evidence Pando itself has acquired other companies. Pando was itself ACQUIRED by Fleetx.ai on 2026-08-20 (undisclosed terms; continues operating as a distinct brand, combined entity eyeing an IPO in 18-24 months).",
+   "open_role": "No corp-dev roles; hiring Fullstack Developer, Customer Success Manager, Product Support Engineer, Visual Designer (4 open roles, all Chennai, India) as of 2026-08-24",
+   "contact_path": "https://careers.pando.ai"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001027",
+  "name": "Crete Professionals Alliance",
+  "website": "https://www.current.co",
+  "known_hq": "US",
+  "sector": "Accounting",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "Rebranded from cretepa.com to current.co in June 2026."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.current.co",
+   "year_founded": "2023",
+   "founder": "Jake Sloane and Frank Zhang (also co-founders of ZBS Partners)",
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "Backed by Thrive Capital, ZBS Partners, Bessemer Venture Partners; committed $500M+ for accounting-firm acquisitions; parent Thrive Holdings separately raised ~$2B (SoftBank, D1 Capital, Altimeter) at $12B valuation",
+   "headcount": null,
+   "past_completed_deals": "Extensive - 30+ CPA/accounting firms acquired (e.g. Hawaii's Accuity), over $300M annual revenue across the network",
+   "open_role": "No corp-dev roles; hiring Finance & Accounting, Talent/HR (multiple open roles, e.g. Treasury Manager, FP&A Manager) as of 2026-08-28",
+   "contact_path": "https://www.current.co/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001037",
+  "name": "Ravin",
+  "website": "https://www.ravin.ai",
+  "known_hq": "US",
+  "sector": "Insurance TPA",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [
+   "High risk this is a mislabeled tracker entry: the actual ravin.ai is a 2018-founded UK/Israel computer-vision vendor for vehicle damage assessment - not a US Seed-stage TPA roll-up, and it sells software to insurers/TPAs rather than acquiring them. No better-fitting 'Ravin' TPA roll-up was found."
+  ],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://www.ravin.ai",
+   "year_founded": "2018",
+   "founder": null,
+   "founder_linkedin": null,
+   "founder_email": null,
+   "funding_detail": "$4M seed led by PICO Venture Partners, with Shell Ventures and Adam Draizin; ~$30-39M total raised across rounds per various trackers",
+   "headcount": null,
+   "past_completed_deals": "None found - Ravin is a computer-vision vendor selling into insurers/TPAs/fleets, not an acquirer of TPAs",
+   "open_role": "No corp-dev roles; hiring Customer Care, Product, Business Development, Engineering (8 open roles) as of 2026-08-28",
+   "contact_path": "https://www.ravin.ai/careers"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001047",
+  "name": "Fura",
+  "website": "https://fura.com",
+  "known_hq": "US",
+  "sector": "Freight Broker",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://fura.com",
+   "year_founded": "2021",
+   "founder": "Jeff Dangelo (Co-Founder and CEO)",
+   "founder_linkedin": "https://www.linkedin.com/in/jeff-dangelo-8a7107a/",
+   "founder_email": null,
+   "funding_detail": "$7M seed (2021); total raised ~$10M per Crunchbase, investors include R136 Ventures and Svyatoslav Vilde",
+   "headcount": null,
+   "past_completed_deals": "Acquired freight brokerages: Chaos Logistics (2021), AOK Freight (2022), Organizing Transport (2023), Pinwheel Logistics (Dec 2024), Barton Logistics (2026) - see fura.com/acquisitions. Recently partnered with Ten8.ai to run AI agents across operations.",
+   "open_role": "No open roles found as of 2026-08-28 (LinkedIn jobs tab showed none; individual brokers hiring sales reps informally via personal LinkedIn posts, not a formal listing)",
+   "contact_path": "https://www.linkedin.com/company/fura-inc (fura.com/careers not resolving)"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001057",
+  "name": "Longview",
+  "website": "https://longview.build",
+  "known_hq": "US",
+  "sector": "Restoration Services",
+  "funding_tier": "Seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://longview.build",
+   "year_founded": null,
+   "founder": "Joey Kim (Founder & CEO); background at McKinsey, prior restoration-company operator, GP at Takeoff Capital",
+   "founder_linkedin": "https://www.linkedin.com/in/joey-kim/",
+   "founder_email": null,
+   "funding_detail": "$5.0M seed led by Lowercarbon Capital (per search aggregator); site separately references $20M raised for a related restoration-software product, Albiware",
+   "headcount": "Reported as 1-4 (ZoomInfo); revenue reportedly crossed $15M across 5 locations",
+   "past_completed_deals": "Model is partnering with/acquiring restoration operators (site: 'Our CEOs & Operators' page) but no named acquisitions surfaced",
+   "open_role": "No corp-dev roles; hiring Customer Experience (1 open role: Flagship Customer Experience Liaison, Nashville) as of 2026-08-28",
+   "contact_path": "https://longview.build/hiring"
+  }
+ },
+ {
+  "company_id": "00000000-0000-4000-8000-000000001067",
+  "name": "Agent Astra",
+  "website": "https://agentastra.ai",
+  "known_hq": "US",
+  "sector": "Freight Forwarder",
+  "funding_tier": "Pre-seed",
+  "priority": "long_list",
+  "flags": [],
+  "prior_enrichment_2026_08_24": {
+   "website": "https://agentastra.ai",
+   "year_founded": "2022 (per Tracxn; unverified - seems early for a company in a16z Speedrun's 2025 cohort, treat with caution)",
+   "founder": "Pierre-Antoine Rohr-Lacoste (CEO); Amaury Soviche (co-founder)",
+   "founder_linkedin": "https://www.linkedin.com/in/parl1991/",
+   "founder_email": null,
+   "funding_detail": "Backed by a16z Speedrun (2025 cohort), Red Blue Capital, Earthling, Latitud, and Comma Capital - no dollar amount disclosed",
+   "headcount": null,
+   "past_completed_deals": null,
+   "open_role": "No public careers page found",
+   "contact_path": "hello@agentastra.ai"
+  }
+ }
+]
